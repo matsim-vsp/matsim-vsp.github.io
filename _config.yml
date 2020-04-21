@@ -1,5 +1,5 @@
 ---
-gems:
+plugins:
     - jekyll-redirect-from
 ---
 
