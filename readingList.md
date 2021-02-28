@@ -1,4 +1,4 @@
-[depositonce](www.depositonce.ub.tu-berlin.de)
+# This reading list is intended to provide an overview of various research areas in which MATSim is applied. A complete list of vsp papers can be found [here](https://www.vsp.tu-berlin.de/menue/forschung/publications/vspwp/). 
 
 [Autonomous Taxis](https://doi.org/10.14279/depositonce-6823)
 
