@@ -6,7 +6,11 @@ A complete list of vsp papers can be found [here](https://www.vsp.tu-berlin.de/m
 
 [Bicycles](https://doi.org/10.14279/depositonce-8348)
 
+[Decarbonization of Urban Traffic](https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-05/Dekarbonisierung_des_urbanen_Verkehrs_final.pdf)
+
 [DRT Rebalancing](https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-06/ITS_Hamburg_2021_Lu.pdf)
+
+[DRT and impact of trip density](https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-36/KaddouraSchlenther2020TripDensityDrt.pdf)
 
 [Noise](https://doi.org/10.1016/j.trd.2017.06.005)
 
