@@ -3,7 +3,9 @@ title: "VSP / TU Berlin"
 description: "Project pages"
 ---
 
-### VSP Websites you may be looking for:
+# VSP Technische Universität Berlin
+
+### Project websites you may be looking for:
 
 - [VSP Homepage](https://www.vsp.tu-berlin.de) - Department homepage for VSP at the Institute for
   Land and Sea Transport, TU Berlin
