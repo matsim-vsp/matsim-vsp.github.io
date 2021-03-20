@@ -1,4 +1,4 @@
-![VSP Logo](vsp-logo-300dpi.png =200x100) 
+![VSP Logo](vsp-logo-300dpi.png) 
 
 # VSP Technische Universität Berlin
 
