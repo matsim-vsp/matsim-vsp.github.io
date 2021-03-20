@@ -1,4 +1,6 @@
-# ![VSP Logo](vsp-logo-300dpi.png) VSP Technische Universität Berlin
+![VSP Logo](vsp-logo-300dpi.png) 
+
+# VSP Technische Universität Berlin
 
 ### Project websites you may be looking for:
 
