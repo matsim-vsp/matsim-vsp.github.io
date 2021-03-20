@@ -1,8 +1,3 @@
----
-title: "VSP / TU Berlin"
-description: "Project pages"
----
-
 # VSP Technische Universität Berlin
 
 ### Project websites you may be looking for:
