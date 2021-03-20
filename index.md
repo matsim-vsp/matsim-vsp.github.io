@@ -1,5 +1,6 @@
 ---
-title: VSP Technische Universität Berlin
+title: "VSP / TU Berlin"
+subtitle: "Project pages"
 ---
 
 ### VSP Websites you may be looking for:
@@ -13,4 +14,3 @@ title: VSP Technische Universität Berlin
 - [aftersim](https://aftersim.github.io) - Experimental model output visualization platform
 - [matsim.org](https://matsim.org) - MATSim home page
 - [reading list](readingList)
-
