@@ -1,6 +1,6 @@
 ---
 title: "VSP / TU Berlin"
-subtitle: "Project pages"
+description: "Project pages"
 ---
 
 ### VSP Websites you may be looking for:
