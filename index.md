@@ -8,8 +8,9 @@
   Land and Sea Transport, TU Berlin
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 simulation portal
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
-- [AVÖV](https://avoev-vsp.github.io) - AVÖV Website (automatisierter vernetzter öffentlicher
+- [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
   Verkehr)
 - [aftersim](https://aftersim.github.io) - Experimental model output visualization platform
 - [matsim.org](https://matsim.org) - MATSim home page
 - [reading list](readingList)
+
