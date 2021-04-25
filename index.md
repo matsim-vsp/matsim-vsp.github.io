@@ -13,4 +13,5 @@
 - [aftersim](https://aftersim.github.io) - Experimental model output visualization platform
 - [matsim.org](https://matsim.org) - MATSim home page
 - [reading list](readingList)
+- [interesting links](interestingLinks)
 
