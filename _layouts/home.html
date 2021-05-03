@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    {% include project-header.html %}
+
+    <div class="container">
+      <div id="simple-layout" class="row">
+        <!-- LEFT PANEL -->
+        <div class="col-md-3 col-lg-3 offset-lg-1">
+          <img style="margin-top: 2rem" width="80%" src="/img/logo-small.png" />
+          <div style="margin-top: 5rem; font-size: 1.3rem">
+            <p><b>Contact Us</b></p>
+            <p>
+              VSP TU Berlin <br />email: info.vsp@posteo.de <br />twitter:
+              VSPTUBerlin
+            </p>
+          </div>
+        </div>
+
+        <!-- RIGHT PANEL -->
+        <div class="col-md-9 col-lg-7 offset-lg-1">{{ content }}</div>
+      </div>
+    </div>
+
+    {% include contact.html %} {% include footer.html %} {% include js.html %}
+  </body>
+</html>

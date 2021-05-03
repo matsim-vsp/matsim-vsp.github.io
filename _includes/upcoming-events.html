@@ -1,0 +1,29 @@
+<div class="z-upcoming-events">
+    <div>
+        <h3>Upcoming events</h3>
+
+        <div class="z-events-table">
+            {% for post in site.events %}
+                {% unless post.time == 'TBD' %}
+                    {% capture postdate %}{{post.date | date: "%Y%m%d" | plus: 1}}{%endcapture%}
+                    {% capture today %}{{site.time | date: "%Y%m%d" | plus: 0}}{%endcapture%}
+                    {% if postdate >= today %}
+                        {% include one-event.html post=post %}
+                    {% endif %}
+                {% endunless %}
+            {% endfor %}
+        </div>
+    </div>
+    <div>
+
+        {% assign tbd = site.events | where: "time","TBD" %}
+
+        <h3>In development</h3>
+        <div class="z-events-table">
+            {% for post in tbd %}
+                {% include one-event.html post=post %}
+            {% endfor %}
+        </div>
+    </div>
+
+</div>

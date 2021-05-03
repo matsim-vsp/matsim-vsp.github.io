@@ -1,0 +1,70 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header page-scroll">
+      <button
+        class="navbar-toggle"
+        data-target="#bs-example-navbar-collapse-1"
+        data-toggle="collapse"
+        type="button"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <div class="navbar-brand">
+        <a href="/">
+          <img
+            alt="vsp logo"
+            class="d-inline-block align-top"
+            height="30"
+            src="/img/logo-small.png"
+            width="40"
+          />
+        </a>
+        <a class="zephyr page-scroll" href="/">&nbsp;&nbsp;{{ site.title }}</a>
+      </div>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a class="page-scroll" href="/about">About</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="/projects">Projects</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="/reading">Reading List</a>
+        </li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container -->
+</nav>
+
+<section id="home">
+  <!-- Header -->
+  <div
+    class="event-header img"
+    style="margin-bottom: 4rem; background:url('/img/{{ page.img }}' ) no-repeat center center; background-size: cover;"
+  >
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2">
+          <div class="intro-callout">
+            <p>{{ page.latest-update }}</p>
+          </div>
+        </div>
+        <div class="col-md-12 z-section-title">
+          <div class="intro-message"></div>
+        </div>
+      </div>
+    </div>
+    <!-- /.container -->
+  </div>
+  <!-- /.intro-header -->
+</section>

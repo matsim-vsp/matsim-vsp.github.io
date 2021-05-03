@@ -1,5 +1,44 @@
-name: "VSP TU Berlin"
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
 url: "https://vsp.berlin/"
-description: "VSP Project Sites"
-copyright: "(c) Technische Universität Berlin"
+
+title: VSP / TU Berlin
+
+email: info.vsp@posteo.de
+author: VSP TU Berlin
+description: Verkehrssystemplanung und Verkehrstelematik, Technische Universität Berlin
+copyright: "&copy; 2021 VSP TU Berlin"
 credits: ""
+
+permalink: /:categories/:year/:title:output_ext
+
+# ----------------------- #
+#   Look Settings         #
+# ----------------------- #
+
+top-bg-img: drt-traces.png
+# tunnel-swoosh-bg.jpg
+bottom-bh-img: nyc-bg.jpg
+highlight-color: 0daee1 #turquoise blue
+dark-gray-color: 4e4f58 #dark gray
+background-highlight: fafafa #light gray - blueish
+highlight-text: f8f8f8 #light gray
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/matsim-vsp
+  - title: twitter
+    url: https://twitter.com/VSPTUBerlin
