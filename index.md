@@ -2,6 +2,9 @@
 
 # VSP Technische Universität Berlin
 
+<mark>The TU Berlin exchange server has been attacked and in consequence is currently down.  It is unknown until when this will last.</mark>  We are currently setting up email addresses outside the TU system. The following already exist:
+- kai.nagel.vsp at posteo.net
+
 ### VSP Project websites you may be looking for:
 
 - [VSP Homepage](https://www.vsp.tu-berlin.de) - Department homepage for VSP at the Institute for
