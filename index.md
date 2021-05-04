@@ -23,11 +23,11 @@ img: banner-berlin.jpg
 
 We have set up temporary email addresses outside the TU system. To reach staff directly, use the formula
 
-`firstname.lastname.vsp @ posteo.de`
+`firstname.lastname.vsp @ posteo.net`
 
 So for example:
 
-- Kai Nagel can be emailed at `kai.nagel.vsp [at] posteo.de`
+- Kai Nagel can be emailed at `kai.nagel.vsp [at] posteo.net`
 - All full-time staff can be reached in the same manner.
 
 ---
