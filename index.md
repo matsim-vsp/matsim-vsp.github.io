@@ -47,7 +47,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.
 
 ---
 
-### Some further information
+### Weitere Informationen
 
 - [Leseliste](/readinglist)
-- [Interesting links](/interestinglinks)
+- [Interessante Links](/interestinglinks)

@@ -27,7 +27,7 @@ We have set up temporary email addresses outside the TU system. To reach staff d
 So for example:
 
 - Kai Nagel can be emailed at `kai.nagel.vsp [at] posteo.net`
-- All full-time staff can be reached in the same manner.
+- All regular staff can be reached in the same manner.
 
 ---
 
