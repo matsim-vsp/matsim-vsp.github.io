@@ -64,6 +64,13 @@ $headline-max-size: 10em;
     margin: 0;
   }
 }
+.home-column-container {
+  display: flex;
+  flex-direction: column;
+  @include media($large-screen-up) {
+    flex-direction: row;
+  }
+}
 
 .logo-column {
   padding-top: 3rem;
