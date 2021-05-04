@@ -4,7 +4,7 @@ title: Home
 headline: VSP
 ---
 
-<h1 style="margin: 2rem 0 0 0;">VSP: Transport Systems Planning and Telematics</h1>
+<h1 style="margin: 3rem 0 0 0;">VSP: Transport Systems Planning and Telematics</h1>
 
 <h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
 
