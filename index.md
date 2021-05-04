@@ -22,7 +22,18 @@ description: VSP TU Berlin
 
 ### Vorübergehende E-Mail-Adressen
 
-Wir haben temporäre E-Mail-Adressen außerhalb des TU-Systems eingerichtet. Um Mitarbeiter direkt zu erreichen, verwenden Sie die Formel
+Wir haben temporäre E-Mail-Adressen außerhalb des TU-Systems eingerichtet. Sie können uns unter folgenden Mail-Adressen erreichen:
+
+- Lehre TU Berlin: lehre.vsp@posteo.net
+
+- Bewerbungen: bewerbung.vsp@posteo.net
+
+- Sekretariat: sekretariat.vsp@posteo.net
+
+- Covid19-Forschung: ricardo.ewert.vsp@posteo.net
+
+
+Um Mitarbeiter direkt zu erreichen, verwenden Sie die Formel
 
 `firstname.lastname.vsp @ posteo.net`
 
