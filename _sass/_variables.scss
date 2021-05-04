@@ -81,7 +81,7 @@ $pre-spacing: null;
 $hr-spacing: null;
 
 // Font Colors
-$base-font-color: null;
+$base-font-color: #333;
 $faded-font-color: null;
 $blockquote-font-color: null;
 $figcaption-font-color: null;
@@ -152,3 +152,6 @@ $very-tall: max-aspect-ratio "1/2";
 // -----------------------------------------------------------------------------
 
 // Add project-specific variables here...
+// $heading-font-color: #1570b6;
+$heading-font-color: #7e333c;
+$tu-red: #cf0017;

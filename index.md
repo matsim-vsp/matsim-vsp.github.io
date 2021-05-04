@@ -6,9 +6,9 @@ banner_image: /assets/images/banner-berlin.jpg
 description: VSP TU Berlin
 ---
 
-# VSP: Verkehrssystemplanung und Verkehrstelematik
+<h1 style="margin: 2rem 0 0 0;">VSP: Verkehrssystemplanung und Verkehrstelematik</h1>
 
-### Technische Universität Berlin
+<h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
 
 ---
 

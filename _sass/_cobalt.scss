@@ -1,9 +1,8 @@
-
-    /////////    ////////    //////////      ////////    ///     /////////////
-  ///          ///      ///  ///      ///  ///      ///  ///          ///
-  ///          ///      ///  //////////    ////////////  ///          ///
-  ///          ///      ///  ///      ///  ///      ///  ///          ///
-    /////////    ////////    //////////    ///      ///  ///////////  ///
+/////////    ////////    //////////      ////////    ///     /////////////
+///          ///      ///  ///      ///  ///      ///  ///          ///
+///          ///      ///  //////////    ////////////  ///          ///
+///          ///      ///  ///      ///  ///      ///  ///          ///
+/////////    ////////    //////////    ///      ///  ///////////  ///
 
 /*!=============================================================================
 // Cobalt 1.1
@@ -13,88 +12,44 @@
 // =============================================================================
 */
 
-
-
-
 // Core Variables
 // -----------------------------------------------------------------------------
 
 // Dimensions
-$text-spacing: 1em;             // for localized spacing based on font-size
-$box-padding: 2rem;             // for unified padding in layout elements
-$text-max-width: 35em;          // maximum width for text elements
-$page-max-width: 56rem;         // maximum width for page layout
+$text-spacing: 1em; // for localized spacing based on font-size
+$box-padding: 2rem; // for unified padding in layout elements
+$text-max-width: 35em; // maximum width for text elements
+$page-max-width: 56rem; // maximum width for page layout
 
 // Colors
-$black-gray:  hsl(0, 0%, 16%);
-$white-gray:  hsl(0, 0%, 96%);
-$dark-gray:   mix($black-gray, $white-gray, 75%);
+$black-gray: hsl(0, 0%, 16%);
+$white-gray: hsl(0, 0%, 96%);
+$dark-gray: mix($black-gray, $white-gray, 75%);
 $medium-gray: mix($black-gray, $white-gray, 50%);
-$light-gray:  mix($black-gray, $white-gray, 25%);
+$light-gray: mix($black-gray, $white-gray, 25%);
 $blue: royalblue;
 
-$sans-serif: (
-  "Helvetica Neue",
-  "Helvetica",
-  sans-serif
-);
+$sans-serif: ("Helvetica Neue", "Helvetica", sans-serif);
 
-$serif: (
-  "Georgia",
-  serif
-);
+$serif: ("Georgia", serif);
 
-$monospace: (
-  "SF Mono",
-  "Menlo",
-  "Consolas",
-  monospace
-);
+$monospace: ("SF Mono", "Menlo", "Consolas", monospace);
 
-$system-font: (
-  system-ui,
-  -apple-system,
-  "Segoe UI",
-  "Roboto",
-  sans-serif
-);
+$system-font: (system-ui, -apple-system, "Segoe UI", "Roboto", sans-serif);
 
-$all-headings: (
-  'h1',
-  'h2',
-  'h3',
-  'h4',
-  'h5',
-  'h6'
-);
+$all-headings: ("h1", "h2", "h3", "h4", "h5", "h6");
 
-$text-block-elements: (
-  'p',
-  'blockquote',
-  'ul',
-  'ol',
-  'dl',
-  'details'
-);
+$text-block-elements: ("p", "blockquote", "ul", "ol", "dl", "details");
 
-$media-elements: (
-  'img',
-  'video',
-  'picture',
-  'svg'
-);
+$media-elements: ("img", "video", "picture", "svg");
 
-$embed-elements: (
-  'iframe',
-  'object',
-  'embed'
-);
+$embed-elements: ("iframe", "object", "embed");
 
 $all-buttons: (
-  'button',
+  "button",
   'input[type="button"]',
   'input[type="reset"]',
-  'input[type="submit"]',
+  'input[type="submit"]'
 );
 
 $all-text-inputs: (
@@ -111,12 +66,9 @@ $all-text-inputs: (
   'input[type="time"]',
   'input[type="url"]',
   'input[type="week"]',
-  'input:not([type])',
-  'textarea',
+  "input:not([type])",
+  "textarea"
 );
-
-
-
 
 // Mixins
 // -----------------------------------------------------------------------------
@@ -153,7 +105,7 @@ $all-text-inputs: (
     @for $n from 1 through $i {
       $first-selector: $first-selector + ">:first-child";
       $last-selector: $last-selector + ">:last-child";
-    };
+    }
     $first-child: append($first-child, $first-selector, "comma");
     $last-child: append($last-child, $last-selector, "comma");
   }
@@ -220,7 +172,7 @@ $all-text-inputs: (
 // Set vertical margins using $text-spacing multipliers
 // Can take one or two values for $vertical (single values apply to top/bottom).
 @mixin spacing($vertical) {
-  @if $vertical == 0 or ( nth($vertical, 1) == 0 and nth($vertical, 2) == 0 ) {
+  @if $vertical == 0 or (nth($vertical, 1) == 0 and nth($vertical, 2) == 0) {
     margin: 0;
   } @else if length($vertical) == 1 {
     margin: $text-spacing * $vertical 0;
@@ -230,7 +182,11 @@ $all-text-inputs: (
     } @else if nth($vertical, 2) == 0 {
       margin: $text-spacing * nth($vertical, 1) 0 0;
     } @else {
-      margin: $text-spacing * nth($vertical, 1) 0 $text-spacing * nth($vertical, 2);
+      margin: $text-spacing *
+        nth($vertical, 1)
+        0
+        $text-spacing *
+        nth($vertical, 2);
     }
   }
 }
@@ -238,14 +194,11 @@ $all-text-inputs: (
 // Remove the unit of a length
 // https://css-tricks.com/snippets/sass/strip-unit-function/
 @function strip-unit($number) {
-  @if type-of($number) == 'number' and not unitless($number) {
+  @if type-of($number) == "number" and not unitless($number) {
     @return $number / ($number * 0 + 1);
   }
   @return $number;
 }
-
-
-
 
 // Variables
 // -----------------------------------------------------------------------------
@@ -309,9 +262,6 @@ $base-border-width: 1px !default;
 $base-border: $base-border-width solid $base-border-color !default;
 $base-border-radius: 0.25em !default;
 
-
-
-
 // Cross-Browser Standard Rules
 // -----------------------------------------------------------------------------
 
@@ -327,45 +277,46 @@ html {
 *,
 *:before,
 *:after {
-  box-sizing: inherit;          // preserve box-sizing inheritance
+  box-sizing: inherit; // preserve box-sizing inheritance
 }
 
 body {
-  word-wrap: break-word;        // same as `overflow-wrap`, for IE and Edge
-  overflow-wrap: break-word;    // prevent very long words from overflowing
+  word-wrap: break-word; // same as `overflow-wrap`, for IE and Edge
+  overflow-wrap: break-word; // prevent very long words from overflowing
 }
 
 main,
 details {
-  display: block;               // correct display in older browsers
+  display: block; // correct display in older browsers
 }
 
 summary {
-  display: list-item;           // correct display in older browsers
+  display: list-item; // correct display in older browsers
 }
 
 [hidden] {
-  display: none;                // correct display in older browsers
+  display: none; // correct display in older browsers
 }
 
 abbr[title] {
-  cursor: help;                 // let browsers decide on text-decoration
+  cursor: help; // let browsers decide on text-decoration
 }
 
-b, strong {
-  font-weight: bolder;          // correct font weight in Chrome, Edge, Safari
+b,
+strong {
+  font-weight: bolder; // correct font weight in Chrome, Edge, Safari
 }
 
-small, sub, sup {
-  font-size: 0.75em;            // standardize on an integer (16 * 0.75 = 12px)
+small,
+sub,
+sup {
+  font-size: 0.75em; // standardize on an integer (16 * 0.75 = 12px)
 }
 
-sub, sup {
-  line-height: 0;               // avoid affecting normal line-height
+sub,
+sup {
+  line-height: 0; // avoid affecting normal line-height
 }
-
-
-
 
 // Base Styles
 // -----------------------------------------------------------------------------
@@ -407,12 +358,25 @@ p {
   @include spacing($heading-spacing);
 }
 
-h1 { font-size: $h1-font-size }
-h2 { font-size: $h2-font-size }
-h3 { font-size: $h3-font-size }
-h4 { font-size: $h4-font-size }
-h5 { font-size: $h5-font-size }
-h6 { font-size: $h6-font-size }
+h1 {
+  font-size: $h1-font-size;
+}
+h2 {
+  font-size: $h2-font-size;
+}
+h3 {
+  color: $heading-font-color;
+  font-size: $h3-font-size;
+}
+h4 {
+  font-size: $h4-font-size;
+}
+h5 {
+  font-size: $h5-font-size;
+}
+h6 {
+  font-size: $h6-font-size;
+}
 
 blockquote {
   color: $blockquote-font-color;
@@ -431,17 +395,21 @@ blockquote {
   }
 }
 
-ul, ol, dl {
+ul,
+ol,
+dl {
   @include spacing($list-spacing);
 }
 
-ul, ol {
+ul,
+ol {
   padding: 0;
   @if $reset-list-styles == true {
     list-style-type: none;
   }
-  
-  ul, ol {
+
+  ul,
+  ol {
     margin: 0;
   }
 }
@@ -451,7 +419,9 @@ dd {
 }
 
 @if $reset-list-styles != true {
-  ul, ol, dd {
+  ul,
+  ol,
+  dd {
     padding-left: $list-indent;
     @supports (-webkit-padding-start: 1em) {
       padding-left: 0;
@@ -480,7 +450,8 @@ figure {
     @include spacing($figure-children-spacing);
   }
   > {
-    #{$media-elements, $embed-elements} {
+    #{$media-elements,
+    $embed-elements} {
       display: block;
     }
   }
@@ -496,8 +467,9 @@ details {
 }
 
 summary {
-  #{$all-headings} {            // summary may contain a single heading element
-    display: inline;            // ignore margins and align with triangle icon
+  #{$all-headings} {
+    // summary may contain a single heading element
+    display: inline; // ignore margins and align with triangle icon
   }
 }
 
@@ -507,27 +479,26 @@ hr {
   @include spacing($hr-spacing);
 }
 
-#{$media-elements, $embed-elements} {
-  max-width: 100%;              // avoid horizontal overflow
+#{$media-elements,
+$embed-elements} {
+  max-width: 100%; // avoid horizontal overflow
 }
 
 #{$media-elements} {
-  height: auto;                 // correct elements with `height` HTML attribute
+  height: auto; // correct elements with `height` HTML attribute
 }
 
 #{$embed-elements} {
-  border: 0;                    // remove default `frameborder`
+  border: 0; // remove default `frameborder`
   display: block;
 }
 
 @if $limit-text-width == true {
-  #{$text-block-elements, $all-headings} {
+  #{$text-block-elements,
+  $all-headings} {
     max-width: $text-max-width;
   }
 }
-
-
-
 
 // Tables
 // -----------------------------------------------------------------------------
@@ -539,26 +510,30 @@ $table-padding: $text-spacing !default;
 $thead-background-color: $white-gray !default;
 
 @if $include-table-styles == true {
-  
   table {
     border: $table-border;
     border-collapse: collapse;
     width: 100%;
     @include spacing($table-spacing);
   }
-  
-  caption, thead, tfoot, tbody th {
+
+  caption,
+  thead,
+  tfoot,
+  tbody th {
     background-color: $thead-background-color;
   }
-  
-  caption, th, td {
+
+  caption,
+  th,
+  td {
     padding: $table-padding;
     text-align: left;
     text-align: start;
     vertical-align: middle;
     @include flush-margins(1);
   }
-  
+
   caption {
     border: $table-border;
     border-bottom: 0;
@@ -567,30 +542,30 @@ $thead-background-color: $white-gray !default;
       border-bottom: $table-border;
     }
   }
-  
+
   thead {
     border-bottom: $table-border;
   }
-  
-  tfoot, tbody + tbody {
+
+  tfoot,
+  tbody + tbody {
     border-top: $table-border;
   }
-  
-  th, td {
+
+  th,
+  td {
     &:not(:last-child) {
       border-right: $table-border;
     }
   }
-  
+
   tr:not(:last-child) {
-    th, td {
+    th,
+    td {
       border-bottom: $table-border;
     }
   }
 }
-
-
-
 
 // Code
 // -----------------------------------------------------------------------------
@@ -612,25 +587,31 @@ $pre-padding: 1rem !default;
 $pre-tab-size: 2 !default;
 
 @if $include-code-styles == true {
-  
-  pre, code, samp, kbd {
+  pre,
+  code,
+  samp,
+  kbd {
     font-family: $monospace;
   }
-  
-  code, samp, kbd {
+
+  code,
+  samp,
+  kbd {
     background-color: $code-background-color;
     border-radius: $code-border-radius;
     color: $code-font-color;
     font-size: $code-font-size;
     padding: $code-padding;
   }
-  
-  pre code, code code {           // reset styles and avoid compounding font-size
+
+  pre code,
+  code code {
+    // reset styles and avoid compounding font-size
     background-color: transparent;
     font-size: 1em;
     padding: 0;
   }
-  
+
   pre {
     background-color: $pre-background-color;
     border-radius: $pre-border-radius;
@@ -641,14 +622,11 @@ $pre-tab-size: 2 !default;
     overflow: auto;
     padding: $pre-padding;
     tab-size: $pre-tab-size;
-    word-wrap: normal;            // same as `overflow-wrap`, for IE and Edge
-    overflow-wrap: normal;        // never break words, overflow is expected
+    word-wrap: normal; // same as `overflow-wrap`, for IE and Edge
+    overflow-wrap: normal; // never break words, overflow is expected
     @include spacing($pre-spacing);
   }
 }
-
-
-
 
 // Forms
 // -----------------------------------------------------------------------------
@@ -668,7 +646,6 @@ $form-element-spacing: 0.5 !default;
 $fieldset-spacing: 1 !default;
 
 @if $include-form-styles == true {
-  
   button,
   input,
   select,
@@ -676,7 +653,7 @@ $fieldset-spacing: 1 !default;
     font-family: inherit;
     font-size: 1em;
   }
-  
+
   #{$all-buttons} {
     -webkit-appearance: button;
     background-color: $button-color;
@@ -692,7 +669,7 @@ $fieldset-spacing: 1 !default;
     text-align: center;
     vertical-align: middle;
     white-space: normal;
-    
+
     &:hover {
       background-color: $button-hover-color;
     }
@@ -703,7 +680,7 @@ $fieldset-spacing: 1 !default;
       background-color: $button-color;
     }
   }
-  
+
   #{$all-text-inputs},
   input[type="file"] {
     -webkit-appearance: none;
@@ -716,57 +693,69 @@ $fieldset-spacing: 1 !default;
     @if length($input-padding) <= 2 {
       height: nth($input-padding, 1) * 2 + strip-unit($base-line-height) * 1em;
     } @else {
-      height: nth($input-padding, 1) + nth($input-padding, 3) + strip-unit($base-line-height) * 1em;
+      height: nth($input-padding, 1) +
+        nth($input-padding, 3) +
+        strip-unit($base-line-height) *
+        1em;
     }
     padding: $input-padding;
     width: 100%;
     @include spacing($form-element-spacing);
   }
-  
+
   input[type="range"],
   select {
     display: block;
     width: 100%;
     @include spacing($form-element-spacing);
   }
-  
+
   input[type="file"] {
     height: auto;
     line-height: 0;
   }
-  
+
   input[type="search"]::-webkit-search-decoration {
     -webkit-appearance: none;
   }
-  
+
   textarea {
     @if length($input-padding) <= 2 {
-      min-height: (nth($input-padding, 1) * 2 + strip-unit($base-line-height) * 1em) * 2;
+      min-height: (
+          nth($input-padding, 1) * 2 + strip-unit($base-line-height) * 1em
+        ) *
+        2;
     } @else {
-      min-height: (nth($input-padding, 1) + nth($input-padding, 3) + strip-unit($base-line-height) * 1em) * 2;
+      min-height: (
+          nth($input-padding, 1) +
+            nth($input-padding, 3) +
+            strip-unit($base-line-height) *
+            1em
+        ) *
+        2;
     }
     resize: vertical;
   }
-  
+
   input::placeholder {
     color: $input-placeholder-color;
   }
-  
+
   button:disabled,
   input:not([type="radio"]):not([type="checkbox"]):disabled {
     opacity: 0.5;
   }
-  
+
   button:disabled,
   input:disabled {
     cursor: unset;
   }
-  
+
   label {
     font-weight: bolder;
     @include spacing($form-element-spacing);
   }
-  
+
   fieldset {
     background-color: transparent;
     border: $base-border;
@@ -774,21 +763,18 @@ $fieldset-spacing: 1 !default;
     min-width: auto;
     padding: $text-spacing / 2 $text-spacing $text-spacing;
     @include spacing($fieldset-spacing);
-    
+
     > :first-child,
     > legend + * {
       margin-top: 0;
     }
-    
+
     > :last-child {
       margin-bottom: 0;
     }
   }
-  
+
   legend {
     font-weight: bolder;
   }
 }
-
-
-
