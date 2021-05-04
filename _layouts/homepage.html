@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% include i18n/i18n %}
+
+<div class="banner">
+  {% if page.banner_image or default_page.banner_image %}
+  <img
+    src="{{ page.banner_image | default: default_page.banner_image | prepend: site.baseurl }}"
+    alt=""
+  />
+  {% endif %}
+  <h1 class="headline">{{ page.headline }}</h1>
+</div>
+
+<div class="page wrapper">
+  <div style="display: flex; flex-direction: row">
+    <div class="logo-column">
+      <img src="/assets/images/vsp-logo.png" />
+    </div>
+
+    <div class="page-content text text-wrapper" style="flex: 1">
+      {{ content }}
+    </div>
+  </div>
+</div>

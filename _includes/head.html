@@ -1,39 +1,27 @@
-<head lang="en">
+<head>
   <meta charset="utf-8" />
-  <meta content="IE=edge" http-equiv="X-UA-Compatible" />
-  <meta content="width=device-width, initial-scale=1" name="viewport" />
-  <meta name="description" content="{{ site.description }}" />
-  <meta name="author" content="{{ site.author }}" />
-
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>
-    {% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %}
+    {{ site.title | escape }}{% if page.title %} — {{ page.title | escape }}{%
+    endif %}
   </title>
 
-  <!-- Bootstrap Core CSS -->
-  <link href="{{ '/css/bootstrap.min.css' | absolute_url }}" rel="stylesheet" />
-
-  <!-- Custom CSS -->
-  <link href="{{ '/css/landing-page.css' | absolute_url }}" rel="stylesheet" />
-
-  <!-- Custom Fonts -->
-  <link rel="preconnect" href="https://fonts.gstatic.com" />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
-    rel="stylesheet"
-  />
-  <link
-    href="https://fonts.googleapis.com/css?family=Cabin:400,700&amp;subset=latin-ext"
-    rel="stylesheet"
-    type="text/css"
-  />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
 
   <!-- Favicon -->
   <link
     rel="shortcut icon"
-    href="{{ '/img/favicon.png' | absolute_url }}"
+    href="{{ '/assets/images/favicon.png' | absolute_url }}"
     type="image/x-icon"
   />
 
-  <!-- New Styles! Woot -->
-  <link href="{{ '/css/vsp-2021.css' | absolute_url }}" rel="stylesheet" />
+  {% for localized_page in localized_pages %} {% unless localized_page.locale ==
+  page.locale %}
+  <link
+    rel="alternate"
+    hreflang="{{ localized_page.lang }}"
+    href="{{ site.url }}{{ site.baseurl }}{{ localized_page.url }}"
+  />
+  {% endunless %} {% endfor %} {% seo title=false %}
 </head>

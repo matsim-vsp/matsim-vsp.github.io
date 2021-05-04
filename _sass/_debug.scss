@@ -1,0 +1,74 @@
+.debug {
+  margin: 0;
+  summary {
+    padding: $box-padding * 0.5 $box-padding;
+    color: $medium-gray;
+    background: gainsboro;
+    cursor: pointer;
+    text-align: center;
+  }
+  &[open] summary {
+    color: inherit;
+  }
+}
+
+.debug-panel {
+  background: black;
+  color: yellowgreen;
+  font-family: SF Mono, monospace;
+  font-size: 0.875em;
+  direction: ltr;
+  padding: 0 $box-padding;
+  
+  > .wrapper {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: $page-max-width - 2 * $box-padding;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+  
+  pre {
+    color: inherit;
+    background: transparent;
+  }
+  
+  > .wrapper > * {
+    margin: 0;
+  }
+  > .wrapper >  * + * {
+    margin-top: 1.5em;
+  }
+  
+  i {
+    font-style: normal;
+    color: #888;
+  }
+  
+  dd {
+    color: white;
+    padding-left: $box-padding * 0.5;
+  }
+  
+  dt strong {
+    color: yellow;
+  }
+  
+  @supports (display: grid) {
+    @include media(min-width 40em) {
+      dl {
+        display: grid;
+        grid-template-columns: 16em minmax(16em, 1fr);
+      }
+      dt {
+        grid-column: 1;
+      }
+      dd {
+        grid-column: 2;
+      }
+    }
+  }
+}

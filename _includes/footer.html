@@ -1,23 +1,16 @@
-<!-- Footer -->
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8">
-        <ul class="list-inline">
-          <li>
-            <a href="/#home">Home</a>
-          </li>
-          <li class="footer-menu-divider">&sdot;</li>
-          <li>
-            <a href="/about">About</a>
-          </li>
-        </ul>
-        <p class="copyright text-muted small">
-          {{ site.copyright }}
-          <a href="/impressum">Impressum</a>
-        </p>
-      </div>
-      <div class="col-md-4" style="font-size: 12px">{{ site.credits }}</div>
-    </div>
-  </div>
+<footer class="site-footer" role="contentinfo" lang="en" dir="ltr">
+  <div class="wrapper">
+    <p style="font-size: 0.9rem">
+      <strong>{{ site.title }}</strong><br />
+      {{ site.description }}<br />
+      &copy; 2021 TU Berlin. <a href="/impressum">Impressum</a>
+    </p>
+
+    <!--
+    <p>
+      <a class="github-button" href="https://github.com/{{ site.repository }}" data-size="large" aria-label="View {{ site.repository }} on GitHub">View on GitHub</a>
+    </p>
+  --></div>
 </footer>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>

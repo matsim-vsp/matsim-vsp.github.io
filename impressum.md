@@ -1,100 +1,94 @@
 ---
 title: Impressum
-layout: simple
 ---
 
-The website of the Technische Universität Berlin consists of numerous offers from various institutions. The editorial responsibility lies with the respective bodies such as faculties, institutes, central institutions, administrative bodies, etc. or persons who have created the pages. If you have any questions about a page, please contact the author responsible for the page in question (information given at the bottom of each page).
+Das Webangebot der Technischen Universität Berlin besteht aus zahlreichen Angeboten verschiedener Einrichtungen. Die redaktionelle Verantwortlichkeit liegt bei den jeweiligen Stellen wie etwa Fakultäten, Institute, Zentraleinrichtungen, Verwaltungseinrichtungen etc. oder Personen, die die Seiten erstellt haben. Falls Sie Fragen zu einer Seite haben, wenden Sie sich bitte an die zuständige Autorin oder den zuständigen Autor der entsprechenden Seite (Angabe jeweils im Fuß der Seite).
 
-### Central address of the TU Berlin
+## Zentrale Adresse der TU Berlin
 
-Berlin University of Technology
+    Technische Universität Berlin
+    Der Präsident
+    Prof. Dr. Christian Thomsen
+    Straße des 17. Juni 135
+    10623 Berlin
+    E-Mail-Anfrage
+    www.tu-berlin.de
 
-The President Prof. Dr. Christian Thomsen
+Die Technische Universität Berlin ist eine Körperschaft öffentlichen Rechts gemäß §§ 1 und 2 des Berliner Hochschulgesetzes (BerlHG) und zugleich eine staatliche Einrichtung. Sie wird durch den Präsidenten gesetzlich vertreten. Der Name "Technische Universität Berlin" wird nicht ins Englische übersetzt.
 
+### Rechtsaufsicht
+
+[Der Regierende Bürgermeister von Berlin - Senatskanzlei](https://www.berlin.de/rbmskzl/)
+
+### Umsatzsteueridentifikationsnummer
+
+- USt-Id-Nr.: DE 811 231 089
+
+## Ansprechpartner
+
+Die Webseiten der TU Berlin sind dezentral organisiert und werden von den einzelnen Einrichtungen selbst gepflegt. Bei Fragen und Anregungen wenden Sie sich bitte an die jeweils im Fuß der Seite genannte verantwortliche Stelle.
+
+## Herausgeber
+
+```
+Stabsstelle Kommunikation, Events und Alumni
 Straße des 17. Juni 135
-
 10623 Berlin
-
-[www.tu-berlin.de](www.tu-berlin.de)
-
-#### Legal Supervision
-
-[The Governing Mayor of Berlin
-Senate Chancellery](https://www.berlin.de/rbmskzl/)
-
-#### Sales tax identification number
-
-VAT ID No.: DE 811 231 089
-
-### Contact person
-
-The TU Berlin websites are organized in a decentralized manner and are maintained by the individual institutions themselves. If you have any questions or suggestions, please contact the responsible office listed at the bottom of the page. Further contact options can be found at [Contact](https://www.tu.berlin/footer/kontakt/).
-
-### Publisher
-
-Office of Communications, Events and Alumni
-
-Straße des 17. Juni 135
-10623 Berlin
-
-Phone: +49 (0)30 314-23922 or -22919
-
+Tel.: +49 (0)30 314-23922 oder -22919
 Fax: +49 (0)30 314-23909
+E-Mail-Anfrage
+www.pressestelle.tu-berlin.de
+```
 
-[www.pressestelle.tu-berlin.de](https://www.pressestelle.tu-berlin.de)
+### Technische Durchführung
 
-#### Technical implementation
+Zentraleinrichtung Campusmanagement (ZECM)
+E-Mail-Anfrage
+www.campusmanagement.tu-berlin.de
 
-Central Campus Management (ZECM)
+### IT-Richtlinien der TU Berlin
 
-[www.campusmanagement.tu-berlin.de](www.campusmanagement.tu-berlin.de)
+    Online-Styleguide: Gestaltungsregeln und Regeln für die CD-konforme Weiterentwicklung der TU-Berlin-Website (nur TU-interner Zugriff)
+    Entwurf des Rechtekonzeptes für TYPO3@TUB (November 2007)
+    Rahmenordnung für die informationstechnischen Einrichtungen der TU Berlin (Januar 2007)
+    Verletzungen des Urheberrechts vermeiden (August 1999)
+    Rahmenregelungen zum Internet-Dienst WWW (August 1996)
 
-#### IT Guidelines of the TU Berlin
+## Haftungsausschluss (Disclaimer)
 
-[Online-Styleguide](https://www.pressestelle.tu-berlin.de/styleguide/): Design rules and rules for the CD-compliant development of the TU Berlin website (TU internal access only)
+### Inhalt des Onlineangebotes
 
-[Draft of the rights concept for TYPO3@TUB](https://www.vsp.tu-berlin.de/fileadmin/fg38/dokumentation/pdf/071101_rechtekonzept.pdf) (November 2007)
+Die Inhalte dieser Website werden mit größtmöglicher Sorgfalt recherchiert und implementiert. Fehler im Bearbeitungsvorgang sind dennoch nicht auszuschließen. Hinweise und Korrekturen senden Sie bitte an die Pressestelle.
 
-[Framework for the information technology facilities of the TU Berlin](https://www.vsp.tu-berlin.de/fileadmin/a40000000/tubIT/ordnungen/rahmenordnung-it.pdf) (January 2007)
+Der Herausgeber übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Herausgeber, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Herausgebers kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt.
 
-[Avoiding Copyright Infringements](https://www.vsp.tu-berlin.de/fileadmin/a40000000/tubIT/ordnungen/ie1-99-08-03.html) (August 1999)
+Alle Angebote sind freibleibend und unverbindlich. Der Herausgeber behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-[Framework Regulations for the Internet Service WWW](https://www.vsp.tu-berlin.de/fileadmin/a40000000/tubIT/ordnungen/www-richtlinien.html) (August 1996)
+### Verweise und Links
 
-### Disclaimer.
+Bei direkten oder indirekten Verweisen auf fremde Webseiten ("Hyperlinks"), die außerhalb des Verantwortungsbereiches des Herausgebers liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem der Herausgeber von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.
 
-#### Content of the online offer
+Der Herausgeber erklärt hiermit ausdrücklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verknüpften Seiten hat der Herausgeber keinerlei Einfluss. Deshalb distanziert er sich hiermit ausdrücklich von allen Inhalten aller verlinkten /verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge in vom Autor eingerichteten Gästebüchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe möglich sind. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist.
 
-The contents of this website are researched and implemented with the greatest possible care. Nevertheless, errors in the editing process cannot be ruled out. Please send any comments or corrections to the press office.
+### Urheber- und Kennzeichenrecht
 
-The publisher accepts no responsibility for the topicality, correctness, completeness or quality of the information provided. Liability claims against the publisher, which refer to damages of a material or non-material nature, which were caused by the use or non-use of the information provided or by the use of incorrect and incomplete information, are fundamentally excluded, insofar as there is no demonstrable intentional or grossly negligent fault on the part of the publisher.
+Der Herausgeber ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Ton- und Videodokumente sowie Texte zu beachten, von ihm selbst erstellte Bilder, Grafiken, Ton- und Videodokumente sowie Texte zu nutzen oder auf lizenzfreie Grafiken, Ton- und Videodokumente sowie Texte zurückzugreifen.
 
-All offers are subject to change and non-binding. The publisher expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to discontinue publication temporarily or permanently.
+Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!
 
-#### References and links
+Das Copyright für veröffentlichte, vom Herausgeber selbst erstellte Inhalte und Objekte bleibt allein beim Herausgeber der Seiten. Eine Vervielfältigung, Verarbeitung, Einspeicherung oder Verwendung solcher Grafiken, Ton- und Videodokumente sowie Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet. Unberührt davon bleibt das Kopieren und Herunterladen für den privaten, wissenschaftlichen und nicht kommerziellen Gebrauch. Wir erlauben ausdrücklich und begrüßen das Zitieren unserer Dokumente und Webseiten sowie das Setzen von Links auf unsere Website.
 
-The publisher is not responsible for any contents linked or referred to from his pages - unless he has full knowledge of illegal contents and would be able to prevent the visitors of his site fromviewing those pages.
+### Datenschutz
 
-The publisher hereby expressly declares that at the time of linking, no illegal content was recognizable on the linked pages. The publisher has no influence on the current and future design, content or authorship of the linked pages. Therefore, he hereby expressly dissociates himself from all contents of all linked pages that were changed after the link was set. This statement applies to all links and references set within the own Internet offer as well as to external entries in guest books, discussion forums, link directories, mailing lists and all other forms of databases set up by the author, to whose content external write access is possible. For illegal, incorrect or incomplete contents and especially for damages resulting from the use or non-use of such information, only the provider of the site referred to is liable, not the one who has linked to the respective publication.
+Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet. Die Nutzung der im Rahmen des Impressums oder vergleichbarer Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie Emailadressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen ist nicht gestattet. Rechtliche Schritte gegen die Versender von so genannten Spam-Mails bei Verstößen gegen dieses Verbot sind ausdrücklich vorbehalten.
 
-#### Copyright and trademark law
+#### Weitere Informationen zum Thema Datenschutz an der TU Berlin:
 
-The publisher endeavors to observe the copyrights of the images, graphics, sound and video documents as well as texts used in all publications, to use images, graphics, sound and video documents as well as texts created by himself or to use license-free graphics, sound and video documents as well as texts.
+- [Datenschutzerklärung](https://www.tu-berlin.de/allgemeine_seiten/datenschutz/)
+- [Datenschutzbeauftragte](http://www.datensicherheit.tu-berlin.de/)
 
-All brand names and trademarks mentioned on the website and possibly protected by third parties are subject without restriction to the provisions of the applicable trademark law and the ownership rights of the respective registered owners. The mere mention of a trademark does not imply that it is not protected by the rights of third parties!
+### Rechtswirksamkeit dieses Haftungsausschlusses
 
-The copyright for published content and objects created by the publisher himself remains solely with the publisher of the pages. Any duplication, processing, storage or use of objects such as diagrams, sounds or texts in other electronic or printed publications is not permitted without the author's agreement. This does not affect copying and downloading for private, scientific and non-commercial use. We expressly permit and welcome the citation of our documents and web pages as well as the setting of links to our website.
+Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
 
-#### Data protection
-
-If the opportunity for the input of personal or business data (email addresses, name, addresses) is given, the input of these data takes place voluntarily. The use and payment of all offered services are permitted - if and so far technically possible and reasonable - without specification of any personal data or under specification of anonymized data or an alias. The use of published postal addresses, telephone or fax numbers and email addresses for marketing purposes is prohibited, offenders sending unwanted spam messages will be punished. We expressly reserve the right to take legal action against the senders of so-called spam mails in the event of violations of this prohibition.
-
-Further information on data protection at the TU Berlin:
-
-[Privacy Policy](https://www.tu-berlin.de/allgemeine_seiten/datenschutz/)
-
-[Data Protection Officer](https://www.tu-berlin.de/?id=18825)
-
-#### Legality of this disclaimer
-
-This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.
+Zuletzt aktualisiert: 23.01.20

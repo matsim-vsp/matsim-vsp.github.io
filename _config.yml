@@ -1,44 +1,89 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
-url: "https://vsp.berlin"
-
+---
 title: VSP / TU Berlin
-
-email: info.vsp@posteo.de
-author: VSP TU Berlin
+url: https://vsp.berlin
+#url: http://127.0.0.1:4000/
+baseurl: ""
+repository: matsim-vsp/matsim-vsp.github.io
 description: Verkehrssystemplanung und Verkehrstelematik, Technische Universität Berlin
-copyright: "&copy; 2021 VSP TU Berlin"
-credits: ""
 
-permalink: /:categories/:year/:title:output_ext
+locales:
+  default:
+    baseurl: ""
+    # name: Deutsch
+    name: 🇩🇪 DE
+    lang: de-DE
+  en:
+    baseurl: /en
+    # name: English
+    name: 🇺🇸 EN
+    lang: en-US
 
-# ----------------------- #
-#   Look Settings         #
-# ----------------------- #
+collections:
+  posts:
+    output: true
+    permalink: /blog/:categories/:title/
+  photos:
+    output: true
+    permalink: /fotos/:path/
+  pages_en:
+    output: true
+    permalink: /en/:path/
+  posts_en:
+    output: true
+    permalink: /en/blog/:categories/:title/
+  photos_en:
+    output: true
+    permalink: /en/fotos/:path/
 
-top-bg-img: drt-traces.png
-# tunnel-swoosh-bg.jpg
-bottom-bh-img: nyc-bg.jpg
-highlight-color: 0daee1 #turquoise blue
-dark-gray-color: 4e4f58 #dark gray
-background-highlight: fafafa #light gray - blueish
-highlight-text: f8f8f8 #light gray
+permalink: pretty
 
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
+defaults:
+  # set page.collection_basename to match collections
+  - scope:
+      type: pages
+    values:
+      layout: page
+      collection_basename: pages
+  - scope:
+      path: "_pages*/"
+    values:
+      layout: page
+      collection_basename: pages
+  - scope:
+      path: "_posts*/"
+    values:
+      layout: post
+      collection_basename: posts
+  - scope:
+      path: "_photos*/"
+    values:
+      layout: photo
+      collection_basename: photos
+  # set page.locale, page.lang, page.collection_suffix
+  - scope:
+      path: "*_en/"
+    values:
+      locale: en
+      lang: en-US
+      collection_suffix: _en
+  - scope:
+      path: ""
+    values:
+      locale: default
+      lang: de-DE
+  # prevent index pages from publishing to baseurl/index/index.html
+  - scope:
+      path: "_pages_en/index.*"
+    values:
+      permalink: "/en/"
 
-# Build settings
-markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-github-metadata
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-social:
-  - title: github
-    url: https://github.com/matsim-vsp
-  - title: twitter
-    url: https://twitter.com/VSPTUBerlin
+navigation:
+  - index
+  - updates
+  - readinglist

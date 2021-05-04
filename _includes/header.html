@@ -1,33 +1,12 @@
-<!-- Navigation -->
-{% include nav.html %}
-
-<section id="home">
-  <!-- Header -->
-  <div class="intro-header">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-2" style="z-index: 100">
-          <div class="intro-callout"></div>
-        </div>
-        <div class="col-md-10">
-          <div class="intro-message">
-            <h1 class="zephyr">{{ page.title }}</h1>
-            <h3 class="highlight-text z-hero-subtitle">{{ page.subTitle }}</h3>
-
-            <br />
-            <div class="z-social-buttons">
-              {% for social in site.social %}
-              <a href="{{ social.url }}" class="btn btn-default btn-lg">
-                <i class="fab fa-{{ social.title }} fa-fw"></i>
-                <span class="network-name">{{ social.title }}</span>
-              </a>
-              {% endfor %}
-            </div>
-          </div>
-        </div>
-      </div>
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    
+    <a class="site-title" href="{{ site.baseurl }}{{ locale.baseurl }}/">{{ site.title | escape }}</a>
+    
+    <div class="navigation">
+      {% include site-nav.html %}
+      {% include lang-switcher.html %}
     </div>
-    <!-- /.container -->
+    
   </div>
-  <!-- /.intro-header -->
-</section>
+</header>

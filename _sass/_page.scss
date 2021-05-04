@@ -1,0 +1,72 @@
+.page-header {
+  border-bottom: 1px solid;
+  padding-bottom: $box-padding;
+  margin-bottom: $box-padding;
+}
+
+.page-title {
+  font-size: 2em;
+  margin: 0;
+}
+
+.page-meta {
+  color: $medium-gray;
+  font-size: 0.875em;
+  margin: 1em 0 0;
+}
+
+$banner-max-height: 20em;
+$headline-max-size: 10em;
+
+.banner {
+  position: relative;
+  background-color: $dark-gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15em;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .headline {
+    color: white;
+    margin: 0;
+    line-height: 1;
+    font-weight: 100;
+    text-align: center;
+    padding: $box-padding;
+    position: absolute;
+    font-size: 4em;
+  }
+
+  height: #{$banner-max-height / ($page-max-width/1rem/100) / 1em}vw;
+  .headline {
+    font-size: #{$headline-max-size / ($page-max-width/1rem/100) / 1em}vw;
+  }
+  @include media($full-width-up) {
+    height: $banner-max-height;
+    .headline {
+      font-size: $headline-max-size;
+    }
+  }
+}
+
+.blog-list {
+  li + li {
+    margin-top: $box-padding * 0.5;
+  }
+  .post-title {
+    font-size: 1.5em;
+    margin: 0;
+  }
+}
+
+.logo-column {
+  padding-top: 4rem;
+  margin-right: 4rem;
+  width: 12rem;
+}

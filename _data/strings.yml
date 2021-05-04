@@ -1,0 +1,32 @@
+language_selector: Sprache
+
+author: Autor
+date: Datum
+location: Ort
+link: Link
+
+date_formats:
+  full: "%A, %e. %B %Y"
+  long: "%e. %B %Y"
+  short: "%d/%m/%Y"
+  months:
+    January: Januar
+    February: Februar
+    March: März
+    April: April
+    May: Mai
+    June: Juni
+    July: Juli
+    August: August
+    September: September
+    October: October
+    November: November
+    December: Dezember
+  weekdays:
+    Sunday: Sonntag
+    Monday: Montag
+    Tuesday: Dienstag
+    Wednesday: Mittwoch
+    Thursday: Donnerstag
+    Friday: Freitag
+    Saturday: Samstag

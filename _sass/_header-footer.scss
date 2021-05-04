@@ -1,0 +1,80 @@
+.site-header > .wrapper {
+  padding-bottom: $box-padding * 0.5;
+  @include media($large-screen-up) {
+    padding-bottom: $box-padding;
+  }
+}
+
+.site-title {
+  font-size: 1.75em;
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 1;
+  &[href] {
+    color: inherit
+  }
+}
+
+.navigation {
+  font-weight: 500;
+  margin-top: $box-padding;
+  nav {
+    padding: $box-padding * 0.5 0;
+    border-top: 1px solid $blue;
+  }
+  @include media($large-screen-up) {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: $box-padding * 0.5;
+    
+    nav {
+      padding: 0;
+      border-top: none;
+      
+      & + nav {
+        margin-left: $box-padding * 2;
+      }
+    }
+  }
+  ul {
+    margin: 0;
+  }
+  li {
+    display: inline-block;
+    margin: 0.25em 0;
+    &:not(:last-child) {
+      margin-right: 1em;
+    }
+  }
+  a {
+    padding: 0.125em 0;
+    
+    &[aria-current],
+    &[href]:hover {
+      border-bottom: 2px solid;
+    }
+  }
+  a.not-available {
+    color: $medium-gray;
+  }
+}
+
+html[dir="rtl"] .navigation {
+  @include media($large-screen-up) {
+    nav + nav {
+      margin-left: 0;
+      margin-right: $box-padding * 2;
+    }
+  }
+  li {
+    &:not(:last-child) {
+      margin-right: 0;
+      margin-left: 1em;
+    }
+  }
+}
+
+.site-footer {
+  text-align: center;
+}
