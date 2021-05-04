@@ -20,7 +20,18 @@ headline: VSP
 
 ### Reaching us via email
 
-We have set up temporary email addresses outside the TU system. To reach staff directly, use the formula
+We have set up temporary email addresses outside the TU system. You can contact us here:
+
+- Teaching: lehre.vsp@posteo.net
+
+- Application: bewerbung.vsp@posteo.net
+
+- Office: sekretariat.vsp@posteo.net
+
+- Covid19-Research: ricardo.ewert.vsp@posteo.net
+
+
+To reach staff directly, use the formula
 
 `firstname.lastname.vsp @ posteo.net`
 
