@@ -14,35 +14,11 @@ description: VSP TU Berlin
 
 <div style="background-color: yellow; padding: 1rem 1rem; border: 2px solid red; border-left: 1rem solid #cf0017;">
 
-<p><b>03 May 2021</b> - Der Exchange-E-Mail-Server der TU Berlin wurde angegriffen und ist infolgedessen derzeit nicht erreichbar. Es ist nicht bekannt, wie lange dieser Ausfall andauern wird.</p>
+<p><b>01 Jun 2021</b> - Der Exchange-E-Mail-Server der TU Berlin wurde Ende April angegriffen. Der E-Mail-Service wurde inzwischen wiederhergestellt.</p> <p>
 
-<p>Wenn Sie versucht haben, uns zu kontaktieren, bitten wir um Entschuldigung. Bitte lesen Sie unten, wie Sie uns erreichen können.</p>
+<p>Wenn Sie versucht haben, uns zu kontaktieren, bitten wir um Entschuldigung. Die E-Mail sollte jetzt wieder funktionieren. Bitte senden Sie uns erneut eine Nachricht, wenn Sie nicht von uns gehört haben.</p>
 
 </div>
-
-### Vorübergehende E-Mail-Adressen
-
-Wir haben temporäre E-Mail-Adressen außerhalb des TU-Systems eingerichtet. Sie können uns unter folgenden Mail-Adressen erreichen:
-
-- Lehre TU Berlin: lehre.vsp@posteo.net
-
-- Bewerbungen: bewerbung.vsp@posteo.net
-
-- Sekretariat: sekretariat.vsp@posteo.net
-
-- Covid19-Forschung: ricardo.ewert.vsp@posteo.net
-
-
-Um Mitarbeiter direkt zu erreichen, verwenden Sie die Formel
-
-`firstname.lastname.vsp @ posteo.net`
-
-Zum Beispiel:
-
-- Kai Nagel erreichen Sie per E-Mail unter `kai.nagel.vsp [at] posteo.net`
-- Alle Mitarbeiter/innen können auf die gleiche Weise erreicht werden.
-
----
 
 ### VSP Projekt Websites
 

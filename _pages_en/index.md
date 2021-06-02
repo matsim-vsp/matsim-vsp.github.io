@@ -12,35 +12,11 @@ headline: VSP
 
 <div style="background-color: yellow; padding: 1rem 1rem; border: 2px solid red; border-left: 1rem solid #cf0017;">
 
-<p><b>03 May 2021</b> - The TU Berlin exchange email server has been attacked and in consequence is currently down. It is unknown how long this outage will last.</p>
+<p><b>01 Jun 2021</b> - The TU Berlin exchange email server was attacked at the end of April, but email service has now been restored.</p>
 
-<p>If you have been trying to contact us, we apologize. Please read below for help on how to reach us.</p>
+<p>If you have been trying to contact us, we apologize. Email should be back in operation now. Please resend any messages if you have not heard from of us.</p>
 
 </div>
-
-### Reaching us via email
-
-We have set up temporary email addresses outside the TU system. You can contact us here:
-
-- Teaching: lehre.vsp@posteo.net
-
-- Application: bewerbung.vsp@posteo.net
-
-- Office: sekretariat.vsp@posteo.net
-
-- Covid19-Research: ricardo.ewert.vsp@posteo.net
-
-
-To reach staff directly, use the formula
-
-`firstname.lastname.vsp @ posteo.net`
-
-So for example:
-
-- Kai Nagel can be emailed at `kai.nagel.vsp [at] posteo.net`
-- All regular staff can be reached in the same manner.
-
----
 
 ### VSP Project websites
 
