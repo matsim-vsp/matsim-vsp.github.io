@@ -9,7 +9,7 @@ headline: VSP
 <h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
 
 ---
-
+<!--
 <div style="background-color: yellow; padding: 1rem 1rem; border: 2px solid red; border-left: 1rem solid #cf0017;">
 
 <p><b>01 Jun 2021</b> - The TU Berlin exchange email server was attacked at the end of April, but email service has now been restored.</p>
@@ -17,6 +17,7 @@ headline: VSP
 <p>If you have been trying to contact us, we apologize. Email should be back in operation now. Please resend any messages if you have not heard from of us.</p>
 
 </div>
+-->
 
 ### VSP Project websites
 
