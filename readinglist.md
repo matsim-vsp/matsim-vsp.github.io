@@ -4,7 +4,7 @@ title: Leseliste
 
 #### This reading list is intended to provide an overview of various research areas in which MATSim is applied.
 
-A complete list of vsp papers can be found [here](https://www.vsp.tu-berlin.de/menue/forschung/publications/vspwp/).
+A complete list of vsp papers can be found [here](/publications/vspwp/).
 
 ---
 

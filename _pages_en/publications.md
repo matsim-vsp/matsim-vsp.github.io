@@ -10,6 +10,4 @@ The MATSim book can be found [here](https://www.vsp.tu-berlin.de/menue/forschung
 
 ## VSP Working Papers
 
-<!-- Table gets added here. Don't edit below here  ---------------------------------- -->
-
-{% include working-papers.html %}
+Full list of VSP working papers is [here](/publications/vspwp)
