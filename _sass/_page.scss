@@ -78,3 +78,26 @@ $headline-max-size: 10em;
   margin-right: 4rem;
   width: 12rem;
 }
+
+.vsp-table {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  font-size: 0.9rem;
+
+  div:nth-child(6n + 4),
+  div:nth-child(6n + 5),
+  div:nth-child(6n + 6) {
+    background: #eee;
+  }
+}
+
+.vsp-cell {
+  line-height: 1rem;
+  padding: 0.25rem 0.25rem 0.75rem 0.25rem;
+}
+
+.vsp-header {
+  padding: 0.25rem 0.25rem;
+  margin-left: -0.25rem;
+  background-color: #dcdfbd;
+}

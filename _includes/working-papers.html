@@ -1,0 +1,21 @@
+{% assign years =
+"2035|2034|2033|2032|2031|2030|2029|2028|2027|2026|2025|2024|2023|2022|2021|2020|2019|2018|2017|2016|2015|2014|2013|2012|2011|2010|2009|2008|2007|2006|2005|2004"
+| split: "|" %} {% capture strnowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+{% assign nowyear = strnowyear | plus: 0 %} {% for stryear in years %} {% assign
+year = stryear | plus: 0 %} {% if year <= nowyear %}
+
+<h3 class="vsp-header">{{year}}</h3>
+
+<div class="vsp-table">
+  {% for pub in site.data.publications[year] %}
+  <div class="vsp-cell" style="grid-column: 1/2">{{ pub.paper }}</div>
+  <div class="vsp-cell" style="grid-column: 2/3">
+    {{ pub.author }}; <b>{{ pub.title }}</b>
+  </div>
+  <div class="vsp-cell" style="grid-column: 3/4">
+    <a href="{{ pub.link }}">Download</a>
+  </div>
+  {% endfor %}
+</div>
+
+{% endif %} {% endfor %}
