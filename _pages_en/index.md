@@ -28,7 +28,7 @@ VSP maintains project websites for many of our research topics:
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
 - [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
   Verkehr)
-- [aftersim](https://aftersim.github.io) - Experimental model output visualization platform
+- [SimWrapper](https://vsp.berlin/simwrapper) - Simulation visualization platform
 - [matsim.org](https://matsim.org) - MATSim home page
 
 ---
