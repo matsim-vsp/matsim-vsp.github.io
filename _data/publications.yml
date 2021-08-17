@@ -1,4 +1,40 @@
 2021:
+
+ - paper: 21-18
+   author: "J. K. Winkler, A. Grahle, A. Syré, K. Martins-Turner, D. Göhlich"
+   title: "Fuel Cell Drive for Urban Freight Transport in Comparison to Diesel and Battery Electric Drives – a Case Study of the Food Retailing Industry in Berlin"
+   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-18/"
+   
+ - paper: 21-17
+   author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+   title: "MODUS-COVID Bericht vom 16.07.2021"
+   link: "http://dx.doi.org/10.14279/depositonce-12207"
+   
+ - paper: 21-16 
+   author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert,  C. Rakow, J. B. Rehmann, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+   title: "MODUS-COVID Bericht vom 18.06.2021"
+   link: "http://dx.doi.org/10.14279/depositonce-12053"
+   
+ - paper: 21-15
+   author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+   title: "MODUS-COVID Bericht vom 21.05.2021"
+   link: "http://dx.doi.org/10.14279/depositonce-11941"
+   
+ - paper: 21-14
+   author: "I. Kaddoura, R. Ewert, K. Martins-Turner"
+   title: "Exhaust and non-exhaust emissions from today’s and future road transport: A simulation-based quantification for Berlin; accepted for EWGT 2021 conference"
+   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-14/"
+
+ - paper: 21-13
+   author: "I. Kaddoura, G. Leich, A. Neumann, K. Nagel"
+   title: "From today’s ride-sharing services to future mobility concepts: A simulation study for urban and rural areas"
+   link: "hhttp://dx.doi.org/10.14279/depositonce-12055"
+
+ - paper: 21-12
+   author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+   title: "MODUS-COVID Bericht vom 30.04.2021"
+   link: "http://dx.doi.org/10.14279/depositonce-11890"
+
   - paper: 21-11
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-Covid Bericht vom 09.04.2021"
@@ -7,7 +43,7 @@
   - paper: 21-10
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-Covid Bericht vom 19.03.2021"
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-10/"
+    link: "http://dx.doi.org/10.14279/depositonce-11678"
 
   - paper: 21-09
     author: "Z. Meng, I. Kaddoura, K. Nagel"
