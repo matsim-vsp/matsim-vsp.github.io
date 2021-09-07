@@ -1,5 +1,4 @@
 2021:
-
  - paper: 21-19
    author: "R.Ewert, A. Grahle, K. Martins-Turner, A. M. Syré, K. Nagel, D. Göhlich"
    title: "Electrification of Urban Waste Collection: Introducing a Simulation-Based Methodology for Technical Feasibility, Impact and Cost Analysis"
@@ -40,60 +39,60 @@
    title: "MODUS-COVID Bericht vom 30.04.2021"
    link: "http://dx.doi.org/10.14279/depositonce-11890"
 
-  - paper: 21-11
-    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
-    title: "MODUS-Covid Bericht vom 09.04.2021"
-    link: "http://dx.doi.org/10.14279/depositonce-11772"
+ - paper: 21-11
+   author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+   title: "MODUS-Covid Bericht vom 09.04.2021"
+   link: "http://dx.doi.org/10.14279/depositonce-11772"
 
-  - paper: 21-10
-    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
-    title: "MODUS-Covid Bericht vom 19.03.2021"
-    link: "http://dx.doi.org/10.14279/depositonce-11678"
+ - paper: 21-10
+   author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+   title: "MODUS-Covid Bericht vom 19.03.2021"
+   link: "http://dx.doi.org/10.14279/depositonce-11678"
 
-  - paper: 21-09
-    author: "Z. Meng, I. Kaddoura, K. Nagel"
-    title: "An innovative pricing concept for ridehailing services based on the service quality of schedule-based public transit; preprint"
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-09/"
+ - paper: 21-09
+   author: "Z. Meng, I. Kaddoura, K. Nagel"
+   title: "An innovative pricing concept for ridehailing services based on the service quality of schedule-based public transit; preprint"
+   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-09/"
 
-  - paper: 21-08
-    author: "S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, L. Vorwerk, H. Wulkow, S. Becker, T. Conrad, K. Nagel, C. Schütte"
-    title: "MODUS-Covid Bericht vom 26.02.2021"
-    link: "https://doi.org/10.14279/depositonce-11486"
+ - paper: 21-08
+   author: "S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, L. Vorwerk, H. Wulkow, S. Becker, T. Conrad, K. Nagel, C. Schütte"
+   title: "MODUS-Covid Bericht vom 26.02.2021"
+   link: "https://doi.org/10.14279/depositonce-11486"
 
-  - paper: 21-07
-    author: "S. A. Müller, M. Balmer, B. Charlton, R. Ewert, A. Neumann, C. Rakow, T. Schlenther, K. Nagel"
-    title: "Predicting the effects of COVID-19 related interventions in urban settings by combining activity-based modelling, agent-based simulation, and mobile phone data"
-    link: "https://doi.org/10.1101/2021.02.27.21252583"
+ - paper: 21-07
+   author: "S. A. Müller, M. Balmer, B. Charlton, R. Ewert, A. Neumann, C. Rakow, T. Schlenther, K. Nagel"
+   title: "Predicting the effects of COVID-19 related interventions in urban settings by combining activity-based modelling, agent-based simulation, and mobile phone data"
+   link: "https://doi.org/10.1101/2021.02.27.21252583"
 
-  - paper: 21-06
-    author: "C. Lu, M. Maciejewski, K. Nagel"
-    title: "Effective Operation of Demand-Responsive Transport (DRT): Implementation and Evaluation of Various Rebalancing Strategies; preprint"
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-06/ITS_Hamburg_2021_Lu.pdf"
+ - paper: 21-06
+   author: "C. Lu, M. Maciejewski, K. Nagel"
+   title: "Effective Operation of Demand-Responsive Transport (DRT): Implementation and Evaluation of Various Rebalancing Strategies; preprint"
+   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-06/ITS_Hamburg_2021_Lu.pdf"
 
-  - paper: 21-05
-    author: "C. Rakow, I. Kaddoura, C. Lu, R. Nippold, P. Wagner"
-    title: "Investigation of the system-wide effects of intelligent infrastructure concepts with microscopic and mesoscopic traffic simulation; preprint"
-    link: "https://doi.org/10.14279/depositonce-11376"
+ - paper: 21-05
+   author: "C. Rakow, I. Kaddoura, C. Lu, R. Nippold, P. Wagner"
+   title: "Investigation of the system-wide effects of intelligent infrastructure concepts with microscopic and mesoscopic traffic simulation; preprint"
+   link: "https://doi.org/10.14279/depositonce-11376"
 
-  - paper: 21-04
-    author: "S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, H. Wulkow, S. Becker, T. Conrad, K. Nagel, C. Schütte"
-    title: "MODUS-Covid Bericht vom 05.02.2021"
-    link: "https://doi.org/10.14279/depositonce-11376"
+ - paper: 21-04
+   author: "S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, H. Wulkow, S. Becker, T. Conrad, K. Nagel, C. Schütte"
+   title: "MODUS-Covid Bericht vom 05.02.2021"
+   link: "https://doi.org/10.14279/depositonce-11376"
 
-  - paper: 21-03
-    author: "L. Bieker-Walz, I. Kaddoura, Z. Meng, M. Ortgiese, P. Wagner"
-    title: "Future Mobility Scenarios for Hamburg, Germany; preprint"
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-03/"
+ - paper: 21-03
+   author: "L. Bieker-Walz, I. Kaddoura, Z. Meng, M. Ortgiese, P. Wagner"
+   title: "Future Mobility Scenarios for Hamburg, Germany; preprint"
+   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-03/"
 
-  - paper: 21-02
-    author: "S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, H. Wulkow, T. Conrad, K. Nagel, C. Schütte"
-    title: "MODUS-Covid Bericht vom 15.01.2021"
-    link: "https://doi.org/10.14279/depositonce-11289"
+ - paper: 21-02
+   author: "S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, H. Wulkow, T. Conrad, K. Nagel, C. Schütte"
+   title: "MODUS-Covid Bericht vom 15.01.2021"
+   link: "https://doi.org/10.14279/depositonce-11289"
 
-  - paper: 21-01
-    author: "W. Charlton, G. Leich, I. Kaddoura, K. Nagel"
-    title: "Open-Source Web-Based Visualizer for Dynamic-Response Shared Taxi Simulations; submitted to ABMTrans 2021"
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-01/"
+ - paper: 21-01
+   author: "W. Charlton, G. Leich, I. Kaddoura, K. Nagel"
+   title: "Open-Source Web-Based Visualizer for Dynamic-Response Shared Taxi Simulations; submitted to ABMTrans 2021"
+   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-01/"
 
 2020:
   - paper: 20-44
