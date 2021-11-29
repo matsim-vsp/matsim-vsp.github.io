@@ -14,6 +14,9 @@ year = stryear | plus: 0 %} {% if year <= nowyear %}
   </div>
   <div class="vsp-cell" style="grid-column: 3/4">
     <a href="{{ pub.link }}">Download</a>
+    {% if pub.link2 %}<br /><a href="{{ pub.link2 }}">Download 2</a>{%endif %}
+    {% if pub.link3 %}<br /><a href="{{ pub.link3 }}">Download 3</a>{%endif %}
+    {% if pub.link4 %}<br /><a href="{{ pub.link4 }}">Download 4</a>{%endif %}
   </div>
   {% endfor %}
 </div>
