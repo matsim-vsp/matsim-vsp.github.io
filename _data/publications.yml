@@ -2,7 +2,8 @@
  - paper: 21-23
    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S. Paltra, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
    title: "MODUS-COVID Bericht vom 19.11.2021"
-   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-23/" "https://d-nb.info/1246363461/34"
+   link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-23/"
+   # "https://d-nb.info/1246363461/34"
 
  - paper: 21-22
    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
