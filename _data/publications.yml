@@ -1,24 +1,32 @@
 2021:
-  - paper: 21-23
+  - paper: 21-24
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S. Paltra, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 19.11.2021"
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-23/"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-24/"
     link2: "https://d-nb.info/1246363461/34"
 
+  - paper: 21-23
+    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S. Paltra, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+    title: "MODUS-COVID Bericht vom 22.10.2021"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-23/"
+    link2: "https://d-nb.info/1244287601/34"
+
   - paper: 21-22
-    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
-    title: "MODUS-COVID Bericht vom ..10.2021"
+    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S.Paltra, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+    title: "MODUS-COVID Bericht vom 24.09.2021"
     link: ""
+    link2: "https://d-nb.info/1242090703/34"
 
   - paper: 21-21
-    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
-    title: "MODUS-COVID Bericht vom ..09.2021"
-    link: ""
+    author: "K. Nagel, C. Rakow, S. A. Müller"
+    title: "Realistic agent-based simulation of infection dynamics and percolation"
+    link: "http://dx.doi.org/10.1016/j.physa.2021.126322"
 
   - paper: 21-20
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
-    title: "MODUS-COVID Bericht vom ..08.2021"
-    link: ""
+    title: "MODUS-COVID Bericht vom 27.08.2021"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-20/"
+    link2: "https://d-nb.info/1240309473/34"
 
   - paper: 21-19
     author: "R.Ewert, A. Grahle, K. Martins-Turner, A. M. Syré, K. Nagel, D. Göhlich"
