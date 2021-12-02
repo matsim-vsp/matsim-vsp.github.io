@@ -1,4 +1,10 @@
 2021:
+ - paper: 21-25
+    author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
+    title: "MODUS-COVID Bericht vom 03.09.2021"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-25/"
+    link2: "https://d-nb.info/1240761090/34"
+
   - paper: 21-24
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S. Paltra, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 19.11.2021"
@@ -14,7 +20,7 @@
   - paper: 21-22
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S.Paltra, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 24.09.2021"
-    link: ""
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-22/"
     link2: "https://d-nb.info/1242090703/34"
 
   - paper: 21-21
@@ -42,16 +48,19 @@
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 16.07.2021"
     link: "http://dx.doi.org/10.14279/depositonce-12207"
+    link2: "https://d-nb.info/1238143008/34"
 
   - paper: 21-16
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert,  C. Rakow, J. B. Rehmann, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 18.06.2021"
     link: "http://dx.doi.org/10.14279/depositonce-12053"
+    link2: "https://d-nb.info/1238140963/34"
 
   - paper: 21-15
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, D. Jefferies, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 21.05.2021"
     link: "http://dx.doi.org/10.14279/depositonce-11941"
+    link2: "https://d-nb.info/1234059118/34"
 
   - paper: 21-14
     author: "I. Kaddoura, R. Ewert, K. Martins-Turner"
