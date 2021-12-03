@@ -19,5 +19,5 @@ jobs:
         run: pip install yamllint
 
       - name: Lint YAML files
-        run: yamllint -c .github/workflows/.yamllint .
-#        run: yamllint --format github .
+        # Use config file (-c) and github output format (--format github); looking for all .yml files in repo: .
+        run: yamllint -c .github/workflows/.yamllint --format github .
