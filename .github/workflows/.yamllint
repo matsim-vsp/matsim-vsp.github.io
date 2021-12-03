@@ -11,3 +11,5 @@ rules:
     level: warning
     allow-non-breakable-words: true 
     allow-non-breakable-inline-mappings: true
+  ## Do not check for trailing spaces.  
+  trailing-spaces: disable
