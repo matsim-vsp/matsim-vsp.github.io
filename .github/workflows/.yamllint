@@ -1,0 +1,15 @@
+# This is my first, very own configuration file for yamllint!
+# It extends the default conf by adjusting some options.
+
+extends: default
+
+rules:
+  # 80 chars should be enough, but don't fail if a line is longer.
+  # Also allow links if they are longer.
+  line-length:
+    max: 80
+    level: warning
+    allow-non-breakable-words: true 
+    allow-non-breakable-inline-mappings: true
+  ## Do not check for trailing spaces.  
+  trailing-spaces: disable
