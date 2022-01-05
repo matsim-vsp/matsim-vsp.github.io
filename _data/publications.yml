@@ -1,6 +1,17 @@
+2022:
+
+  - paper: 22-02
+    author: "C. Lu, K. Martins-Turner, K. Nagel"
+    title: "Creating an agent-based long-haul freight transport model for Germany; submitted to ABMTrans 2022"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-02/"
+
+  - paper: 22-01
+    author: "T. Gable, K. Martins-Turner, K. Nagel"
+    title: "Enhanced Emission Calculation for Freight Transport; submitted to ABMTrans 2022"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-01/"
+
 2021:
- 
- 
+
   - paper: 21-27
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S. Paltra, C. Rakow, H. Wulkow, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 17.12.2021"
