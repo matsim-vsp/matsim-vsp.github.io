@@ -7,6 +7,7 @@ rules:
   # 80 chars should be enough, but don't fail if a line is longer.
   # Also allow links if they are longer.
 # Disable both, because for moste entries, we will go beyond such a limit (e.g. in publications), KMT 14.02.2022  
+  line-length: disable
 #  line-length:
 #    max: 80
 #    level: warning
