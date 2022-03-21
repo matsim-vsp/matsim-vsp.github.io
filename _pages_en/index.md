@@ -26,7 +26,7 @@ VSP maintains project websites for many of our research topics:
 
 - [VSP Homepage](https://www.vsp.tu-berlin.de) - Department homepage for VSP at the Institute for Land and Sea Transport, TU Berlin
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 simulation portal
-- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - KoMo:D<i>next</i> Düsseldorf Project Website
+- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automated driving in the Düsseldorf digital testfield
 - [SimWrapper](https://vsp.berlin/simwrapper) - Simulation visualization platform
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
 - [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher

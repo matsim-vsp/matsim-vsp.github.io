@@ -28,7 +28,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.
 
 - [VSP Homepage](https://www.vsp.tu-berlin.de) - Fachgebiet VSP, TU Berlin
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
-- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - KoMo:D<i>next</i> Düsseldorf Projekt Website
+- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automatisiertes Fahren im digitalen Testfeld Düsseldorf
 - [SimWrapper](https://vsp.berlin/simwrapper) - Model Visualizierung-Platform
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Projekt - demand responsive transit
 - [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
