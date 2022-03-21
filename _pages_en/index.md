@@ -9,6 +9,7 @@ headline: VSP
 <h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
 
 ---
+
 <!--
 <div style="background-color: yellow; padding: 1rem 1rem; border: 2px solid red; border-left: 1rem solid #cf0017;">
 
@@ -25,10 +26,11 @@ VSP maintains project websites for many of our research topics:
 
 - [VSP Homepage](https://www.vsp.tu-berlin.de) - Department homepage for VSP at the Institute for Land and Sea Transport, TU Berlin
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 simulation portal
+- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - KoMo:D<i>next</i> Düsseldorf Project Website
+- [SimWrapper](https://vsp.berlin/simwrapper) - Simulation visualization platform
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
 - [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
   Verkehr)
-- [SimWrapper](https://vsp.berlin/simwrapper) - Simulation visualization platform
 - [matsim.org](https://matsim.org) - MATSim home page
 
 ---
