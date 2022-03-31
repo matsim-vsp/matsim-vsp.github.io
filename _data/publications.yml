@@ -26,27 +26,27 @@
     
   - paper: 22-04
     author: "T. Schlenther, P. Wagner, G. Rybczak, K. Nagel, L. Bieker-Walz, M. Ortgiese"
-    title: "Simulation-based investigation of transport scenarios for Hamburg; submitted to ABMTrans 2022"
+    title: "Simulation-based investigation of transport scenarios for Hamburg; accepted for ABMTrans 2022, will be published in proceedings."
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-04/"
 
   - paper: 22-03
     author: "S. Meinhardt, T. Schlenther, K. Martins-Turner, M. Maciejewski"
-    title: "Simulation of On-Demand Vehicles that Serve both Person and Freight Transport; submitted to ANT2022"
+    title: "Simulation of On-Demand Vehicles that Serve both Person and Freight Transport; accepted for ANT2022, will be published in proceedings."
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-03/"
 
   - paper: 22-02
     author: "C. Lu, K. Martins-Turner, K. Nagel"
-    title: "Creating an agent-based long-haul freight transport model for Germany; submitted to ABMTrans 2022"
+    title: "Creating an agent-based long-haul freight transport model for Germany; accepted for ABMTrans 2022, will be published in proceedings."
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-02/"
 
   - paper: 22-01
     author: "T. Gable, K. Martins-Turner, K. Nagel"
-    title: "Enhanced Emission Calculation for Freight Transport; accepted for ABMTrans 2022"
+    title: "Enhanced Emission Calculation for Freight Transport; accepted for ABMTrans 2022, will be published in proceedings."
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-01/"
 
 2021:
   - paper: 21-30
-    author: "M. Kracht, H. D. Chemitz, G. Küßner, M. Diehr, P. Hoth, M. Hammler, T. Schlenther, I. Kaddoura, K. Nagel, J. Ehmke, J. Haferkamp, R. Kötschau, M. Kromer, H. Triebke, H.-C. Winter, M. Stottele, N. Kamal Goma, M. Schönebeck, R. Müller, O. Mehlmann"
+    author: "M. Kracht, H. D. Chemnitz, G. Küßner, M. Diehr, P. Hoth, M. Hammler, T. Schlenther, I. Kaddoura, K. Nagel, J. Ehmke, J. Haferkamp, R. Kötschau, M. Kromer, H. Triebke, H.-C. Winter, M. Stottele, N. Kamal Goma, M. Schönebeck, R. Müller, O. Mehlmann"
     title: "Potentiale automatisierter Verkehrssysteme - PAVE - Endbericht"
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-30/"
     
