@@ -1,9 +1,8 @@
 2022:
- - paper: 22-10
-    author: "P. Dönges, J. Wagner, S. Contreras, E. Iftekhar, S. Bauer, S. B. Mohr, J. Dehning, A. C. Valdez, M. Kretzschmar, M. Mäs, K. Nagel, V. Priesemann"
-    title: "Interplay between risk perception, behaviour, and COVID-19 spread"
-    link: "https://doi.org/10.48550/arXiv.2112.12062"
-    
+  - paper: 22-10 author: "P. Dönges, J. Wagner, S. Contreras, E. Iftekhar, S. Bauer, S. B. Mohr, J. Dehning, A. C. Valdez, M. Kretzschmar, M. Mäs, K. Nagel, V. Priesemann"
+   title: "Interplay between risk perception, behaviour, and COVID-19 spread"
+   link: "https://doi.org/10.48550/arXiv.2112.12062"
+  
   - paper: 22-09
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 22.03.2022"
