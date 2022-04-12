@@ -11,7 +11,7 @@ title: Publikationen
 <div class="filter-buttons" style="display: flex;">
 
 <a class="filter-link" href="/publications/vspwp/">
-  <div class="filter-button active">All Papers</div>
+  <div class="filter-button">All Papers</div>
 </a>
 
 <a class="filter-link" href="/publications/vspwp-transport/">
@@ -19,10 +19,10 @@ title: Publikationen
 </a>
 
 <a class="filter-link" href="/publications/vspwp-episim/">
-  <div class="filter-button">Epidemic</div>
+  <div class="filter-button active">Epidemic</div>
 </a>
 
 </div>
 <!-- Table gets added here. Don't edit below here  ---------------------------------- -->
 
-{% include working-papers.html tag="all" %}
+{% include working-papers.html tag="episim" %}
