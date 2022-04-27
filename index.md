@@ -32,6 +32,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 
 Planungsprojekte:
 
+- [KelRide] (https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
 - [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automatisiertes Fahren im digitalen Testfeld Düsseldorf
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Projekt - demand responsive transit
