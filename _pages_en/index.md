@@ -25,13 +25,20 @@ headline: VSP
 VSP maintains project websites for many of our research topics:
 
 - [VSP Homepage](https://www.vsp.tu-berlin.de) - Department homepage for VSP at the Institute for Land and Sea Transport, TU Berlin
-- [COVID-Sim.info](https://covid-sim.info) - COVID-19 simulation portal
-- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automated driving in the Düsseldorf digital testfield
 - [SimWrapper](https://vsp.berlin/simwrapper) - Simulation visualization platform
-- [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
-- [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
-  Verkehr)
 - [matsim.org](https://matsim.org) - MATSim home page
+
+Planning Projects:
+
+- [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Driverless city buses in Kelheim, Bavaria
+- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH (Hamburg)
+- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automated driving in the Düsseldorf digital testfield
+- [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
+- [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (Automated, networked, public transport)
+
+Covid:
+
+- [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
 
 ---
 
