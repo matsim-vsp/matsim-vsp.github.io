@@ -1,4 +1,10 @@
 2022:
+  - paper: 22-11 
+    author: "S. A. Müller, W. Charlton, R. Ewert, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel"
+    title: "Wirkungen möglicher Impfkampagnen im Herbst 2022 - MODUS-COVID Bericht vom 26.04.2022"
+    link: "https://doi.org/10.14279/depositonce-15525"
+    tags: episim
+    
   - paper: 22-10 
     author: "P. Dönges, J. Wagner, S. Contreras, E. Iftekhar, S. Bauer, S. B. Mohr, J. Dehning, A. C. Valdez, M. Kretzschmar, M. Mäs, K. Nagel, V. Priesemann"
     title: "Interplay between risk perception, behaviour, and COVID-19 spread"
