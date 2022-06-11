@@ -30,11 +30,11 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 - [SimWrapper](https://vsp.berlin/simwrapper) - Model Visualizierung-Platform
 - [matsim.org](https://matsim.org) - MATSim Startseite
 
-Planungsprojekte:
+[Planungsprojekte:](/projects)
 
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
-- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automatisiertes Fahren im digitalen Testfeld Düsseldorf
+- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Projekt - demand responsive transit
 - [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
   Verkehr)
