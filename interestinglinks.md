@@ -6,6 +6,8 @@ title: Interesting links
 
 [Climate calculator](https://en-roads.climateinteractive.org/scenario.html)
 
+[Climate Analytics](https://climateanalytics.org/tools)
+
 [Datenraum Mobilität](https://www.acatech.de/projekt/datenraum-mobilitaet/)
 
 [Traffic simulator U Melbourne](https://github.com/SmartsDev/SMARTS)
