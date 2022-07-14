@@ -62,6 +62,11 @@
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-01/"
 
 2021:
+  - paper: 21-31
+    author: "L. Sering, L. Vargas Koch, T. Ziemke"
+    title: "Convergence of a Packet Routing Model to Flows Over Time; Proceedings of the 22nd ACM Conference on Economics and Computation, 2021, 797-816."
+    link: "https://doi.org/10.1145/3465456.3467626"
+
   - paper: 21-30
     author: "M. Kracht, H. D. Chemnitz, G. Küßner, M. Diehr, P. Hoth, M. Hammler, T. Schlenther, I. Kaddoura, K. Nagel, J. Ehmke, J. Haferkamp, R. Kötschau, M. Kromer, H. Triebke, H.-C. Winter, M. Stottele, N. Kamal Goma, M. Schönebeck, R. Müller, O. Mehlmann"
     title: "Potentiale automatisierter Verkehrssysteme - PAVE - Endbericht"
@@ -263,8 +268,8 @@
 
   - paper: 20-40
     author: "T. Ziemke, S. Braun"
-    title: "Automated generation of traffic signals and lanes for MATSim based on OpenStreetMap; submitted to ABMTrans 2021"
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-40/"
+    title: "Automated generation of traffic signals and lanes for MATSim based on OpenStreetMap; Procedia Computer Science 184; 745-752, 2021"
+    link: "https://doi.org/10.1016/j.procs.2021.03.093"
 
   - paper: 20-39
     author: "G. L. Marburger, I. Kaddoura, K. Nagel"
@@ -328,13 +333,13 @@
 
   - paper: 20-28
     author: "T. Ziemke, L. N. Alegre, A. L. C. Bazzan"
-    title: "Reinforcement learning vs. rule-based adaptive traffic signal control: A Fourier basis linear function approximation for traffic signal control; AI Communications, 2021, doi 10.3233/AIC-201580"
-    link: "https://content.iospress.com/articles/ai-communications/aic201580"
+    title: "Reinforcement learning vs. rule-based adaptive traffic signal control: A Fourier basis linear function approximation for traffic signal control; AI Communications, Volume 34-1, 2021, 89-103"
+    link: "https://doi.org/10.3233/AIC-201580"
 
   - paper: 20-27
     author: "L. N. Alegre, T. Ziemke, A. L. C. Bazzan"
-    title: "Using reinforcement learning to control traffic signals in a real-world scenario: An approach based on linear function approximation; submitted to IEEE ITS"
-    link: ""
+    title: "Using reinforcement learning to control traffic signals in a real-world scenario: An approach based on linear function approximation; IEEE Transactions on Intelligent Transportation Systems, Volume 23-7, 2022, 9126-9135"
+    link: "https://doi.org/10.1109/TITS.2021.3091014"
 
   - paper: 20-26
     author: "S. A. Müller, W. Charlton, N. Conrad, R. Ewert, T. Conrad, K. Nagel, C. Schütte"
