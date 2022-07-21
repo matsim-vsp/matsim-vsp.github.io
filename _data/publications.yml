@@ -58,14 +58,18 @@
     
   - paper: 22-04
     author: "T. Schlenther, P. Wagner, G. Rybczak, K. Nagel, L. Bieker-Walz, M. Ortgiese"
-    title: "Simulation-based investigation of transport scenarios for Hamburg; accepted for ABMTrans 2022, will be published in proceedings."
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-04/"
+    title: "Simulation-based investigation of transport scenarios for Hamburg"
+    link: "https://www.sciencedirect.com/science/article/pii/S1877050922004896"
+    link2: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-04/"
+    tags: transport
 
   - paper: 22-03
     author: "S. Meinhardt, T. Schlenther, K. Martins-Turner, M. Maciejewski"
-    title: "Simulation of On-Demand Vehicles that Serve both Person and Freight Transport; accepted for ANT2022, will be published in proceedings."
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-03/"
-
+    title: "Simulation of On-Demand Vehicles that Serve both Person and Freight Transport"
+    link: "https://www.sciencedirect.com/science/article/pii/S1877050922004665"
+    link2: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-03/"
+    tags: transport
+    
   - paper: 22-02
     author: "C. Lu, K. Martins-Turner, K. Nagel"
     title: "Creating an agent-based long-haul freight transport model for Germany; accepted for ABMTrans 2022, will be published in proceedings."
