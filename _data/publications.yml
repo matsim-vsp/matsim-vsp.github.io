@@ -1,4 +1,10 @@
 2022:
+  - paper: 22-15
+    author: "S. A. Müller, W. Charlton, R. Ewert, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel"
+    title: "MODUS-COVID Bericht vom 09.08.2022"
+    link: "https://doi.org/10.14279/depositonce-16079"
+    tags: episim
+
   - paper: 22-14
     author: "S. Meinhardt, T. Schlenther, K. Martins-Turner, M. Maciejewski"
     title: "A Simulation Based Analysis for Combining On-Demand Passenger and Freight Transport; submitted to JTTM 2022."
