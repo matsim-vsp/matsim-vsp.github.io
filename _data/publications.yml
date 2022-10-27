@@ -1,10 +1,9 @@
 2022:
 
   - paper: 22-20
-    author: "Viola Priesemann, Eva Grill, Emil Iftekhar, Christian Karagiannidis, André Karch, Mirjam Kretzschmar, Berit Lange, Kai Nagel, Armin Nassehi, Mathias Pletz, Ulrike Protzer, Anita Schöbel, Andreas Schuppert, Klaus Überla, Hajo Zeeb"
-    title: "Maßnahmen zur vierten COVID- 19-Welle und zur neuen SARS-Coronavirus-Variante “Omikron”, Positionspapier vom
-29.11.2021"
-    link: "https://doi.org/10.5281/zenodo.5733895"
+    author: "Jan Ole Berndt, Tim Conrad, Jan Hasenauer, André Karch, Yuri Kheifetz, Holger Kirsten, Tyll Krueger, Martin J. Kühn, Alexander Kuhlmann, Berit Lange, Neele Leithäuser, Markus Loeffler, Rafael Mikolajczyk, Jan Mohring, Sebastian Müller, Kai Nagel, Viola Priesemann, Isti Rodiah, Markus Scholz, Christof Schütte, Ingo J. Timm, André Calero Valdez"
+    title: "Szenarien für den Verlauf der SARS-CoV-2-Pandemie im Winter 2022/23 - Ergebnisse eines Workshops des Modellierungsnetzes für schwere Infektionskrankheiten (Modellierungsnetz)"
+    link: "https://doi.org/10.5281/zenodo.7126032"
     tags: episim
     
   - paper: 22-19
