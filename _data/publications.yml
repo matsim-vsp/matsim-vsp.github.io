@@ -1,5 +1,10 @@
 2022:
 
+  - paper: 22-22
+    author: "K. Martins-Turner, K. Nagel"
+    titel: "Agent-based solving of the 2-echelon Vehicle Routing Problem; submitted to WCTR 2023"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-22/"
+    
   - paper: 22-21
     author: "W. Charlton, B. Sana"
     title: "SimWrapper, an open source web-based platform for interactive visualization of microsimulation outputs and transport data (submitted to ABMTRANS-2023)"
