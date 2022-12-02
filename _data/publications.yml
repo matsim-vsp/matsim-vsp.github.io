@@ -1,5 +1,11 @@
 2022:
 
+  - paper: 22-23
+    author: "S. A. Müller, W. Charlton, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel"
+    title: "MODUS-COVID Bericht vom 02.12.2022"
+    link: "https://doi.org/10.14279/depositonce-16561"
+    tags: episim
+
   - paper: 22-22
     author: "K. Martins-Turner, K. Nagel"
     title: "Agent-based solving of the 2-echelon Vehicle Routing Problem; submitted to WCTR 2023"
