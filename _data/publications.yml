@@ -122,13 +122,13 @@
     
   - paper: 22-02
     author: "C. Lu, K. Martins-Turner, K. Nagel"
-    title: "Creating an agent-based long-haul freight transport model for Germany; accepted for ABMTrans 2022, will be published in proceedings."
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-02/"
+    title: "Creating an agent-based long-haul freight transport model for Germany; Procedia Computer Science, Volume 201, 2022, Pages 614-620."
+    link: "https://doi.org/10.1016/j.procs.2022.03.080"
 
   - paper: 22-01
     author: "T. Gable, K. Martins-Turner, K. Nagel"
-    title: "Enhanced Emission Calculation for Freight Transport; accepted for ABMTrans 2022, will be published in proceedings."
-    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-01/"
+    title: "Enhanced Emission Calculation for Freight Transport; Procedia Computer Science, Volume 201, 2022, Pages 601-607."
+    link: "https://doi.org/10.1016/j.procs.2022.03.078"
 
 2021:
   - paper: 21-31
