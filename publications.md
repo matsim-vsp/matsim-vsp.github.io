@@ -6,7 +6,7 @@ title: Publikationen
 
 ## MATSim Book
 
-The MATSim book can be found [here](https://www.vsp.tu-berlin.de/menue/forschung/publications/books/parameter/de/).
+The MATSim book can be found [here](https://matsim.org/the-book).
 
 ## VSP Working Papers
 
