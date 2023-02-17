@@ -138,6 +138,11 @@
     link: "https://doi.org/10.1016/j.procs.2022.03.078"
 
 2021:
+  - paper: 21-32
+    author: "J. Rehmann"
+    title: "Simulating Mitigation Strategies for COVID-19 Hot Spots - Location Specific Activity Restrictions in EpiSim"
+    tags: episim
+    
   - paper: 21-31
     author: "L. Sering, L. Vargas Koch, T. Ziemke"
     title: "Convergence of a Packet Routing Model to Flows Over Time; Proceedings of the 22nd ACM Conference on Economics and Computation, 2021, 797-816."
