@@ -1,4 +1,6 @@
 ---
 layout: forward
-target: https://www.tu.berlin/vsp/
---
+target: https://forms.gle/g48B23W6UQ4SuFoYA
+---
+
+Umleitung zur Umfrage
