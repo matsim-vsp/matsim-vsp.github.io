@@ -5,7 +5,11 @@
     title: "Optimization of demand-responsive transport: The rolling horizon approach; ANT 2023"
     
 2022:
-
+  - paper: 22-25
+    author: "S. Fürst, C. Rakow"
+    title: "Parallelization of large-scale agent-based epidemiological simulations; Proceedings of the 34th European Modeling & Simulation Symposium, Volume 008, 2022."
+    link: "https://doi.org/10.46354/i3m.2022.emss.008"
+    
   - paper: 22-24
     author: "R. Gerike, K. Bogenberger, K. Nagel, S. Wagenknecht, D. Ziemke, T. Waller"
     title: "From Sustainable Urban Transport to Responsible Urban Mobility: Function, Form, Fairness, Forever"
