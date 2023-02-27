@@ -1,5 +1,10 @@
 2023:
-
+  - paper: 23-02
+    author: "K. Nagel, I. Bostanci, W. Charlton, K. Maier, S. A. Müller, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte"
+    title: "MODUS-COVID Bericht vom 27.02.2023"
+    link: "https://doi.org/10.14279/depositonce-17034"
+    tags: episim
+    
   - paper: 23-01
     author: "C. Lu, M. Maciejewski, H. Wu, K. Nagel"
     title: "Optimization of demand-responsive transport: The rolling horizon approach; ANT 2023"
