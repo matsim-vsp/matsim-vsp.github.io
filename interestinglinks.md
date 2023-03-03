@@ -14,4 +14,6 @@ title: Interesting links
 
 [Energy Sufficiency Database](https://energysufficiency.de/en/policy-database-en/)
 
-[PALM model system urban climate])https://gitlab.palm-model.org)
+[PALM model system urban climate](https://gitlab.palm-model.org)
+
+[regular deployment urban weather predictions](www.stadtwetter.uni-hannover.de)
