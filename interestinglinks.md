@@ -17,3 +17,5 @@ title: Interesting links
 [PALM model system urban climate](https://gitlab.palm-model.org)
 
 [regular deployment urban weather predictions](www.stadtwetter.uni-hannover.de)
+
+[ProPolis Austausch über PALM-4U](https://www.propolis-palm-4u.de)
