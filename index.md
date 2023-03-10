@@ -32,6 +32,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 
 [Planungsprojekte:](/projects)
 
+- [Sounding Board](/soundingBoardSurvey)
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automatisiertes Fahren im digitalen Testfeld Düsseldorf
 - [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH
@@ -49,4 +50,3 @@ Covid:
 
 - [Leseliste](/readinglist)
 - [Interessante Links](/interestinglinks)
-- [Sounding Board Umfrage](/soundingBoardSurvey)
