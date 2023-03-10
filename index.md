@@ -50,3 +50,4 @@ Covid:
 
 - [Leseliste](/readinglist)
 - [Interessante Links](/interestinglinks)
+- [Sounding Board Umfrage](/soundingBoardSurvey)
