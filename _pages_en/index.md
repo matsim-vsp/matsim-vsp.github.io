@@ -35,7 +35,6 @@ Planning Projects:
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automated driving in the Düsseldorf digital testfield
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
 - [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (Automated, networked, public transport)
-- [Sounding Board](https://vsp.berlin/sounding-board) - Sounding Board Website
 
 Covid:
 

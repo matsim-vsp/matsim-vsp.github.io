@@ -38,7 +38,6 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Projekt - demand responsive transit
 - [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
   Verkehr)
-- [Sounding Board](https://vsp.berlin/sounding-board) - Sounding Board Website
 
 Covid:
 
