@@ -2,10 +2,10 @@
 title: Sounding Board Survey
 ---
 
-[Freight](https://vsp.berlin/sounding-board/ccc/config_gueter) - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeQX_pi4OuSjQ3FViLFofk2pv3hLAIVlY2A3KnkQ72O72-KtQ/viewform?usp=share_link)
+Special transportation - [survey](https://forms.gle/RwXm5mEAoZ1DqaAt7)
 
-Commercial passenger transportation - [survey](https://docs.google.com/forms/d/e/1FAIpQLScMfVSZmLo9a-qKRDXXRWQtMq1x4LaIvMA8Bg2BHJy9mQLrtQ/viewform?usp=share_link)
+[Freight](https://vsp.berlin/sounding-board/ccc/config_gueter) - [Survey](https://forms.gle/B27NxLVGAyRWgHw86)
 
-[Private passenger transport](https://vsp.berlin/sounding-board/ccc/config_privaterPersonenverkehr) - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSe5IIIVhRqfQYTDTYg02QT0a65O90_9S2ODxrgCr619LUfCWw/viewform?usp=share_link)
+[Private passenger transport](https://vsp.berlin/sounding-board/ccc/config_privaterPersonenverkehr) - [Survey](https://forms.gle/V7dxsqxyXRzXCCAv5)
 
-Special transportation - [survey](https://docs.google.com/forms/d/e/1FAIpQLSedma-s6waPoR9O57u3Xe9-mrnbxmtL2u7EjYjl9MGDN0Ma8A/viewform?usp=share_link)
+Commercial passenger transportation - [survey](https://forms.gle/8e9rePJ2F6UYCHGY9)
