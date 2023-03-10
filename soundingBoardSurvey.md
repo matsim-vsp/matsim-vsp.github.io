@@ -1,5 +1,5 @@
 ---
-title: Sounding Board Umfrage
+title: Sounding Board
 ---
 
 Sonderverkehre - [Umfrage](https://forms.gle/RwXm5mEAoZ1DqaAt7)
