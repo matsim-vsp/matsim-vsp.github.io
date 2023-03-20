@@ -19,3 +19,9 @@ title: Interesting links
 [regular deployment urban weather predictions](www.stadtwetter.uni-hannover.de)
 
 [ProPolis Austausch über PALM-4U](https://www.propolis-palm-4u.de)
+
+[RABUS Reallabor für den Automatisierten Busbetrieb im ÖPNV in der Stadt und auf dem Land](https://www.projekt-rabus.de/)
+
+[EAISER Easy sustainable urban transport](https://easier.dtu.dk/en/)
+
+[SynphOnie Synergien aus physikalischen und verkehrsplanerischen Modellen zur multikriteriellen Optimierung multimodaler nachfrageorientierter Verkehre](https://math.rptu.de/ags/opt/forschung/forschungsprojekte/synphonie).  Can't find a central website for that project.
