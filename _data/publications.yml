@@ -1,4 +1,9 @@
 2023:
+  - paper: 23-03
+    author: "S. A. Müller, S. Paltra, J. Rehmann, K. Nagel, T. Conrad"
+    title: "Explicit Modelling of Antibody Levels for Infectious Disease Simulations in the Context of SARS-CoV-2"
+    tags: episim
+
   - paper: 23-02
     author: "K. Nagel, I. Bostanci, W. Charlton, K. Maier, S. A. Müller, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte"
     title: "MODUS-COVID Bericht vom 27.02.2023"
