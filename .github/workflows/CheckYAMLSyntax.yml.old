@@ -1,3 +1,6 @@
+# THIS HAS BEEN MERGED INTO autobuild.yml
+# ---------------------------------------
+
 # Check the yaml syntax using YAML Lint
 name: yamllint test
 
