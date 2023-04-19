@@ -344,8 +344,8 @@
 
   - paper: 21-01
     author: 'W. Charlton, G. Leich, I. Kaddoura, K. Nagel'
-    title: 'Open-Source Web-Based Visualizer for Dynamic-Response Shared Taxi Simulations; submitted to ABMTrans 2021'
-    link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-01/'
+    title: 'Open-Source Web-Based Visualizer for Dynamic-Response Shared Taxi Simulations; ABMTrans 2021'
+    link: 'https://doi.org/10.1016/j.procs.2021.03.090'
     tags: visualization
 
 2020:
