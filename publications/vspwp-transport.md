@@ -6,23 +6,10 @@ title: Publikationen
 
 ## VSP Working Papers
 
-### Filter by Topic:
+{% include filters.html tag="transport" %}
 
-<div class="filter-buttons" style="display: flex;">
-
-<a class="filter-link" href="/publications/vspwp/">
-  <div class="filter-button">All Papers</div>
-</a>
-
-<a class="filter-link" href="/publications/vspwp-transport/">
-  <div class="filter-button active">Transport</div>
-</a>
-
-<a class="filter-link" href="/publications/vspwp-episim/">
-  <div class="filter-button">Epidemic</div>
-</a>
-
-</div>
-<!-- Table gets added here. Don't edit below here  ---------------------------------- -->
+<!-- -------------
+Transport Table gets added here. All non "episim" papers are transport.
+-------------- -->
 
 {% include working-papers.html hidetag="episim" %}

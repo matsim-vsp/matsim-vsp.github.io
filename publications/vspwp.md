@@ -6,23 +6,6 @@ title: Publikationen
 
 ## VSP Working Papers
 
-### Filter by Topic:
-
-<div class="filter-buttons" style="display: flex;">
-
-<a class="filter-link" href="/publications/vspwp/">
-  <div class="filter-button active">All Papers</div>
-</a>
-
-<a class="filter-link" href="/publications/vspwp-transport/">
-  <div class="filter-button">Transport</div>
-</a>
-
-<a class="filter-link" href="/publications/vspwp-episim/">
-  <div class="filter-button">Epidemic</div>
-</a>
-
-</div>
-<!-- Table gets added here. Don't edit below here  ---------------------------------- -->
+{% include filters.html tag="all" %}
 
 {% include working-papers.html tag="all" %}

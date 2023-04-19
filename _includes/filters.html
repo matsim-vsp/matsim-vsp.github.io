@@ -1,0 +1,24 @@
+<h3>Filter by Topic:</h3>
+
+<div class="filter-buttons" style="width: 100%; display: flex; flex-wrap: wrap;">
+
+  <a class="filter-link" href="/publications/vspwp/">
+    {% assign isActive = "" %}
+    {% if include.tag == "all" %}{% assign isActive = "active" %}{% endif %}
+    <div class="filter-button {{isActive}}">All&nbsp;Papers</div>
+  </a>
+
+  <a class="filter-link" href="/publications/vspwp-transport/">
+    {% assign isActive = "" %}
+    {% if include.tag == "transport" %}{% assign isActive = "active" %}{% endif %}
+    <div class="filter-button {{isActive}}">Transport</div>
+  </a>
+
+  {% for tag in site.data.tags %}
+    {% assign isActive = "" %}
+    {% if include.tag == tag.tag %}{% assign isActive = "active" %}{% endif %}
+    <a class="filter-link" href="/publications/vspwp-{{ tag.tag }}/">
+      <div style="width: max-content" class="filter-button {{isActive}}">{{ tag.description }}</div>
+    </a>
+  {% endfor %}
+</div>
