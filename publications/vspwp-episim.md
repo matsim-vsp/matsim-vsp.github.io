@@ -6,7 +6,6 @@ title: Publikationen
 
 ## VSP Working Papers
 
-{% include filters.html alltags="episim
-visualization" tag="episim" %}
+{% include filters.html tag="episim" %}
 
 {% include working-papers.html tag="episim" %}

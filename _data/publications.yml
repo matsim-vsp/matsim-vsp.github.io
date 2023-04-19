@@ -63,15 +63,9 @@
     link: 'https://doi.org/10.1049/itr2.12279'
 
   - paper: 22-17
-<<<<<<< Updated upstream
     author: "T. Schlenther, C. Lu, S. Meinhardt, C. Rakow, K. Nagel"
     title: "Autonomous Mobility-on-Demand in a Rural Area: Calibration, Simulation and Projection based on Real-world Data; accepted for WCTR 2023"
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-17"
-=======
-    author: 'T. Schlenther, C. Lu, S. Meinhardt, C. Rakow, K. Nagel'
-    title: 'Autonomous Mobility-on-Demand in a Rural Area: Calibration, Simulation and Projection based on Real-world Data; submitted to Transportation Research Part C: emerging Technologies'
-    link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-17'
->>>>>>> Stashed changes
 
   - paper: 22-16
     author: 'S. A. Müller, W. Charlton, R. Ewert, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel'
@@ -316,15 +310,9 @@
     tags: episim
 
   - paper: 21-07
-<<<<<<< Updated upstream
     author: "S. A. Müller, M. Balmer, B. Charlton, R. Ewert, A. Neumann, C. Rakow, T. Schlenther, K. Nagel"
     title: "Predicting the effects of COVID-19 related interventions in urban settings by combining activity-based modelling, agent-based simulation, and mobile phone data"
     link: "https://doi.org/10.1371/journal.pone.0259037"
-=======
-    author: 'S. A. Müller, M. Balmer, B. Charlton, R. Ewert, A. Neumann, C. Rakow, T. Schlenther, K. Nagel'
-    title: 'Predicting the effects of COVID-19 related interventions in urban settings by combining activity-based modelling, agent-based simulation, and mobile phone data'
-    link: 'https://doi.org/10.1101/2021.02.27.21252583'
->>>>>>> Stashed changes
     tags: episim
 
   - paper: 21-06
