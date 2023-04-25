@@ -15,7 +15,6 @@
     author: "C. Lu, M. Maciejewski, H. Wu, K. Nagel"
     title: "Optimization of demand-responsive transport: The rolling horizon approach; ANT 2023"
     link: "https://doi.org/10.1016/j.procs.2023.03.021"
-    tags: transport
 
 2022:
   - paper: 22-25
@@ -78,7 +77,6 @@
     author: 'C. Lu, M. Maciejewski, H. Wu, K. Nagel'
     title: 'Demand-Responsive Transport for Students in Rural Areas: A Case Study in Vulkaneifel, Germany'
     link: 'http://dx.doi.org/10.2139/ssrn.4181254'
-    tags: transport
 
   - paper: 22-14
     author: 'S. Meinhardt, T. Schlenther, K. Martins-Turner, M. Maciejewski'
@@ -143,20 +141,17 @@
     title: 'Simulation-based investigation of transport scenarios for Hamburg'
     link: 'https://www.sciencedirect.com/science/article/pii/S1877050922004896'
     link2: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-04/'
-    tags: transport
 
   - paper: 22-03
     author: 'S. Meinhardt, T. Schlenther, K. Martins-Turner, M. Maciejewski'
     title: 'Simulation of On-Demand Vehicles that Serve both Person and Freight Transport'
     link: 'https://www.sciencedirect.com/science/article/pii/S1877050922004665'
     link2: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-03/'
-    tags: transport
 
   - paper: 22-02
     author: 'C. Lu, K. Martins-Turner, K. Nagel'
     title: 'Creating an agent-based long-haul freight transport model for Germany; Procedia Computer Science, Volume 201, 2022, Pages 614-620.'
     link: 'https://doi.org/10.1016/j.procs.2022.03.080'
-    tags: transport
 
   - paper: 22-01
     author: 'T. Gable, K. Martins-Turner, K. Nagel'
@@ -322,7 +317,6 @@
     author: 'C. Lu, M. Maciejewski, K. Nagel'
     title: 'Effective Operation of Demand-Responsive Transport (DRT): Implementation and Evaluation of Various Rebalancing Strategies; preprint'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-06/ITS_Hamburg_2021_Lu.pdf'
-    tags: transport
 
   - paper: 21-05
     author: 'C. Rakow, I. Kaddoura, C. Lu, R. Nippold, P. Wagner'
