@@ -1,4 +1,9 @@
 2023:
+  - paper: 23-04
+    author: "C. Rakow, K. Nagel"
+    title: "An annealing based approach to informed mode choice in agent-based transport simulations"
+    link: "https://doi.org/10.1016/j.procs.2023.03.086"
+    
   - paper: 23-03
     author: "S. A. Müller, S. Paltra, J. Rehmann, K. Nagel, T. Conrad"
     title: "Explicit Modelling of Antibody Levels for Infectious Disease Simulations in the Context of SARS-CoV-2"
