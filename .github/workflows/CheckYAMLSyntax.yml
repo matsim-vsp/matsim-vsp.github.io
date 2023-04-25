@@ -1,4 +1,6 @@
 # THIS HAS BEEN MERGED INTO autobuild.yml
+# So it will now run on pull request creation, and
+# also as part of the main build process
 # ---------------------------------------
 
 # Check the yaml syntax using YAML Lint
