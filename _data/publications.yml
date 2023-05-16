@@ -705,10 +705,16 @@
     author: 'D. Ziemke, I. Kaddoura, K. Nagel'
     title: 'The MATSim Open Berlin Scenario: A multimodal agent-based transport simulation scenario based on synthetic demand modeling and Open Data; Procedia Computer Science, Volume 151, 2019, 870-877'
     link: 'https://doi.org/10.1016/j.procs.2019.04.120'
+    
 2018:
+  - paper: 18-11
+    author: 'Z. Navidi, K. Nagel, S. Winter'
+    title: 'Toward identifying the critical mass in spatial two-sided markets'
+    link: 'https://journals.sagepub.com/doi/10.1177/2399808319842181'
+
   - paper: 18-10
-    author: 'C. Rodier, M. Jaller'
-    title: 'E. Pourrahmani, A. Pahwa, J. Bischoff & J. Freedman; Automated Vehicle Scenarios: Simulation of System-Level Travel Effects Using Agent-Based Demand and Supply Models in the San Francisco Bay Area; National Center for Sustainable Transportation, National Center for Sustainable Transportation, 2018'
+    author: 'C. Rodier, M. Jaller, E. Pourrahmani, J. Bischoff, J. Freedman, A. Pahwa'
+    title: 'Automated Vehicle Scenarios: Simulation of System-Level Travel Effects Using Agent-Based Demand and Supply Models in the San Francisco Bay Area; National Center for Sustainable Transportation, National Center for Sustainable Transportation, 2018'
     link: 'https://escholarship.org/uc/item/4dk3n531'
 
   - paper: 18-09
