@@ -1,4 +1,10 @@
 2023:
+  - paper: 23-05
+    author: "S. Paltra, I. Bostanci, K. Maier, S. A. Müller, J. Rehmann, C. Schütte, T. Conrad, K. Nagel"
+    title: "MODUS-COVID Bericht vom 16.06.2023"
+    link: "https://doi.org/10.14279/depositonce-17851"
+    tags: episim
+
   - paper: 23-04
     author: "C. Rakow, K. Nagel"
     title: "An annealing based approach to informed mode choice in agent-based transport simulations"
