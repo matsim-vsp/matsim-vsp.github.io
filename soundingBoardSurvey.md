@@ -2,6 +2,10 @@
 title: Sounding Board
 ---
 
+[Aktuelles Dashboard](https://vsp.berlin/sounding-board/current)
+
+---
+
 Freitag:
 * Sonderverkehre - [Umfrage](https://forms.gle/RwXm5mEAoZ1DqaAt7)
 * [Güterverkehr](https://vsp.berlin/sounding-board/ccc/config_gueter) - [Umfrage](https://forms.gle/B27NxLVGAyRWgHw86)
