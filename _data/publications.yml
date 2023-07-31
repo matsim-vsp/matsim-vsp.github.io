@@ -1,4 +1,9 @@
 2023:
+  - paper: 23-06
+    author: "C. Lu, T. Schlenther, S. Meinhardt, K. Nagel"
+    title: "Quantifying the Benefits of Pre-booking in Demand-Responsive Systems Based on Real-World Scenarios; preprint submitted to TRB 2024"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2023/23-06/"
+
   - paper: 23-05
     author: "S. Paltra, I. Bostanci, K. Maier, S. A. Müller, J. Rehmann, C. Schütte, T. Conrad, K. Nagel"
     title: "MODUS-COVID Bericht vom 16.06.2023"
