@@ -1,4 +1,10 @@
 2023:
+  - paper: 23-07
+    author: "S. A. Müller, S. Paltra, J. Rehmann, K. Nagel, T. Conrad"
+    title: "Explicit modeling of antibody levels for infectious disease simulations in the context of SARS-CoV-2"
+    link: "https://doi.org/10.1016/j.isci.2023.107554"
+    tags: episim
+    
   - paper: 23-06
     author: "C. Lu, T. Schlenther, S. Meinhardt, K. Nagel"
     title: "Quantifying the Benefits of Pre-booking in Demand-Responsive Systems Based on Real-World Scenarios; preprint submitted to TRB 2024"
