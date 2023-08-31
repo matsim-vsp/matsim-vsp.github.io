@@ -1,4 +1,9 @@
 2023:
+  - paper: 23-08
+    author: "T. Ziemke, L. Sering, K. Nagel"
+    title: "Spillback Changes the Long-Term Behavior of Dynamic Equilibria in Fluid Queuing Networks"
+    link: "https://doi.org/10.4230/OASIcs.ATMOS.2023.11"
+    
   - paper: 23-07
     author: "S. A. Müller, S. Paltra, J. Rehmann, K. Nagel, T. Conrad"
     title: "Explicit modeling of antibody levels for infectious disease simulations in the context of SARS-CoV-2"
