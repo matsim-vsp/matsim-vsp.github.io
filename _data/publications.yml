@@ -44,6 +44,11 @@
     link: "https://doi.org/10.1016/j.procs.2023.03.021"
 
 2022:
+  - paper: 22-26
+    author: "L. Sering, L. Vargas Koch, T. Ziemke"
+    title: "Convergence of a Packet Routing Model to Flows over Time. Mathematics of Operations Research 48(3):1741-1766."
+    link: "https://doi.org/10.1287/moor.2022.1318"
+    
   - paper: 22-25
     author: "S. Fürst, C. Rakow"
     title: "Parallelization of large-scale agent-based epidemiological simulations; Proceedings of the 34th European Modeling & Simulation Symposium, Volume 008, 2022."
