@@ -1,4 +1,10 @@
 2023:
+  - paper: 23-09
+    author: "S. A. Müller, I. Bostanci, K. Maier, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel"
+    title: "MODUS-COVID Bericht vom 14.09.2023"
+    link: "https://doi.org/10.14279/depositonce-18603"
+    tags: episim
+    
   - paper: 23-08
     author: "T. Ziemke, L. Sering, K. Nagel"
     title: "Spillback Changes the Long-Term Behavior of Dynamic Equilibria in Fluid Queuing Networks"
