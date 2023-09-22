@@ -1,4 +1,9 @@
 2023:
+  - paper: 23-10
+    author: "J. Laudan, S. Banzhaf, B. Khan, K. Nagel"
+    title: "Coupling MATSim and the PALM Model System – Large Scale Microscopic Traffic and Emission Modelling with High Resolution Computational Fluid Dynamics Dispersion Modelling; submitted to Atmospheric Environment: X"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2023/23-10/"
+  
   - paper: 23-09
     author: "S. A. Müller, I. Bostanci, K. Maier, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel"
     title: "MODUS-COVID Bericht vom 14.09.2023"
