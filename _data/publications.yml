@@ -70,6 +70,11 @@
     link: "https://doi.org/10.1016/j.procs.2023.03.021"
 
 2022:
+  - paper: 22-27
+    author: "D. Ziemke"
+    title: "Person-centric integrated modeling of transport and urban systems. PhD thesis."
+    link: "https://doi.org/10.14279/depositonce-17699"
+    
   - paper: 22-26
     author: "L. Sering, L. Vargas Koch, T. Ziemke"
     title: "Convergence of a Packet Routing Model to Flows over Time. Mathematics of Operations Research 48(3):1741-1766."
