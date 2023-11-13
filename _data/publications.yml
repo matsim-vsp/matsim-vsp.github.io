@@ -1,4 +1,10 @@
 2023:
+  - paper: 23-14
+    author: "K. Nagel, I. Bostanci, K. Maier, S. A. Müller, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte"
+    title: "MODUS-COVID Bericht vom 13.11.2023"
+    link: "https://doi.org/10.14279/depositonce-19016"
+    tags: episim
+    
   - paper: 23-13
     author: "S. Meinhardt, S. Paltra, T. Schlenther, K. Nagel"
     title: "Researching the impact of extreme weather events on an On-Demand Transport service - A case study; submitted to IATBR 2024 –  International Conference on Travel Behaviour Research"
