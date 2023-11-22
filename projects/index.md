@@ -10,6 +10,8 @@ Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-
 
 ### Abgeschlossene Projekte (Completed projects)
 
+<!-- This is the starting point for moving the static web pages of the completed projects to here.  We would need one web page per project, i.e., say, nemo.html or nemo.md.  It should be possible to copy them from the google docs copies that Nadia Dautel took.  Alternatively from the html copy that Jakub Wilk took, or from archive.org .   kai, nov'23 -->
+
 <!-- <li ><span class="c5"><a class="c1" href="https://www.google.com/url?q=https://www.bmdv.bund.de/SharedDocs/DE/Artikel/DG/AVF-projekte/reallabhh.html&amp;sa=D&amp;source=editors&amp;ust=1700664889626586&amp;usg=AOvVaw2K_GjKA2kl2b1PCHZh8FLD">RealLabHH</a></span></li> -->
 
 <!-- <li ><span class="c5"><a class="c1" href="https://www.google.com/url?q=https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/AVF-projekte/komodnext.html&amp;sa=D&amp;source=editors&amp;ust=1700664889626879&amp;usg=AOvVaw1y2AW1oSDXfEVzU59kBcyd">KoMoDnext</a></span></li> -->
