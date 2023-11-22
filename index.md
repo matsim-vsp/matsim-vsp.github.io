@@ -30,7 +30,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 - [SimWrapper](https://vsp.berlin/simwrapper) - Model Visualizierung-Platform
 - [matsim.org](https://matsim.org) - MATSim Startseite
 
-[Planungsprojekte:](/projects)
+Planungsprojekte:
 
 - [Sounding Board](/soundingBoardSurvey)
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
