@@ -1,16 +1,9 @@
 ---
-layout: homepage
-title: Startseite
-headline: VSP
-banner_image: /assets/images/banner-berlin.jpg
-description: VSP TU Berlin
+title: Projekte
 ---
 
-<h1 style="margin: 3rem 0 0 0;">VSP: Verkehrssystemplanung und Verkehrstelematik</h1>
+{% include i18n/i18n %}
 
-<h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
-
----
 ### Laufende Projekte (Current projects)
 
 Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-projekte).

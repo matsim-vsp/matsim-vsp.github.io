@@ -2,6 +2,8 @@
 title: Interesting links
 ---
 
+{% include i18n/i18n %}
+
 [Kiezblocks](www.kiezblocks.de)
 
 [Climate calculator](https://en-roads.climateinteractive.org/scenario.html)
