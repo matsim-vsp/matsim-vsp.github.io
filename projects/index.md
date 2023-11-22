@@ -1,6 +1,21 @@
-Laufende Projekte | Current projects: Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-projekte).
+---
+layout: homepage
+title: Startseite
+headline: VSP
+banner_image: /assets/images/banner-berlin.jpg
+description: VSP TU Berlin
+---
 
-Abgeschlossene Projekte | Completed projects:
+<h1 style="margin: 3rem 0 0 0;">VSP: Verkehrssystemplanung und Verkehrstelematik</h1>
+
+<h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
+
+---
+### Laufende Projekte (Current projects)
+
+Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-projekte).
+
+### Abgeschlossene Projekte (Completed projects)
 
 <!-- <li ><span class="c5"><a class="c1" href="https://www.google.com/url?q=https://www.bmdv.bund.de/SharedDocs/DE/Artikel/DG/AVF-projekte/reallabhh.html&amp;sa=D&amp;source=editors&amp;ust=1700664889626586&amp;usg=AOvVaw2K_GjKA2kl2b1PCHZh8FLD">RealLabHH</a></span></li> -->
 
