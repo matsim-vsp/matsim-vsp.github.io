@@ -29,7 +29,7 @@ Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-
 - [Big Data](/projects/BigData)
 - [AVÖV](/projects/AVOeV)
 - [PAVE](/projects/PAVE)
-- IDEAS
+- [IDEAS](/projects/IDEAS)
 - NEMO
 - Shared Autonomous Taxis
 - Transit Optimization
