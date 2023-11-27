@@ -24,7 +24,7 @@ Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-
 
 <!-- I kept the above links since they might be interesting for the corresponding sub-pages.  kai, nov'23 -->
 
-- RealLabHH
+- [RealLabHH](/projects/RealLabHH)
 - KoMoDnext
 - Big Data
 - AVÖV
