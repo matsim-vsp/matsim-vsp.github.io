@@ -25,10 +25,10 @@ Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-
 <!-- I kept the above links since they might be interesting for the corresponding sub-pages.  kai, nov'23 -->
 
 - [RealLabHH](/projects/RealLabHH)
-- KoMoDnext
-- Big Data
-- AVÖV
-- PAVE
+- [KoMoDnext](/projects/KoMoDnext)
+- [Big Data](/projects/BigData)
+- [AVÖV](/projects/AVOeV)
+- [PAVE](/projects/PAVE)
 - IDEAS
 - NEMO
 - Shared Autonomous Taxis
