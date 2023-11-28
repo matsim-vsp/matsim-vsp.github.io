@@ -32,6 +32,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 
 Planungsprojekte:
 
+- [RVR](https://vsp.berlin/simwrapper/public/de/metropole-ruhr/metropole-ruhr-v1.0/output-preliminary-2023-11-28/) - "Öffentliches" Modell für den Regionalverband Ruhr
 - [Sounding Board](/soundingBoardSurvey)
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automatisiertes Fahren im digitalen Testfeld Düsseldorf
