@@ -1,5 +1,5 @@
 ---
-title: MOSAIK-2
+title: RVR Verkehrsmodell Ruhr
 ---
 
 {% include i18n/i18n %}
