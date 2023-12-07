@@ -1,4 +1,9 @@
 2023:
+  - paper: 23-15
+    author: "R. Ewert, K. Nagel"
+    title: "Agentenbasierte Modellierung des kleinräumigen Wirtschaftsverkehrs; accepted for publication at: HEUREKA Conference 2024"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2023/23-15/"
+    
   - paper: 23-14
     author: "K. Nagel, I. Bostanci, K. Maier, S. A. Müller, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte"
     title: "MODUS-COVID Bericht vom 13.11.2023"
