@@ -1,4 +1,10 @@
 2023:
+  - paper: 23-17
+    author: "C. Rodier, A. Horn, Y. Zhang, I. Kaddoura, S. Müller"
+    title: "Effectiveness of Nonpharmaceutical Interventions to Avert the Second COVID-19 Surge in Los Angeles County: A Simulation Study"
+    link: "https://doi.org/10.7922/G2GT5KHK"
+    tags: episim
+    
   - paper: 23-16
     author: "R. Ewert, K. Nagel"
     title: "Investigating different strategies for within day bus parking using an agent-based traffic simulation - A Case Study of Berlin;  submitted to IATBR 2024 –  International Conference on Travel Behaviour Research"
