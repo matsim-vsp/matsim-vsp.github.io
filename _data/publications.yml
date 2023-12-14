@@ -1,4 +1,10 @@
 2023:
+  - paper: 23-18
+    author: "Calero Valdez, André; Conrad, Tim; Greiner, Wolfgang; Karch, André; Kheifetz, Yuri; Kirsten, Holger; Kretzschmar, Mirjam; Kühn, Martin; Kuhlmann, Alexander; Lange, Berit; Leithäuser, Neele; Mikolajczyk, Rafael; Mohring, Jan; Nagel, Kai; Priesemann, Viola; Rehmann, Jakob; Rodiah, Isti; Scholz, Markus; Schütte, Christof; Steinmann, Maren"
+    title: "Szenarien zur Belastung der Bevölkerung und des Gesundheitswesens durch SARS-CoV-2-Infektionen im Winter 2023/24 und Einschätzungen zur Belastung durch andere Atemwegsinfektionen"
+    link: "https://doi.org/10.5281/zenodo.10349965"
+    tags: episim
+    
   - paper: 23-17
     author: "C. Rodier, A. Horn, Y. Zhang, I. Kaddoura, S. Müller"
     title: "Effectiveness of Nonpharmaceutical Interventions to Avert the Second COVID-19 Surge in Los Angeles County: A Simulation Study"
