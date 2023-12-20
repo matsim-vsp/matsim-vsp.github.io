@@ -1,5 +1,10 @@
 2023:
   - paper: 23-19
+    author: ""R. Ewert, M. Dizdar, K. Nagel, T. Richter"
+    title: "Entwicklung und Untersuchung verschiedener Maßnahmen zur Strukturierung des Berliner Reisebusverkehrs mithilfe einer agentenbasierten Verkehrssimulation; Abschlussbericht zum Projekt "Reisebusstrategie für Berlin"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2023/23-20"
+    
+  - paper: 23-19
     author: "Epke A. Le Rutte, Andrew J Shattock, Cheng Zhao, Soushieta Jagadesh, Miloš Balać, Sebastian A. Müller, Kai Nagel, Alexander L. Erath, Kay W. Axhausen, Thomas P. Van Boeckel, Melissa A. Penny"
     title: "A case for ongoing structural support to maximise infectious disease modelling efficiency for future public health emergencies: a modelling perspective"
     link: "https://doi.org/10.1016/j.epidem.2023.100734"
