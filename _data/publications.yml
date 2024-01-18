@@ -1,4 +1,10 @@
 2024:
+  - paper: 24-02
+    author: "S. Paltra, T. Conrad"
+    title: "Clinical Effectiveness of Ritonavir-Boosted Nirmatrelvir—A Literature Review"
+    link: "https://doi.org/10.3390/arm92010009"
+    tags: episim
+    
   - paper: 24-01
     author: "C. Lu, S. Tiwari, N. Nassir, K. Nagel"
     title: "Efficient operation of demand-responsive transport (DRT) systems: Active requests rejection; preprint, accepted for ANT 2024"
