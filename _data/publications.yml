@@ -1,4 +1,8 @@
 2024:
+  - paper: 24-04
+    author: "D. Tamleh, T. Schlenther, K. Nagel"
+    title: "Investigating the impact of stop network designs on DRT operation; accepted for ABMTrans 2024"
+
   - paper: 24-03
     author: "G. Rybczak, S. Meinhardt, T. Schlenther, C. Rakow, D. Ziemke, K. Nagel"
     title: "Agent-based modeling of residential parking zones in Leipzig; accepted for ABMTrans 2024"
