@@ -1,4 +1,9 @@
 2024:
+  - paper: 24-06
+    author: "T. Tietz, F. Tu-Anh, T.Schlenther, D. Göhlich"
+    title: "Electric Long-Haul Trucks and High-Power Charging - Modelling and Analysis of the Required Infrastructure in Germany; submitted to EVS37 Symposium"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-06/"
+    
   - paper: 24-05
     author: "N. Richter, K. Martins-Turner, K. Nagel"
     title: "Extension of an agent-based simulation for the optimized allocation of freight requests to differently structured supply chains; accepted for ABMTrans 2024"
