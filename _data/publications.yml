@@ -1,4 +1,10 @@
 2024:
+  - paper: 24-07
+    author: "I. Bostanci, K. Maier, S. Paltra, C. Rakow, J. Rehmann, C. Schütte, K. Nagel, T. Conrad"
+    title: "MODUS-COVID Bericht vom 22.02.2024"
+    link: "https://doi.org/10.14279/depositonce-19869"
+    tags: episim
+    
   - paper: 24-06
     author: "T. Tietz, T.-A. Fay , T. Schlenther, D. Göhlich"
     title: "Electric Long-Haul Trucks and High-Power Charging - Modelling and Analysis of the Required Infrastructure in Germany; submitted to EVS37 Symposium"
