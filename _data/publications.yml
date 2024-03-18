@@ -1,4 +1,8 @@
 2024:
+  - paper: 24-08
+    author: "C. Rakow, K. Nagel"
+    title: "Road network free flow speed estimation using microscopic simulation and point-to-point travel times; accepted for ABMTrans 2024"
+
   - paper: 24-07
     author: "I. Bostanci, K. Maier, S. Paltra, C. Rakow, J. Rehmann, C. Schütte, K. Nagel, T. Conrad"
     title: "MODUS-COVID Bericht vom 22.02.2024"
