@@ -1,4 +1,9 @@
 2024:
+  - paper: 24-09
+    author: "J. Laudan, P. Heinrich, K. Nagel"
+    title: "Distributed parallel Qsim implementation in Rust; Extended Abstract submitted for MATSim User Meeting"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-09/"
+    
   - paper: 24-08
     author: "C. Rakow, K. Nagel"
     title: "Road network free flow speed estimation using microscopic simulation and point-to-point travel times; accepted for ABMTrans 2024"
