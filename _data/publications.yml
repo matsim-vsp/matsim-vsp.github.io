@@ -1,4 +1,10 @@
 2024:
+  - paper: 24-10
+    author: "J. Laudan, P. Heinrich, K. Nagel"
+    title: "High-Performance Simulations for Urban Planning: Implementing Parallel Distributed Multi-Agent Systems in MATSim"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-10/"
+    tags: MATSim
+    
   - paper: 24-09
     author: "J. Laudan, P. Heinrich, K. Nagel"
     title: "Distributed parallel Qsim implementation in Rust; Extended Abstract submitted for MATSim User Meeting"
