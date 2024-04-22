@@ -1,4 +1,9 @@
 2024:
+  - paper: 24-11
+    author: "S. Meinhardt, T. Schlenther, C. Lu"
+    title: "Investigating the Impact of Blocked Critical Infrastructure on an On-Demand Service in Kelheim, Germany"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-11/"
+    
   - paper: 24-10
     author: "J. Laudan, P. Heinrich, K. Nagel"
     title: "High-Performance Simulations for Urban Planning: Implementing Parallel Distributed Multi-Agent Systems in MATSim"
