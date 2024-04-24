@@ -1,7 +1,7 @@
 2024:
   - paper: 24-12
     author: "P. Heinrich, J. Laudan, K. Nagel"
-    title: "Real-Time Routing in Traffc Simulations: A Distributed Event Processing Approach"
+    title: "Real-Time Routing in Traffic Simulations: A Distributed Event Processing Approach"
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-12/"
     tags: MATSim
   
