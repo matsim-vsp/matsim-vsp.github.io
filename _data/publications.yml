@@ -3,7 +3,7 @@
     author: "P. Heinrich, J. Laudan, K. Nagel"
     title: "Real-Time Routing in Traffic Simulations: A Distributed Event Processing Approach"
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-12/"
-    tags: MATSim
+    tags: matsim
   
   - paper: 24-11
     author: "S. Meinhardt, T. Schlenther, C. Lu"
@@ -14,7 +14,7 @@
     author: "J. Laudan, P. Heinrich, K. Nagel"
     title: "High-Performance Simulations for Urban Planning: Implementing Parallel Distributed Multi-Agent Systems in MATSim"
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-10/"
-    tags: MATSim
+    tags: matsim
     
   - paper: 24-09
     author: "J. Laudan, P. Heinrich, K. Nagel"
