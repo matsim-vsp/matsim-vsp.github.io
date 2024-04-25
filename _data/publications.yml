@@ -1,4 +1,10 @@
 2024:
+-   paper: 24-13
+    author: "K. Sherratt, A. Srivastava, K. Ainslie, D. Singhe, A. Cublier, M. C. Marinescu, J. Carretero, A. Cascajo Garcia, N. Franco, L. Willem, S. Abrams, C. Faes, P. Beutels, N. Hens, S. Müller, B. Charlton, R. Ewert, S. Paltra, Ch. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel, S. Abbott, R. Grah, R. Niehus, B. Prasse, F. Sandmann, S. Funk"
+    title: "Characterising information gains and losses when collecting multiple epidemic model outputs"
+    link: "https://doi.org/10.1016/j.epidem.2024.100765"
+    tags: episim
+
   - paper: 24-12
     author: "P. Heinrich, J. Laudan, K. Nagel"
     title: "Real-Time Routing in Traffic Simulations: A Distributed Event Processing Approach"
