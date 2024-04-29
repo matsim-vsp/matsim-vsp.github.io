@@ -32,6 +32,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 
 Planungsprojekte:
 
+- [NaMaV] (https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav)
 - [RVR](/projects/rvr) - "Öffentliches" Modell für den Regionalverband Ruhr
 - [Sounding Board](/soundingBoardSurvey)
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
