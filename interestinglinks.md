@@ -27,3 +27,5 @@ title: Interesting links
 [EAISER Easy sustainable urban transport](https://easier.dtu.dk/en/)
 
 [SynphOnie Synergien aus physikalischen und verkehrsplanerischen Modellen zur multikriteriellen Optimierung multimodaler nachfrageorientierter Verkehre](https://math.rptu.de/ags/opt/forschung/forschungsprojekte/synphonie).  Can't find a central website for that project.
+
+[Running DRT projects in practice (in Gronau near Münster)](https://www.gronau.de/leben-in-gronau/verkehr/mein-g-mobil/)
