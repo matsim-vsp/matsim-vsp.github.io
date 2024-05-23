@@ -52,7 +52,7 @@ Covid:
 
 ### Contact Us
 
-Transport Systems Planninng and Transport Telematics<br/>
+Transport Systems Planning and Transport Telematics<br/>
 Email: <mailto:sekretariat@vsp.tu-berlin.de><br/>
 Tel: +49-30-314-23308
 
