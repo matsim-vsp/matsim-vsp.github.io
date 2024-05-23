@@ -4,7 +4,7 @@ title: Home
 headline: VSP
 ---
 
-<h1 style="margin: 3rem 0 0 0;">VSP: Transport Systems Planning and Telematics</h1>
+<h1 style="margin: 3rem 0 0 0;">VSP: Transport Systems Planning and Transport Telematics</h1>
 
 <h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
 
@@ -47,3 +47,29 @@ Covid:
 
 - [Reading list](/readinglist)
 - [Interesting links](/interestinglinks)
+
+---
+
+### Contact Us
+
+Transport Systems Planninng and Transport Telematics<br/>
+Email: <mailto:sekretariat@vsp.tu-berlin.de><br/>
+Tel: +49-30-314-23308
+
+Building: KAI, Raum 5210
+
+**Address:**<br/>
+Kaiserin-Augusta-Allee 104<br/>
+D-10553 Berlin
+
+**Office Hours:**<br/>
+10:00-16:00 Mondays<br/>
+15:00-18:00 Thursdays
+
+For office hour appointments, please arrange beforehand via E-mail:<br/>
+<mailto:sekretariat@vsp.tu-berlin.de> or <mailto:lehre@vsp.tu-berlin.de>
+
+
+
+
+

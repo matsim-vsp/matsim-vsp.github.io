@@ -52,3 +52,24 @@ Covid:
 
 - [Leseliste](/readinglist)
 - [Interessante Links](/interestinglinks)
+
+---
+
+### Kontakt
+
+Fachgebeit für Verkehrssystemplanung und Verkehrstelematik<br/>
+Email: <mailto:sekretariat@vsp.tu-berlin.de><br/>
+Tel: +49-30-314-23308
+
+Gebäude: KAI, Raum 5210
+
+**Addresse:**<br/>
+Kaiserin-Augusta-Allee 104<br/>
+D-10553 Berlin
+
+**Sprechstunden:**<br/>
+10:00-16:00 Montag<br/>
+15:00-18:00 Donnerstag
+
+Sprechstundentermine bitte vorab per E-Mail vereinbaren:<br/>
+<mailto:sekretariat@vsp.tu-berlin.de> oder <mailto:lehre@vsp.tu-berlin.de>
