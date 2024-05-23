@@ -20,7 +20,7 @@ You need Ruby 3.3.0 installed, so that the dependency bundler can install all th
 - Install Ruby 3.3.0 for your system
   - On Mac homebrew this is `brew install ruby@3.3`
   - Or `rbenv install 3.3.0` and `rbenv global 3.3.0`
-- `bundle install`
+- `bundle install`. If this step has build errors, try deleted `Gemfile.lock` and trying again.
 
 Now you can run locally:
 
