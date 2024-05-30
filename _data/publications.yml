@@ -1,4 +1,10 @@
 2024:
+  - paper: 24-15
+    author: "S. Paltra, J. Rehmann"
+    title: "Local vs. Global Risk Perception’s Effect in Dampening Infectious Disease Outbreaks – An Agent-Based Modeling Study"
+    link: "https://doi.org/10.1007/978-3-031-61312-8_12"
+    tags: episim 
+    
   - paper: 24-14
     author: "S. Paltra, I. Bostanci, K. Nagel"
     title: "The effect of mobility reductions on infection growth is quadratic in many cases"
