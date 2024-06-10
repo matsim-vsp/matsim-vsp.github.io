@@ -1,4 +1,9 @@
 2024:
+  - paper: 24-16
+    author: "C. Lu, N. Kühnel"
+    title: "To Wait or to Cruise: The Trade-Off Between Waiting Time and Detours for Service Efficiency in Ride-pooling Systems; preprint, submitted to EWGT 2024"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-16/LuKuehnel2024DrtConstraintsStudy.pdf"
+  
   - paper: 24-15
     author: "S. Paltra, J. Rehmann"
     title: "Local vs. Global Risk Perception’s Effect in Dampening Infectious Disease Outbreaks – An Agent-Based Modeling Study"
