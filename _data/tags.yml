@@ -75,3 +75,51 @@
 
 - tag: various-sav
   description: Shared Autonomous Taxis
+
+- tag: erafrica-maxess
+  description: maxess
+
+- tag: smart-pt
+  description: Smart PT
+
+- tag: einstein-eCab
+  description: eCab Simulationsbasiertes System für ein nachhaltiges Management von elektrisch angetriebenen Taxiflotten
+
+- tag: city2000w
+  description: 2000 Watt City
+
+- tag: africa-city
+  description: Developing an Urban Simulation System for a Major West African City
+
+- tag: bkickhoefer
+  description: Durch Benjamin Kickhöfer betreute Abschlussarbeiten
+
+- tag: dgrether
+  description: Durch Dominik Grether betreute Abschlussarbeiten
+
+- tag: grips
+  description: GIS-based risk assessment and incident preparation system
+
+- tag: multiDestPeds
+  description: Simulation of Multi Destination Pedestrian Crowds
+
+- tag: bvwp
+  description: Bundesverkehrswegeplanung
+
+- tag: detEval
+  description: Detaillierte Evaluation
+
+- tag: pt-routing
+  description: Pt Routing (Manuel)
+
+- tag: sustain-city
+  description: SustainCity (EU)
+
+- tag: dfg-staEst
+  description: State estimation for traffic simulations as coarse grained systems (DFG)
+
+- tag: vw-socialnets
+  description: Social networks (Travel Impact of Social Networks and Networking Tools)
+
+- tag: bmbf-advest
+  description: Adaptive Verkehrssteuerung (ADVEST)
