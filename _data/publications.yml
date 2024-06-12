@@ -1386,8 +1386,8 @@
     author: 'T. Nicolai'
     title: 'MATSim for urbansim: integrating an urban simulation model with a travel model; Ph.D. thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-3871'
-    tags:sustain-city
-
+    tags: sustain-city
+ 
   - paper: 14-07
     author: 'L. Padgham, K. Nagel, D. Singh, Q. Chen'
     title: 'Integrating BDI Agents into a MATSim Simulation'
