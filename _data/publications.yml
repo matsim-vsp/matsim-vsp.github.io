@@ -1053,7 +1053,8 @@
     author: 'A. Agarwal'
     title: 'Mitigating Negative Transport Externalities in Industrialized and Industrializing Countries; PhD thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-5825'
-
+    tags: minte, matsim
+    
   - paper: 17-06
     author: 'M. Maciejewski, J. Bischoff, S. Hörl, K. Nagel'
     title: 'Towards a testbed for dynamic vehicle routing algorithms; PAAMS 2017. Communications in Computer and Information Science, vol 722. Springer, Cham,  doi: 10.1007/978-3-319-60285-1_6'
