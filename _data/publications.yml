@@ -225,6 +225,7 @@
     author: 'K. Martins-Turner, K. Nagel'
     title: 'Agent-based solving of the 2-echelon Vehicle Routing Problem; Accepted for presentation at WCTR 2023'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-22/'
+    tags: dfg-freight
 
   - paper: 22-21
     author: 'W. Charlton, B. Sana'
@@ -533,7 +534,7 @@
     author: 'W. Charlton, G. Leich, I. Kaddoura, K. Nagel'
     title: 'Open-Source Web-Based Visualizer for Dynamic-Response Shared Taxi Simulations; ABMTrans 2021'
     link: 'https://doi.org/10.1016/j.procs.2021.03.090'
-    tags: visualization
+    tags: visualization, bmvi-avoev
 
 2020:
   - paper: 20-44
@@ -593,6 +594,7 @@
     author: 'R. Miranda Jahn, A. Syré, A. Grahle, K. Martins-Turner, D. Göhlich'
     title: 'Methodology for Determining Charging Strategies for Freight Traffic Vehicles based on Traffic Simulation Results; Procedia Computer Science, Volume 184, 2021, 656-661'
     link: 'https://doi.org/10.1016/j.procs.2021.03.082'
+    tags: dfg-carbon-free-traffic
 
   - paper: 20-33
     author: 'S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, H. Wulkow, T. Conrad, K. Nagel, C. Schütte'
@@ -839,6 +841,7 @@
     author: 'J. Bischoff'
     title: 'Mobility as a service and the transition to driverless systems; PhD thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-8270'
+    tags: matsim, various-sav
 
   - paper: 19-10
     author: 'I. Kaddoura, J. Laudan, D. Ziemke, K. Nagel'
@@ -925,6 +928,7 @@
     author: 'G. Leich, J. Bischoff'
     title: 'Should autonomous shared taxis replace buses? A simulation study; Transportation Research Procedia,Volume 41, 2019, 450-460'
     link: 'https://doi.org/10.1016/j.trpro.2019.09.076'
+    tags: various-sav, matsim, bmvi-avoev
 
   - paper: 18-04
     author: 'J. Bischoff, K. Führer, M. Maciejewski'
@@ -977,11 +981,13 @@
     author: 'A. Agarwal, I. Kaddoura'
     title: 'On-road air pollution exposure to cyclists in an agent-based simulation framework; accepted at NECTAR Cluster 7 Workshop: Social and Health Issues in Transportation 2018, Utrecht'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2017/17-22'
+    tags: matsim
 
   - paper: 17-21
     author: 'A. Agarwal, D. Ziemke, K. Nagel'
     title: 'Calibration of Choice Model Parameters in a Transport Scenario with Heterogeneous Traffic Conditions and Income Dependency; submitted to Transportation Letters'
     link: 'http://dx.doi.org/10.14279/depositonce-9221'
+    tags: matsim, minte
 
   - paper: 17-20
     author: 'I. Kaddoura, K. Nagel'
@@ -992,6 +998,7 @@
     author: 'I. Kaddoura, A. Agarwal, B. Kickhöfer'
     title: "Simulation-based optimization of congestion, noise and air pollution costs: The impact of transport users' choice dimensions; presented at ITEA 2017, Barcelona"
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2017/17-19/'
+    tags: minte, matsim, dfg-pricing
 
   - paper: 17-18
     author: 'N. Schirrmacher'
@@ -1022,6 +1029,7 @@
     author: 'A. Agarwal, D. Ziemke, K. Nagel'
     title: 'Calibration of heterogeneous traffic scenario in an agent-based simulation framework; accepted for CTRG 2017'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2017/17-13'
+    tags: matsim, minte
 
   - paper: 17-12
     author: 'D. Ziemke, K. Nagel'
@@ -1226,6 +1234,7 @@
     author: 'A. Agarwal, B. Kickhöfer, K. Nagel'
     title: 'The Internalization of Congestion and Air Pollution Externalities: Evaluating Behavioral Impacts; accepted for IATBR 2015'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2015/15-11/'
+    tags: matsim, minte
 
   - paper: 15-10
     author: 'N. Kühnel'
@@ -1292,6 +1301,7 @@
     author: 'M. Moyo Oliveros'
     title: 'Calibration of public transit routing for multi-agent simulation, PhD thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-4061'
+    tags: pt-routing
 
   - paper: 14-22
     author: 'M. Zilske, K. Nagel'
@@ -1302,6 +1312,7 @@
     author: 'D. Grether'
     title: 'Extension of a multi-agent transport simulation for traffic signal control and air transport Systems; PhD thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-4084'
+    tags: dfg-signals, matsim
 
   - paper: 14-20
     author: 'M. Rieser, C. Dobler, T. Dubernet, D. Grether, A. Horni, G. Lammel, R. Waraich, M. Zilske, K. W. Axhausen, K. Nagel'
@@ -1341,6 +1352,7 @@
     author: 'A. Neumann'
     title: 'A paratransit-inspired evolutionary process for public transit network design; PhD thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-4096'
+    tags: dfg-paratransit, smart-pt
 
   - paper: 14-12
     author: 'Intraplan, Planco, TU Berlin'
@@ -1427,6 +1439,7 @@
     author: 'T. Nicolai, K. Nagel'
     title: 'Integration of agent-based transport and land use models; submitted to Handbook on Sustainable Land Use Modelling; M. Bierlaire, A. de Palma, P. Waddell (ed.)'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2013/13-20/'
+    tags: sustain-city
 
   - paper: 13-19
     author: 'D. Ziemke'
@@ -1442,6 +1455,7 @@
     author: 'J. Bischoff'
     title: "Agentenbasierte Simulation elektrifizierter Taxiflotten; Master's thesis"
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2013/13-17/'
+    tags: einstein-eCab
 
   - paper: 13-16
     author: 'D. Röder, I. Cabrita, K. Nagel'
@@ -1487,6 +1501,7 @@
     author: 'A. Graf'
     title: "Die Bewertung der Qualität des Schülerverkehrs unter Anwendung der Multiagentensimulation MATSim; Master's thesis"
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2013/13-08/'
+    tags: dgrether
 
   - paper: 13-07
     author: 'T. Thunig, T. W. Nicolai'
@@ -1634,6 +1649,7 @@
     author: 'G. Flötteröd, Y. Chen, K.Nagel'
     title: 'Choice model refinement from network data; submitted to IATBR 2012'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2012/12-08'
+    tags: dfg-staEst, matsim
 
   - paper: 12-07
     author: 'A. Horni, K. Nagel, K. Axhausen'
@@ -1686,6 +1702,7 @@
     author: 'S. Fürbas'
     title: 'Modellierung und Simulation des europäischen (Flug)Linien-Verkehrs; Berlin 2011'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2011/11-30'
+    tags: dgrether
 
   - paper: 11-29
     author: 'G. Lämmel'
@@ -1711,6 +1728,7 @@
     author: 'G. Lämmel, M. Plaue'
     title: 'Getting out of the way: collision avoiding pedestrian models compared to the real world; submitted to PED 2012'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2011/11-25'
+    tags: multiDestPeds
 
   - paper: 11-24
     author: 'C. Dobler, G. Lämmel'
@@ -1736,6 +1754,7 @@
     author: 'G. Lämmel'
     title: 'Coupling force-based and graph-based models for multi-agent wayfinding in complex environments; submitted to cavw'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2011/11-20/'
+    tags: multiDestPeds
 
   - paper: 11-19
     author: 'S. Schröder, M. Zilske, G. Liedtke, K. Nagel'
@@ -1761,11 +1780,13 @@
     author: 'A. Neumann, K. Nagel'
     title: 'A paratransit-inspired evolutionary process for public transit network design; submitted to TRB 2012'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2011/11-15/'
+    tags: dfg-paratransit, matsim
 
   - paper: 11-14
     author: 'A. Neumann, M. Balmer'
     title: 'Micro meets macro: A combined approach for a large-scale, agent-based, multi-modal and dynamic transport model for Berlin'
     link: 'https://svn.vsp.tu-berlin.de/repos/shared-svn/publications/vspwp/2011/11-14/'
+    tags: matsim
 
   - paper: 11-13
     author: 'M. Moyo O., K. Nagel'
@@ -1796,6 +1817,7 @@
     author: 'D. Grether, A. Neumann, K. Nagel'
     title: 'Traffic light control in multi-agent transport simulations'
     link: 'see WP 12-03 and 11-12'
+    tags: dfg-signals, matsim
 
   - paper: 11-07
     author: 'T. W. Nicolai, L. Wang, K. Nagel, P. Waddell'
@@ -1826,6 +1848,7 @@
     author: 'B. Kickhöfer, K. Nagel'
     title: 'Mapping emissions to individuals - New insights with multi-agent transport simulations; presented at CUPUM 2011'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2011/11-02/'
+    tags: detEval, matsim
 
   - paper: 11-01
     author: 'J. Illenberger, G. Flötteröd'
@@ -1872,6 +1895,7 @@
     author: 'Nagel, K., M. Winter, T. Beckers, W. Röhling, G. Liedtke, and A. Scholz'
     title: 'Analyse der verkehrsprognostischen Instrumente der Bundesverkehrswegeplanung; Endbericht, 2010'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2010/10-09/'
+    tags: bvwp
 
   - paper: 10-08
     author: 'A. Neumann, K. Nagel'
@@ -1912,6 +1936,7 @@
     author: 'G. Lämmel, H. Klüpfel, K. Nagel'
     title: 'Risk minimizing evacuation strategies under uncertainty; PED 2010'
     link: 'http://dx.doi.org/10.14279/depositonce-8264'
+    tags: LastMile
 
 2009:
   - paper: 09-17
@@ -1923,11 +1948,13 @@
     author: 'G. Lämmel, H. Klüpfel, K. Nagel'
     title: 'Risk minimizing evacuation strategies under uncertainty; PED 2010'
     link: 'see WP 10-01'
+    tags: LastMile
 
   - paper: 09-15
     author: 'J. Illenberger, G. Flötteröd, M. Kowald, K. Nagel'
     title: 'A model for spatially embedded social networks; IATBR 2009'
     link: 'https://doi.org/10.3929/ethz-a-005916565'
+    tags: vw-socialnets
 
   - paper: 09-14
     author: 'K. Nagel, G. Flötteröd'
@@ -1938,11 +1965,13 @@
     author: 'Grether, D. and Kickhöfer, B. and Nagel, K.'
     title: 'Policy evaluation in multi-agent transport simulations considering income-dependent user preferences; IATBR 2009'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2009/09-13/'
+    tags: bmbf-advest, detEval, matsim 
 
   - paper: 09-12
     author: 'G. Flötterörd, Y. Chen, K. Nagel'
     title: 'Behavioral calibration of a large-scale travel behavior microsimulation; IATBR 2009'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2009/09-12/'
+    tags: dfg-staEst, matsim
 
   - paper: 09-11
     author: 'M. Rieser, K. Nagel'
@@ -1953,6 +1982,7 @@
     author: 'B. Kickhöfer'
     title: 'Die Methodik der ökonomischen Bewertungvon Verkehrsmaßnahmen in Multiagentensimulationen; Master thesis, TU Berlin'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2009/09-10'
+    tags: dgrether
 
   - paper: 09-09
     author: 'D. Grether, B. Kickhöfer, K. Nagel'
@@ -1978,6 +2008,7 @@
     author: 'G. Lämmel, H. Klüpfel, K. Nagel'
     title: "Preliminary result of a large scale microscopic evacuation simulation for the city of Padang in the case of Tsunami; ICEM'09"
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2009/09-05/'
+    tags: LastMile
 
   - paper: 09-04
     author: 'G. Lämmel, G. Flötteröd'
@@ -2019,6 +2050,7 @@
     author: 'A. Neumann'
     title: 'Modellierung und Evaluation von Lichtsignalanlagen in Queue-Simulationen; Diplomarbeit, Berlin 2008'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2008/08-24'
+    tags: dgrether, dfg-signals, matsim
 
   - paper: 08-23
     author: 'M. Schäfer'
@@ -2049,11 +2081,13 @@
     author: 'G. Lämmel, H. Klüpfel, K. Nagel'
     title: "Preliminary result of a large scale microscopic evacuation simulation for the city of Padang in the case of a tsunami; ICTW'08 Bali"
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2008/08-18'
+    tags: LastMile
 
   - paper: 08-17
     author: 'G. Flötteröd'
     title: 'Traffic state estimation with multi-agent simulations; PhD thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-668'
+    tags: matsim, dfg-staEst
 
   - paper: 08-16
     author: 'J. Illenberger, G. Flötteröd, K. Nagel'
@@ -2074,6 +2108,7 @@
     author: 'G. Lämmel, K. Nagel'
     title: "Multi-agent based large-scale evacuation simulation; TRB'09"
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2008/08-13'
+    tags: LastMile
 
   - paper: 08-12
     author: 'G. Flötteröd, K. Nagel'
@@ -2084,6 +2119,7 @@
     author: 'G. Lämmel, M. Rieser, K. Nagel, H. Taubenböck, G. Strunz, N. Goseberg, Th. Schlurmann, H. Klüpfel, N. Setiadi'
     title: "Emergency preparedness in the case of a Tsunami -- Evacuation analysis and Traffic optimization for the Indonesian city of Padang; PED'08 talk"
     link: 'http://dx.doi.org/10.14279/depositonce-8267'
+    tags: LastMile
 
   - paper: 08-10
     author: 'D. Grether, Y. Chen, M. Rieser, K. Nagel'
@@ -2114,6 +2150,7 @@
     author: 'G. Lämmel, M. Rieser, K. Nagel'
     title: "Large scale microscopic evacuation simulation; PED'08 poster"
     link: 'http://dx.doi.org/10.14279/depositonce-8268'
+    tags: LastMile
 
   - paper: 08-04
     author: 'A.L.C. Bazzan, K. Nagel, F. Klügl'
@@ -2206,6 +2243,7 @@
     title: 'High speed combined micro/macro simulation of traffic flow;'
     link: 'http://dx.doi.org/10.14279/depositonce-7737'
     link2: 'http://www.itsc2007.org/'
+    tags: matsim
 
   - paper: 07-06
     author: 'R.K. Rai, M. Balmer, M.Rieser, V. Vaze, S. Schönfelder, K. Axhausen'
@@ -2323,6 +2361,7 @@
     title: ''
     link: 'http://www2.tu-berlin.de/fb10/ISS/FG4/publications/workingpapers/2006/03'
     link2: 'http://www.itsc2006.org/'
+    tags: dfg-staEst, matsim
 
   - paper: 06-02
     author: ''
