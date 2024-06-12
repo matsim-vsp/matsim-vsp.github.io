@@ -810,6 +810,7 @@
     author: 'D. Singh, L. Padgham, K. Nagel'
     title: 'Using MATSim as a Component in Dynamic Agent-Based Micro-Simulations'
     link: 'http://dx.doi.org/10.14279/depositonce-9447'
+    tags: matsim
 
   - paper: 19-16
     author: 'F. Creutzig, M. Franzen, R. Moeckel, D. Heinrichs, K. Nagel, S. Nieland, H. Weisz'
@@ -1138,6 +1139,7 @@
     author: 'A. Agarwal, G. Lämmel, K. Nagel'
     title: 'Incorporating within link dynamics in an agent-based computationally faster and scalable queue model; accepted in Transportmetrica A'
     link: 'http://dx.doi.org/10.14279/depositonce-8217'
+    tags: matsim, minte
 
   - paper: 16-09
     author: 'M. Zilske, K. Nagel'
@@ -1189,6 +1191,7 @@
     author: 'A. Agarwal, B. Kickhöfer'
     title: 'The correlation of externalities in marginal cost pricing: Lessons learned from a real-world case study; accepted in Transportation'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2015/15-20/'
+    tags: matsim, minte
 
   - paper: 15-19
     author: 'K. Nagel'
@@ -1214,6 +1217,7 @@
     author: 'A. Agarwal, G. Lämmel, K. Nagel'
     title: 'Modelling of Backward Travelling Holes in Mixed Traffic Conditions using an Agent Based; Simulation; accepted for TGF 2015'
     link: 'http://dx.doi.org/10.14279/depositonce-8231'
+    tags: matsim, minte
 
   - paper: 15-14
     author: 'Planco GmbH, Intraplan Consult GmbH, TU Berlin Service GmbH'
@@ -1245,6 +1249,7 @@
     author: 'A. Agarwal, G. Lämmel'
     title: 'Modeling seepage behavior of smaller vehicles in mixed traffic conditions using an agent based simulation; accepted for CTRG 2015 and in Transportation in Developing Economies'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2015/15-09/'
+    tags: matsim, minte
 
   - paper: 15-08
     author: 'J. Bischoff, M. Maciejewski'
@@ -1275,6 +1280,7 @@
     author: 'A. Agarwal, B. Kickhöfer'
     title: 'Agent-based simultaneous optimization of congestion and air pollution: A real-world case study; accepted for ABMTRANS 2015'
     link: 'http://dx.doi.org/10.14279/depositonce-6819'
+    tags: matsim, minte
 
   - paper: 15-02
     author: 'A. Neumann'
@@ -1285,6 +1291,7 @@
     author: 'A. Agarwal, G. Lämmel'
     title: 'Seepage of smaller vehicles under heterogeneous traffic conditions; accepted for ABMTRANS 2015'
     link: 'http://dx.doi.org/10.14279/depositonce-6817'
+    tags: matsim, minte
 
 2014:
   - paper: 14-25
@@ -1327,6 +1334,7 @@
     author: 'A. Agarwal, B. Kickhöfer'
     title: 'A Combined Marginal Social Cost Approach for Automobile Emissions and Congestion'
     link: 'http://dx.doi.org/10.14279/depositonce-5764'
+    tags: matsim, minte
 
   - paper: 14-17
     author: 'I. Kaddoura, B. Kickhöfer, A. Neumann, A. Tirachini'
@@ -1378,6 +1386,7 @@
     author: 'T. Nicolai'
     title: 'MATSim for urbansim: integrating an urban simulation model with a travel model; Ph.D. thesis'
     link: 'http://dx.doi.org/10.14279/depositonce-3871'
+    tags:sustain-city
 
   - paper: 14-07
     author: 'L. Padgham, K. Nagel, D. Singh, Q. Chen'
@@ -1434,6 +1443,7 @@
     author: 'T. Nicolai, C. Zöllig Renner, K. Nagel'
     title: 'General description of the state of the art of integrated transport land use modeling; submitted to Handbook on Sustainable Land Use Modelling; M. Bierlaire, A. de Palma, P. Waddell (ed.)'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2013/13-21/'
+    tags: sustain-city
 
   - paper: 13-20
     author: 'T. Nicolai, K. Nagel'
@@ -1507,11 +1517,13 @@
     author: 'T. Thunig, T. W. Nicolai'
     title: 'Spatial interpolation of accessibilities'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2013/13-07/'
+    tags: sustain-city
 
   - paper: 13-06
     author: 'T. W. Nicolai'
     title: 'Investigating the MATSim warm and hot start capability'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2013/13-06/'
+    tags: sustain-city
 
   - paper: 13-05
     author: 'M. Maciejewski, K. Nagel'
@@ -1543,6 +1555,7 @@
     author: 'T.W. Nicolai'
     title: 'Using MATSim as a travel model plug-in to UrbanSim'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2012/12-29/'
+    tags: sustain-city
 
   - paper: 12-28
     author: 'J. Illenberger'
@@ -1578,6 +1591,7 @@
     author: 'T.W. Nicolai, K.Nagel'
     title: 'Sensitivity tests with high resolution accessibility computations; presented at LATSIS 2012'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2012/12-22/'
+    tags: sustain-city
 
   - paper: 12-21
     author: 'J.Illenberger'
@@ -1680,6 +1694,7 @@
     author: 'M. Zilske, S. Schröder, K. Nagel, G. Liedtke'
     title: 'Adding freight traffic to MATSim'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2012/12-02/'
+    tags: city2000w, matsim
 
   - paper: 12-01
     author: 'T. Frazier, A. Alfons'
@@ -1823,6 +1838,7 @@
     author: 'T. W. Nicolai, L. Wang, K. Nagel, P. Waddell'
     title: 'Coupling an urban simulation model with a travel model – A first sensitivity test; presented at CUPUM 2011'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2011/11-07/'
+    tags: sustain-city
 
   - paper: 11-06
     author: 'M. Maciejewski, K. Nagel'
@@ -1875,6 +1891,7 @@
     author: 'T.W. Nicolai, K. Nagel'
     title: 'Coupling MATSim and UrbanSim: Software design issues'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2010/10-13/'
+    tags: sustain-city
 
   - paper: 10-12
     author: 'G. Flötteröd, Y. Chen, K. Nagel'
@@ -1977,6 +1994,7 @@
     author: 'M. Rieser, K. Nagel'
     title: 'Combined agent-based simulation of private car traffic and transit; IATBR 2009'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2009/09-11/'
+    tags: dfg-paratransit, matsim
 
   - paper: 09-10
     author: 'B. Kickhöfer'
