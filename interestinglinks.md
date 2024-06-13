@@ -33,3 +33,5 @@ title: Interesting links
 [evacuation modelling in Australia; SEEKER uses MATSim (as of 2024)](https://research.csiro.au/evacuation/)
 
 [R2K-Klim+ Strategisches Entscheidungsunterstützungstool zur Anpassung an den Klimawandel auf regionaler und kommunaler Ebene im Rheineinzugsgebiet](https://r2k-klim.net/)
+
+... [dazugehörendes Entscheidungsunterstützungssystem](https://r2k.geomer-maps.de/)
