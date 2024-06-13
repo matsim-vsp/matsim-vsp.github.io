@@ -32,6 +32,7 @@
     author: "S. Meinhardt, T. Schlenther, C. Lu"
     title: "Investigating the Impact of Blocked Critical Infrastructure on an On-Demand Service in Kelheim, Germany"
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-11/"
+    tags: bmvi-kelride
     
   - paper: 24-10
     author: "J. Laudan, P. Heinrich, K. Nagel"
@@ -67,6 +68,7 @@
   - paper: 24-04
     author: "D. Tamleh, T. Schlenther, K. Nagel"
     title: "Investigating the impact of stop network designs on DRT operation; accepted for ABMTrans 2024"
+    tags: bmvi-kelride
 
   - paper: 24-03
     author: "G. Rybczak, S. Meinhardt, T. Schlenther, C. Rakow, D. Ziemke, K. Nagel"
@@ -127,6 +129,7 @@
     author: "S. Meinhardt, S. Paltra, T. Schlenther, K. Nagel"
     title: "Researching the impact of extreme weather events on an On-Demand Transport service - A case study; submitted to IATBR 2024 –  International Conference on Travel Behaviour Research"
     link: "https://doi.org/10.14279/depositonce-18881"
+    tags: bmvi-kelride
 
   - paper: 23-12
     author: "M. Kreuschner, K. Nagel, T. Schlenther, N. Bonatz, H. Mostofi Darbani, H.-L. Dienel"
@@ -164,6 +167,7 @@
     author: "C. Lu, T. Schlenther, S. Meinhardt, K. Nagel"
     title: "Quantifying the Benefits of Pre-booking in Demand-Responsive Systems Based on Real-World Scenarios; preprint submitted to TRB 2024"
     link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2023/23-06/"
+    tags: bmvi-kelride
 
   - paper: 23-05
     author: "S. Paltra, I. Bostanci, K. Maier, S. A. Müller, J. Rehmann, C. Schütte, T. Conrad, K. Nagel"
@@ -249,6 +253,7 @@
     author: 'T. Schlenther, G. Leich, M. Maciejewski, K. Nagel'
     title: 'Addressing spatial service provision equity for pooled ride-hailing services through rebalancing. IET Intell. Transp. Syst. 00, 1– 10 (2022).'
     link: 'https://doi.org/10.1049/itr2.12279'
+    tags: bmvi-pave
 
   - paper: 22-17
     author: "T. Schlenther, C. Lu, S. Meinhardt, C. Rakow, K. Nagel"
@@ -272,6 +277,7 @@
     author: 'S. Meinhardt, T. Schlenther, K. Martins-Turner, M. Maciejewski'
     title: 'A Simulation Based Analysis for Combining On-Demand Passenger and Freight Transport; submitted to JTTM 2022.'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-14/'
+    tags: bmvi-pave
 
   - paper: 22-13
     author: 'S. A. Müller, W. Charlton, N. Conrad, R. Ewert, S. Paltra, C. Rakow, J. Rehmann, T. Conrad, C. Schütte, K. Nagel'
@@ -331,12 +337,14 @@
     title: 'Simulation-based investigation of transport scenarios for Hamburg'
     link: 'https://www.sciencedirect.com/science/article/pii/S1877050922004896'
     link2: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-04/'
+    tags: bmvi-reallabhh
 
   - paper: 22-03
     author: 'S. Meinhardt, T. Schlenther, K. Martins-Turner, M. Maciejewski'
     title: 'Simulation of On-Demand Vehicles that Serve both Person and Freight Transport'
     link: 'https://www.sciencedirect.com/science/article/pii/S1877050922004665'
     link2: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2022/22-03/'
+    tags: bmvi-pave
 
   - paper: 22-02
     author: 'C. Lu, K. Martins-Turner, K. Nagel'
@@ -363,6 +371,7 @@
     author: 'M. Kracht, H. D. Chemnitz, G. Küßner, M. Diehr, P. Hoth, M. Hammler, T. Schlenther, I. Kaddoura, K. Nagel, J. Ehmke, J. Haferkamp, R. Kötschau, M. Kromer, H. Triebke, H.-C. Winter, M. Stottele, N. Kamal Goma, M. Schönebeck, R. Müller, O. Mehlmann'
     title: 'Potentiale automatisierter Verkehrssysteme - PAVE - Endbericht'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-30/'
+    tags: bmvi-pave
 
   - paper: 21-29
     author: 'I. Kaddoura, G. Leich, P. Ruppert, A. Neumann, S. Geier, M. Balmer, J. A. Schmidt, K. Nagel'
@@ -523,6 +532,7 @@
     author: 'L. Bieker-Walz, I. Kaddoura, Z. Meng, M. Ortgiese, P. Wagner'
     title: 'Future Mobility Scenarios for Hamburg, Germany; preprint'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2021/21-03/'
+    tags: bmvi-reallabhh
 
   - paper: 21-02
     author: 'S. A. Müller, W. Charlton N. Conrad, R. Ewert, C. Rakow, H. Wulkow, T. Conrad, K. Nagel, C. Schütte'
@@ -584,11 +594,13 @@
     author: 'I. Kaddoura, T. Schlenther'
     title: 'The impact of trip density on the fleet size and pooling rate of ride-hailing services: A simulation study; submitted to ABMTrans 2021'
     link: 'https://doi.org/10.1016/j.procs.2021.03.084'
+    tags: bmvi-pave
 
   - paper: 20-35
     author: 'T. Schlenther, G. Leich, M. Maciejewski, K. Nagel'
     title: 'Addressing Spatial Service Provision Equity for Pooled Ride-Hailing Services through Rebalancing; presented at ITS World Congress 2021; later version is published in IET - see 22-18'
     link: 'https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2020/20-35/'
+    tags: bmvi-pave
 
   - paper: 20-34
     author: 'R. Miranda Jahn, A. Syré, A. Grahle, K. Martins-Turner, D. Göhlich'
@@ -822,6 +834,7 @@
     title: 'Potential of Private Autonomous Vehicles for Parcel Delivery; Transportation Research record, Volume 2674 issue 11, 2020; presented at TRB Annual Meeting 2020'
     link: 'https://doi.org/10.1177/0361198120949878'
     link2: 'http://dx.doi.org/10.14279/depositonce-10584'
+    tags: bmvi-pave
 
   - paper: 19-14
     author: 'R. Ewert, A. Grahle, K. Martins-Turner, A. Syré, K. Nagel, D. Göhlich'
