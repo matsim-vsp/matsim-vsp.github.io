@@ -31,3 +31,5 @@ title: Interesting links
 [Running DRT projects in practice (in Gronau near Münster)](https://www.gronau.de/leben-in-gronau/verkehr/mein-g-mobil/)
 
 [evacuation modelling in Australia; SEEKER uses MATSim (as of 2024)](https://research.csiro.au/evacuation/)
+
+[R2K-Klim+ Strategisches Entscheidungsunterstützungstool zur Anpassung an den Klimawandel auf regionaler und kommunaler Ebene im Rheineinzugsgebiet](https://r2k-klim.net/)
