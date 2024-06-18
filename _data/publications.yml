@@ -1,4 +1,15 @@
 2024:
+  - paper: 24-18
+    author: "K. Martins-Turner, P. Heinrich, D. Viet, K. Nagel"
+    title: "Influence of CO2 Costs on the Benefit-Cost-Ratio of Transport Infrastructure Projects; preprint, submitted to EWGT 2024"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-18/"
+    
+  - paper: 24-17
+    author: "K. Martins-Turner, R. Ewert, A. Grahle, A. Syré, D. Göhlich, K. Nagel"
+    title: "Showing the cost benefits for commercial electric vehicles — Case Study of Battery Electric Vehicles in Urban Food Distribution; preprint, submitted to EWGT 2024"
+    link: "https://svn.vsp.tu-berlin.de/repos/public-svn/publications/vspwp/2024/24-17/"
+    tags: dfg-carbon-free-traffic
+    
   - paper: 24-16
     author: "C. Lu, N. Kühnel"
     title: "To Wait or to Cruise: The Trade-Off Between Waiting Time and Detours for Service Efficiency in Ride-pooling Systems; preprint, submitted to EWGT 2024"
@@ -618,6 +629,7 @@
     author: 'D. Göhlich, K. Nagel, A. Syré, A. Grahle, K. Martins-Turner, R. Ewert, R.M. Jahn, D. Jefferies'
     title: 'Integrated Approach for the Assessment of Strategies for the Decarbonization of Urban Traffic; Sustainability, 2021, 13(2), 839'
     link: 'https://doi.org/10.3390/su13020839'
+    tags: dfg-carbon-free-traffic
 
   - paper: 20-31
     author: 'S. A. Müller, W. Charlton, N. Conrad, R. Ewert C. Rakow, H. Wulkow, T. Conrad, K. Nagel, C. Schütte'
