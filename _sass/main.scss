@@ -109,12 +109,12 @@ h2 {
   .filter-panel {
     font-size: 13px;
     grid-template-columns: repeat(2, 1fr)
-
   }
 }
 
 .edit-pubs-link {
   float: right;
+  margin-bottom: 0 !important;
 
   a {
     color: #b9cce6;
