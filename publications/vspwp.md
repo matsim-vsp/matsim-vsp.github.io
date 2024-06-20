@@ -6,6 +6,6 @@ title: Publikationen
 
 ## VSP Working Papers
 
-{% include filters.html tag="all" %}
+<div id="app-publications">Loading publication database...</div>
 
-{% include working-papers.html tag="all" %}
+<script type="module" src="/publications/index.js"></script>

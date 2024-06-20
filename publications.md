@@ -10,4 +10,6 @@ The MATSim book can be found [here](https://matsim.org/the-book).
 
 ## VSP Working Papers
 
-Full list of working papers is [here](/publications/vspwp)
+<div id="app-publications">Loading publication database...</div>
+
+<script type="module" src="/publications/index.js"></script>
