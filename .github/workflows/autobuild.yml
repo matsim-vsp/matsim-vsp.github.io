@@ -48,7 +48,6 @@ jobs:
 
       - name: Build site
         run: |
-          bash _scripts/create-tags.sh
           sudo gem install bundler
           sudo bundle install
           bundle exec jekyll build
