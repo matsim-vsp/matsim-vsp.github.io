@@ -5,7 +5,7 @@
   <button class="button" @click="showFilterPanel = !showFilterPanel">
       {{selectedTag || 'Filters'}}&nbsp;&nbsp;{{ showFilterPanel ? '˄' : '⌄' }}
   </button>
-
+  <p class="edit-pubs-link"><a :href="editUrl" target="_blank">edit...</a></p>
   <div class="filter-panel" v-if="showFilterPanel">
     <div class="filter-option" v-for="tag in tagList" :key="tag" @click="clickTag(tag)">
       {{ getTag(tag).title }}
@@ -37,6 +37,7 @@ import { defineComponent } from 'vue'
 import Papaparse  from 'papaparse'
 
 const SHEET_URL = "https://docs.google.com/spreadsheets/d/19hk-UDkdVrht70ppTa7CAW0NsOHfKqMzMbziSJD9vq4/gviz/tq?tqx=out:csv"
+const EDIT_URL = "https://docs.google.com/spreadsheets/d/19hk-UDkdVrht70ppTa7CAW0NsOHfKqMzMbziSJD9vq4/edit"
 const PAPERS_URL = SHEET_URL + '&gid=0'
 const TAGS_URL = SHEET_URL + '&gid=806825792'
 
@@ -60,6 +61,7 @@ interface tag {
 export default defineComponent({
   data() {
     return {
+      editUrl: EDIT_URL,
       isLoaded: false,
       message: 'Hello Vue!',
       publications: [] as paper[],
