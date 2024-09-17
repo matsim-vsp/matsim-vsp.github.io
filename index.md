@@ -32,7 +32,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattform
 
 Planungsprojekte:
 
-- [NaMaV] (https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav)
+- [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav)
 - [RVR](/projects/rvr) - "Öffentliches" Modell für den Regionalverband Ruhr
 - [Sounding Board](https://vsp.berlin/sounding-board/)
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
@@ -57,7 +57,7 @@ Covid:
 
 ### Kontakt
 
-Fachgebeit für Verkehrssystemplanung und Verkehrstelematik<br/>
+Fachgebiet für Verkehrssystemplanung und Verkehrstelematik<br/>
 Email: <mailto:sekretariat@vsp.tu-berlin.de><br/>
 Tel: +49-30-314-23308
 
