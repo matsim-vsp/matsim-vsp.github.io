@@ -131,3 +131,13 @@ h2 {
 .is-tag-active:hover {
   background-color: #929de7;
 }
+
+.search-row {
+  gap: 0 1rem;
+  display: flex;
+  flex-direction: row;
+}
+
+input.search-box {
+  margin: 0 0 !important;
+}

@@ -2,9 +2,18 @@
   <div v-if="!publications.length">Loading publication dataset...</div>
 
   <div v-if="tagList.length">
-    <button class="button" @click="showFilterPanel = !showFilterPanel">
-      {{ niceNames || 'Filters' }}&nbsp;&nbsp;{{ showFilterPanel ? '˄' : '⌄' }}
-    </button>
+    <div class="search-row">
+      <button class="button" @click="showFilterPanel = !showFilterPanel">
+        {{ niceNames || 'Filters' }}&nbsp;&nbsp;{{ showFilterPanel ? '˄' : '⌄' }}
+      </button>
+      <input
+        class="search-box"
+        type="text"
+        v-model="searchTerm"
+        placeholder="Search author, title..."
+      />
+    </div>
+
     <p class="edit-pubs-link"><a :href="editUrl" target="_blank">edit...</a></p>
     <div class="filter-panel" v-if="showFilterPanel">
       <div
@@ -79,9 +88,9 @@ export default defineComponent({
       tags: {} as { [id: string]: tag },
       tagList: [] as any[],
       years: [] as any[],
-      // selectedTag: '',
       selectedTags: {} as any,
       showFilterPanel: false,
+      searchTerm: '',
     }
   },
 
@@ -90,6 +99,12 @@ export default defineComponent({
       return Object.keys(this.selectedTags)
         .map(t => this.getTag(t).title)
         .join(', ')
+    },
+  },
+
+  watch: {
+    searchTerm() {
+      this.updateAllFilters()
     },
   },
 
@@ -111,13 +126,16 @@ export default defineComponent({
     await this.loadTagsFromGoogleSheets()
 
     // Now we have the papers, the tags, and the URL settings. Filter!
-    this.filterPublicationsBasedOnTags()
+    this.updateAllFilters()
   },
 
   methods: {
     // get set of tags from the URL in form "vsp.berlin?tags=covidsim,drt"
     getURLTags() {
       const query = new URLSearchParams(document.location.search)
+
+      this.searchTerm = query.get('search') || ''
+
       const tagsText = query.get('tags') || ''
       if (tagsText) {
         const tags = tagsText.split(',')
@@ -189,7 +207,8 @@ export default defineComponent({
       this.tagList = tags
     },
 
-    filterPublicationsBasedOnTags() {
+    updateAllFilters() {
+      // FILTER: on tags
       const activeTags = Object.keys(this.selectedTags)
       if (activeTags.length == 0) {
         // Show everything
@@ -204,25 +223,44 @@ export default defineComponent({
         })
       }
 
+      // FILTER: on search term
+      if (this.searchTerm) {
+        const search = this.searchTerm.toLocaleLowerCase()
+        const foundPapers = this.filteredPublications.filter(paper => {
+          return (
+            paper.authors.toLocaleLowerCase().indexOf(search) > -1 ||
+            paper.title.toLocaleLowerCase().indexOf(search) > -1 ||
+            paper.funds.toLocaleLowerCase().indexOf(search) > -1
+          )
+        })
+        this.filteredPublications = foundPapers
+      }
+
       // Only list years with papers
       const years = new Set()
       for (const paper of this.filteredPublications) if (paper.year) years.add(paper.year)
       this.years = [...years.keys()].sort().reverse()
 
       // Update URL params
+      const url = new URL(window.location.href)
+
       const tags = Object.keys(this.selectedTags)
       if (tags.length) {
-        const url = new URL(window.location.href)
-        const query = Object.keys(this.selectedTags).join(',')
-        url.searchParams.set('tags', query)
-        // force commas
-        const text = url.toString().replaceAll('%2C', ',')
-        window.history.replaceState(null, '', text)
+        const tquery = Object.keys(this.selectedTags).join(',')
+        url.searchParams.set('tags', tquery)
       } else {
-        const url = new URL(window.location.href)
         url.searchParams.delete('tags')
-        window.history.replaceState(null, '', url)
       }
+
+      if (this.searchTerm) {
+        url.searchParams.set('search', this.searchTerm)
+      } else {
+        url.searchParams.delete('search')
+      }
+
+      // force commas
+      const text = url.toString().replaceAll('%2C', ',')
+      window.history.replaceState(null, '', text)
     },
 
     clickTag(tagId: string) {
@@ -237,7 +275,7 @@ export default defineComponent({
         this.selectedTags = {}
       }
 
-      this.filterPublicationsBasedOnTags()
+      this.updateAllFilters()
     },
 
     getTag(tagId: string) {
@@ -277,5 +315,11 @@ export default defineComponent({
 
 .flex1 {
   flex: 1;
+}
+
+.search-row {
+  gap: 0 1rem;
+  display: flex;
+  flex-direction: row;
 }
 </style>
