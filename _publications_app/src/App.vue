@@ -29,7 +29,12 @@
   </div>
 
   <h2 class="tags-en" v-if="Object.keys(selectedTags).length">
-    Tags: {{ Object.keys(selectedTags).join(' & ') }}
+    Tags:
+    {{
+      Object.keys(selectedTags)
+        .map(m => getTag(m).title)
+        .join(' & ')
+    }}
   </h2>
 
   <div v-for="year in years" :key="year">
