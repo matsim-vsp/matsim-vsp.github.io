@@ -6,6 +6,6 @@ title: Publikationen
 
 ## VSP Working Papers
 
-<div id="app-publications">Loading publication database...</div>
+<div id="publications-app">Loading publication database...</div>
 
 <script type="module" src="/publications/index.js"></script>
