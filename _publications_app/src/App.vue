@@ -100,7 +100,6 @@ export default defineComponent({
 
     // publications list is always the full set; filtered is filtered.
     await this.loadPublicationsFromGoogleSheets()
-    this.filteredPublications = this.publications
 
     // Build reverse-sorted list of all years
     const years = new Set()
@@ -111,7 +110,8 @@ export default defineComponent({
     await this.$nextTick()
     await this.loadTagsFromGoogleSheets()
 
-    // Now we have the
+    // Now we have the papers, the tags, and the URL settings. Filter!
+    this.filterPublicationsBasedOnTags()
   },
 
   methods: {
@@ -189,25 +189,18 @@ export default defineComponent({
       this.tagList = tags
     },
 
-    clickTag(tagId: string) {
-      console.log('toggle', tagId)
-      if (tagId in this.selectedTags) {
-        delete this.selectedTags[tagId]
-      } else {
-        this.selectedTags[tagId] = true
-      }
-
-      if (tagId == 'All Papers') {
-        this.selectedTags = {}
+    filterPublicationsBasedOnTags() {
+      const activeTags = Object.keys(this.selectedTags)
+      if (activeTags.length == 0) {
+        // Show everything
         this.filteredPublications = this.publications
       } else {
-        // Filter the *filtered* publications. THus we call clickTag for each tag in the selected set.
-        const activeTags = Object.keys(this.selectedTags)
+        // Activate the filter
         this.filteredPublications = this.publications.filter(p => {
           for (const tag of activeTags) {
-            if (p.tags.indexOf(tag) == -1) return false
+            if (p.tags.indexOf(tag) > -1) return true
           }
-          return true
+          return false
         })
       }
 
@@ -230,6 +223,21 @@ export default defineComponent({
         url.searchParams.delete('tags')
         window.history.replaceState(null, '', url)
       }
+    },
+
+    clickTag(tagId: string) {
+      console.log('toggle', tagId)
+      if (tagId in this.selectedTags) {
+        delete this.selectedTags[tagId]
+      } else {
+        this.selectedTags[tagId] = true
+      }
+
+      if (tagId == 'All Papers' || Object.keys(this.selectedTags).length == 0) {
+        this.selectedTags = {}
+      }
+
+      this.filterPublicationsBasedOnTags()
     },
 
     getTag(tagId: string) {
