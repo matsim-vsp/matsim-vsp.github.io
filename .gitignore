@@ -1,6 +1,9 @@
-_site
 .jekyll-cache/*
 .vscode
 node_modules
 .DS_Store
+
+_publications_app/dist
+_site
+
 
