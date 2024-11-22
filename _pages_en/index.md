@@ -33,7 +33,7 @@ Planning Projects:
 - [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav)
 - [RVR](/projects/rvr) - "Öffentliches" Modell für den Regionalverband Ruhr
 - [Sounding Board](https://vsp.berlin/sounding-board/)
-- [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/AVServiceAreas/output/) - Driverless city buses in Kelheim, Bavaria
+- [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) - Driverless city buses in Kelheim, Bavaria
 - [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH (Hamburg)
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automated driving in the Düsseldorf digital testfield
 - [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
