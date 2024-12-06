@@ -36,11 +36,11 @@ All simulation runs for the scenario examining limited battery capacity are belo
 
 ### Food retailing scenarios: freight carrier visualizations
 
-<span style="color: blue; font-weight: bold;">Without Range Constraints</span> assumes that battery capacity is not an issue for tour planning, e.g. due to recharging while loading/unloading.
+<span style="color: green; font-weight: bold;">Without Range Constraints</span> assumes that battery capacity is not an issue for tour planning, e.g. due to recharging while loading/unloading.
 
-<span style="color: blue; font-weight: bold;">With Range Constraints</span>  assumes that battery capacity limits the tour length/duration: there is _no recharging possible_ during the tour.
+<span style="color: green; font-weight: bold;">With Range Constraints</span>  assumes that battery capacity limits the tour length/duration: there is _no recharging possible_ during the tour.
 
-| <span style="color: blue; font-weight: bold;">Without Range Constraints:</span> | <span style="color: blue; font-weight: bold;">With Range Constraints:</span> |
+| <span style="color: green; font-weight: bold;">Without Range Constraints:</span> | <span style="color: green; font-weight: bold;">With Range Constraints:</span> |
 |===|===|
 | [![No Diesel CO2 Tax](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_wo_rangeConstraint/71_ICEVBEV_NwCE_BVWP_10000it_DCoff_noTax/viz-carriers.yaml)<br/>No Diesel Tax | [![No Diesel CO2 Tax](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_with_rangeConstraint/21_ICEVBEV_NwCE_BVWP_10000it_DC_noTax/viz-carriers.yaml)<br/>No Diesel Tax |
 | [![50 € per ton CO2](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_wo_rangeConstraint/73_ICEVBEV_NwCE_BVWP_10000it_DCoff_Tax50/viz-carriers.yaml)<br/>50 € per ton CO2 | [![50 € per ton CO2](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_with_rangeConstraint/23_ICEVBEV_NwCE_BVWP_10000it_DC_Tax50/viz-carriers.yaml)<br/>50 € per ton CO2 |
