@@ -311,10 +311,6 @@ footer {
   margin-top: 2rem;
 }
 
-.site-footer {
-  // margin-top: 2rem;
-}
-
 .header-logo-image {
   filter: hue-rotate(0deg) saturate(90%); // brightness(135%);
 }
@@ -349,6 +345,7 @@ footer {
   .site-header-links {
     margin: 0 !important;
     margin-top: 0.25rem !important;
+    // font-size: 13px;
   }
   .lang-switcher {
     margin-top: none !important;
@@ -366,5 +363,11 @@ footer {
   }
   .frontpage-sidebar {
     width: unset;
+  }
+}
+
+@include media(max-width 35rem) {
+  .site-header-links {
+    font-size: 13px;
   }
 }
