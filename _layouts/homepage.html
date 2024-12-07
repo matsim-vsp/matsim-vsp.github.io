@@ -4,24 +4,31 @@ layout: default
 
 {% include i18n/i18n %}
 
+{% if page.banner_image or default_page.banner_image %}
 <div class="banner">
-  {% if page.banner_image or default_page.banner_image %}
   <img
     src="{{ page.banner_image | default: default_page.banner_image | prepend: site.baseurl }}"
     alt=""
   />
   {% endif %}
-  <h1 class="headline">{{ page.headline }}</h1>
+  {% if page.headline %}
+    <h1 class="headline">{{ page.headline }}</h1>
+  {% endif %}
 </div>
 
-<div class="page wrapper">
-  <div class="home-column-container">
-    <div class="logo-column">
-      <img src="/assets/images/vsp-logo.png" />
-    </div>
+<div class="page wrapper text text-wrapper">
+  {% if locale.lang == 'de-DE' %}
+  <h3 style="margin: 0; color: #cf0017">Technische Universität Berlin</h3>
+  <h2 style="margin: 0 !important;">Verkehrssystemplanung und Verkehrstelematik (VSP)</h2>
+    <hr style="margin: 2rem 0 0 0" />
+  {% else %}
+    <h3 style="margin: 0; color: #cf0017">Technische Universität Berlin</h3>
+    <h2 style="margin: 0 !important;">Transport System Planning and Transport Telematics (VSP)</h2>
+    <hr style="margin: 2rem 0 0 0" />
+  {% endif %}
 
-    <div class="page-content text text-wrapper" style="flex: 1">
-      {{ content }}
+
+    <div class="frontpage">
+        {{ content }}
     </div>
-  </div>
 </div>

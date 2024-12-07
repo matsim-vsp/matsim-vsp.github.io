@@ -1,26 +1,13 @@
 ---
 layout: homepage
 title: Startseite
-headline: VSP
-banner_image: /assets/images/banner-berlin.jpg
+# headline: VSP
+banner_image: /assets/images/banner-berlin-traffic.jpg
 description: VSP TU Berlin
 ---
 
-<h1 style="margin: 3rem 0 0 0;">VSP: Verkehrssystemplanung und Verkehrstelematik</h1>
-
-<h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
-
----
-
-<!--
-<div style="background-color: yellow; padding: 1rem 1rem; border: 2px solid red; border-left: 1rem solid #cf0017;">
-
-<p><b>01 Jun 2021</b> - Der Exchange-E-Mail-Server der TU Berlin wurde Ende April angegriffen. Der E-Mail-Service wurde inzwischen wiederhergestellt.</p>
-
-<p>Wenn Sie versucht haben, uns zu kontaktieren, bitten wir um Entschuldigung. Die E-Mail sollte jetzt wieder funktionieren. Bitte senden Sie uns erneut eine Nachricht, wenn Sie nicht von uns gehört haben.</p>
-
-</div>
--->
+<!-- MAIN CONTENT BEGINS HERE -- don't remove this! -->
+<div class="frontpage-content" markdown="1">
 
 ### VSP Projekt Websites
 
@@ -46,14 +33,17 @@ Covid:
 
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
 
----
 
 ### Weitere Informationen
 
 - [Leseliste](/readinglist)
 - [Interessante Links](/interestinglinks)
 
----
+<!-- ----- SIDEBAR BEGINS HERE --- don't remove this! -->
+</div>
+<div class="frontpage-sidebar" markdown="1">
+
+![VSP Logo](/assets/images/vsp-logo.png)
 
 ### Kontakt
 
@@ -73,3 +63,7 @@ D-10553 Berlin
 
 Sprechstundentermine bitte vorab per E-Mail vereinbaren:<br/>
 <mailto:sekretariat@vsp.tu-berlin.de> oder <mailto:lehre@vsp.tu-berlin.de>
+
+
+<!--- end of sidebar! don't remove this: -->
+</div>

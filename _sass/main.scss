@@ -7,10 +7,26 @@
 @import 'header-footer';
 @import 'page';
 @import 'grid';
-@import 'debug';
 @import 'highlight';
+// @import 'debug';
 
 // VSP Settings
+@font-face {
+  font-family: 'Outfit';
+  src: url('/assets/fonts/Outfit-Variable.ttf') format('truetype');
+  // font-weight: normal; /* or bold, or a number */
+  // font-style: normal; /* or italic */
+}
+// @import url('/assets/fonts/Outfit-Variable.ttf');
+
+b,
+strong {
+  font-weight: 500; // correct font weight in Chrome, Edge, Safari
+}
+
+i,em {
+  font-style: oblique 12deg;
+}
 
 .filter-button {
   padding: 0.25rem 1rem;
@@ -49,10 +65,10 @@ a.filter-link:active {
   font-size: 14px;
   display: flex;
   flex-direction: row;
-  gap: 12px;
+  gap: 15px;
   margin-bottom: 4px;
   line-height: 18px;
-  padding: 4px 6px 8px 6px;
+  padding: 8px 10px 12px 10px;
 }
 
 .paper-row:nth-child(odd) {
@@ -65,7 +81,7 @@ a.filter-link:active {
 }
 
 .paper-title {
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .tag-selector {
@@ -140,4 +156,215 @@ h2 {
 
 input.search-box {
   margin: 0 0 !important;
+}
+
+// ----------------------------------------------------------------
+// from https://www.joshwcomeau.com/css/backdrop-filter/
+header {
+  position: sticky;
+  top: 0;
+  // Very opaque, for unsupported browsers. Overwritten in the feature queries below.
+  background: #d8d8ecf4; // hsl(0deg, 0%, 100%, 0.95);
+  z-index: 2;
+}
+
+// This code gets applied for browsers that support backdrop-filter.
+@supports
+  (backdrop-filter: blur(16px)) or
+  (-webkit-backdrop-filter: blur(16px))
+{
+  header {
+    background: #c8c8e470; // hsl(0deg, 0%, 0%, 0.5);
+  }
+
+  .frosty-backdrop {
+    position: absolute;
+    inset: 0;
+    // These prefixed properties are usually added automatically by tooling:
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+    background: linear-gradient(
+      to bottom,
+      #d8d8e4,
+      transparent 50%
+    );
+    pointer-events: none;
+    // #d8d8e4
+  }
+}
+  // This code gets applied for browsers that support mask-image.
+  // This adds the "consider near elements" optimization discussed in this article.
+@supports
+  (mask-image: none) or
+  (-webkit-mask-image: none)
+{
+  .frosty-backdrop {
+    height: 200%;
+    -webkit-mask-image: linear-gradient(
+      to bottom,
+      black 0% 50%,
+      transparent 50% 100%
+    );
+    mask-image: linear-gradient(
+      to bottom,
+      black 0% 50%,
+      transparent 50% 100%
+    );
+  }
+}
+// ----------------------------------------------------------------
+
+
+// ---------------------------------------
+// NEW VSP 2025 Website
+// ---------------------------------------
+body {
+  max-width: unset;
+  background-color: #eeeef4;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 500;
+}
+
+
+.text {
+  font-weight: 300;
+}
+
+.site-title {
+  font-weight: 300;
+}
+
+.wrapper {
+  max-width: unset;
+}
+
+.page.wrapper {
+  max-width: 68rem;
+}
+
+.text img {
+  border-radius: 10px;
+}
+
+.header-container {
+  position: relative;
+  height: 5.25rem;
+  z-index: 5;
+}
+
+.site-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 2rem 0rem 2rem;
+  gap: 1rem;
+}
+
+.site-header-logo {
+  margin-left: -8px !important;
+  padding-top: 0.75rem;
+}
+
+.site-header-links {
+  margin: 0 auto !important;
+}
+
+.site-header-lang {
+  border: none !important;
+  font-weight: 300;
+}
+
+.site-nav {
+  border: none !important;
+  font-weight: 300;
+}
+
+.lang-switcher {
+  border: none !important;
+}
+
+footer {
+  background-color: #eeeef4;
+}
+
+.frontpage {
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+}
+
+.frontpage-content {
+  flex: 1;
+}
+
+.frontpage-sidebar {
+  width: 14rem;
+  font-size: 0.9rem;
+  line-height: 1.15rem;
+  margin-top: 2rem;
+}
+
+.site-footer {
+  // margin-top: 2rem;
+}
+
+.header-logo-image {
+  filter: hue-rotate(0deg) saturate(90%); // brightness(135%);
+}
+
+.banner img {
+  filter: sepia(15%) hue-rotate(201deg) brightness(98%);
+}
+
+@include media(max-width 60rem) {
+  .header-container {
+    height: 6.5rem;
+  }
+  .navigation {
+    margin-top: 0;
+
+    nav {
+      padding: 0 !important;
+    }
+    li {
+      margin-right: 0.75rem !important;
+    }
+  }
+  .site-header {
+    padding: 0rem 0.5rem 0 1rem;
+    flex-direction: column;
+    gap: 0;
+  }
+  .site-nav {
+    padding: 0 !important;
+    margin: 0;
+  }
+  .site-header-links {
+    margin: 0 !important;
+    margin-top: 0.25rem !important;
+  }
+  .lang-switcher {
+    margin-top: none !important;
+  }
+  .site-header-lang {
+    position: absolute;
+    top: 0.5rem;
+    right: 0;
+    border: none !important;
+    font-weight: 300;
+    font-size: 0.8rem;
+  }
+  .frontpage {
+    flex-direction: column;
+  }
+  .frontpage-sidebar {
+    width: unset;
+  }
 }

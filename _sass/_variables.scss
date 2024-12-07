@@ -40,7 +40,7 @@ $dark-gray: mix($black-gray, $white-gray, 75%);
 $medium-gray: mix($black-gray, $white-gray, 50%);
 $light-gray: mix($black-gray, $white-gray, 25%);
 
-$blue: cornflowerblue;
+$blue: rgb(63, 115, 209);
 
 // Add custom colors here...
 
@@ -54,8 +54,8 @@ $body-background-color: #efefef;
 $main-background-color: white;
 
 // Typography
-$base-font-family: "Lato";
-$heading-font-family: "Lato";
+$base-font-family: Outfit,Arial,Helvetica,sans-serif;
+$heading-font-family: Outfit,Arial,Helvetica,sans-serif;
 $base-line-height: null;
 $heading-line-height: null;
 $h1-font-size: null;

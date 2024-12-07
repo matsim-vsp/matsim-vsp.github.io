@@ -15,7 +15,7 @@
   margin: 1em 0 0;
 }
 
-$banner-max-height: 20em;
+$banner-max-height: 15em;
 $headline-max-size: 10em;
 
 .banner {
@@ -24,7 +24,7 @@ $headline-max-size: 10em;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 15em;
+  height: 10em;
 
   img {
     width: 100%;
@@ -67,16 +67,16 @@ $headline-max-size: 10em;
 }
 .home-column-container {
   display: flex;
+  gap: 4rem;
   flex-direction: column;
   @include media($large-screen-up) {
-    flex-direction: row;
+    flex-direction: row-reverse;
   }
 }
 
 .logo-column {
-  padding-top: 3rem;
-  margin-right: 4rem;
-  width: 12rem;
+  padding-top: 0rem;
+  width: 10rem;
 }
 
 .vsp-table {

@@ -16,22 +16,22 @@
 }
 
 .navigation {
-  font-weight: 500;
+  font-weight: 300;
   margin-top: $box-padding;
   nav {
     padding: $box-padding * 0.5 0;
-    border-top: 1px solid $blue;
+    // border-top: 1px solid $blue;
   }
   @include media($large-screen-up) {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin-top: $box-padding * 0.5;
-    
+
     nav {
       padding: 0;
       border-top: none;
-      
+
       & + nav {
         margin-left: $box-padding * 2;
       }
@@ -49,10 +49,10 @@
   }
   a {
     padding: 0.125em 0;
-    
+
     &[aria-current],
     &[href]:hover {
-      border-bottom: 2px solid;
+      border-bottom: 1px solid;
     }
   }
   a.not-available {

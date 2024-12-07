@@ -1,12 +1,23 @@
-<header class="site-header" role="banner">
-  <div class="wrapper">
-    
-    <a class="site-title" href="{{ site.baseurl }}{{ locale.baseurl }}/">{{ site.title | escape }}</a>
-    
-    <div class="navigation">
-      {% include site-nav.html %}
-      {% include lang-switcher.html %}
+<header role="banner">
+  <div class="header-container">
+      <div class="wrapper site-header">
+
+        <div class="site-header-logo">
+            <a class="site-title" href="{{ site.baseurl }}{{ locale.baseurl }}/"><img class="header-logo-image" width=210 src="/assets/images/vsp-logo-2024-red-fulltext.png"></a>
+        </div>
+        <div class="site-header-links">
+            <div class="navigation">
+              {% include site-nav.html %}
+            </div>
+        </div>
+        <div class="site-header-lang navigation">
+            {% include lang-switcher.html %}
+        </div>
+
     </div>
-    
+
   </div>
+
+  <div class="frosty-backdrop"></div>
+
 </header>

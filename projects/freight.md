@@ -5,7 +5,7 @@ title: Freight at VSP
 {% include i18n/i18n %}
 
 ![Example Tour Planning for food/grocery transport in Berlin](/assets/images/berlin-freight-depots.jpg)
-**_Example Tour Planning for depot-based food/grocery transport in Berlin_**
+_Example Tour Planning for depot-based food/grocery transport in Berlin_
 
 ## Freight research at VSP
 
@@ -32,15 +32,17 @@ VSP has developed "SimWrapper" — an interactive web-based tool for displaying 
 
 All simulation runs for the scenario examining limited battery capacity are below.
 
-**_These links work best on desktop browsers or tablets!<br/>Simulation results are too detailed to display on a mobile phone screen._**
+<p style="padding: 1rem; background-color: #ffc; border-left: 1rem solid #ee7;">
+<b><i>These links work best on desktop browsers or tablets!<br/>Simulation results are too detailed to display on a mobile phone screen.</i></b>
+</p>
 
 ### Food retailing scenarios: freight carrier visualizations
 
-<span style="color: green; font-weight: bold;">Without Range Constraints</span> assumes that battery capacity is not an issue for tour planning, e.g. due to recharging while loading/unloading.
+<span style="color: green; font-weight: 500;">Without Range Constraints</span> assumes that battery capacity is not an issue for tour planning, e.g. due to recharging while loading/unloading.
 
-<span style="color: green; font-weight: bold;">With Range Constraints</span>  assumes that battery capacity limits the tour length/duration: there is _no recharging possible_ during the tour.
+<span style="color: green; font-weight: 500;">With Range Constraints</span>  assumes that battery capacity limits the tour length/duration: there is _no recharging possible_ during the tour.
 
-| <span style="color: green; font-weight: bold;">Without Range Constraints:</span> | <span style="color: green; font-weight: bold;">With Range Constraints:</span> |
+| <span style="color: green; font-weight: 500;">Without Range Constraints:</span> | <span style="color: green; font-weight: 500;">With Range Constraints:</span> |
 |===|===|
 | [![No Diesel CO2 Tax](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_wo_rangeConstraint/71_ICEVBEV_NwCE_BVWP_10000it_DCoff_noTax/viz-carriers.yaml)<br/>No Diesel Tax | [![No Diesel CO2 Tax](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_with_rangeConstraint/21_ICEVBEV_NwCE_BVWP_10000it_DC_noTax/viz-carriers.yaml)<br/>No Diesel Tax |
 | [![50 € per ton CO2](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_wo_rangeConstraint/73_ICEVBEV_NwCE_BVWP_10000it_DCoff_Tax50/viz-carriers.yaml)<br/>50 € per ton CO2 | [![50 € per ton CO2](/assets/images/freight-thumbnail.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/foodRetailing_with_rangeConstraint/23_ICEVBEV_NwCE_BVWP_10000it_DC_Tax50/viz-carriers.yaml)<br/>50 € per ton CO2 |

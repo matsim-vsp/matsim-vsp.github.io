@@ -1,24 +1,12 @@
 ---
 layout: homepage
 title: Home
-headline: VSP
+banner_image: /assets/images/banner-berlin-traffic.jpg
+# headline: VSP
 ---
 
-<h1 style="margin: 3rem 0 0 0;">VSP: Transport Systems Planning and Transport Telematics</h1>
-
-<h3 style="margin: 0.25rem 0; color: #cf0017">Technische Universität Berlin</h3>
-
----
-
-<!--
-<div style="background-color: yellow; padding: 1rem 1rem; border: 2px solid red; border-left: 1rem solid #cf0017;">
-
-<p><b>01 Jun 2021</b> - The TU Berlin exchange email server was attacked at the end of April, but email service has now been restored.</p>
-
-<p>If you have been trying to contact us, we apologize. Email should be back in operation now. Please resend any messages if you have not heard from of us.</p>
-
-</div>
--->
+<!-- MAIN CONTENT BEGINS HERE -- don't remove this! -->
+<div class="frontpage-content" markdown="1">
 
 ### VSP Project websites
 
@@ -43,14 +31,17 @@ Covid:
 
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
 
----
-
 ### Some further information
 
 - [Reading list](/readinglist)
 - [Interesting links](/interestinglinks)
 
----
+
+<!-- ----- SIDEBAR BEGINS HERE --- don't remove this! -->
+</div>
+<div class="frontpage-sidebar" markdown="1">
+
+![VSP Logo](/assets/images/vsp-logo.png)
 
 ### Contact Us
 
@@ -68,9 +59,8 @@ D-10553 Berlin
 10:00-16:00 Mondays<br/>
 15:00-18:00 Thursdays
 
-For office hour appointments, please arrange beforehand via E-mail:<br/>
-<mailto:sekretariat@vsp.tu-berlin.de> or <mailto:lehre@vsp.tu-berlin.de>
-
+For office hour appointments, please arrange beforehand via email:<br/>
+<mailto:sekretariat@vsp.tu-berlin.de><br/> or <mailto:lehre@vsp.tu-berlin.de>
 
 
 
