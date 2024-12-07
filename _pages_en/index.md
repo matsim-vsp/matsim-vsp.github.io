@@ -12,7 +12,7 @@ banner_image: /assets/images/banner-berlin-traffic.jpg
 
 VSP maintains project websites for many of our research topics:
 
-- [VSP Homepage](https://www.vsp.tu-berlin.de) <br> VSP homepage Institute for Land and Sea Transport
+- [VSP Homepage](https://www.vsp.tu-berlin.de) <br> VSP at the TU Institute for Land and Sea Transport
 - [SimWrapper](https://vsp.berlin/simwrapper) <br>Simulation visualization platform
 - [matsim.org](https://matsim.org) <br> MATSim home page
 
