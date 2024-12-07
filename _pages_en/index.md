@@ -12,24 +12,26 @@ banner_image: /assets/images/banner-berlin-traffic.jpg
 
 VSP maintains project websites for many of our research topics:
 
-- [VSP Homepage](https://www.vsp.tu-berlin.de) - Department homepage for VSP at the Institute for Land and Sea Transport, TU Berlin
-- [SimWrapper](https://vsp.berlin/simwrapper) - Simulation visualization platform
-- [matsim.org](https://matsim.org) - MATSim home page
+- [VSP Homepage](https://www.vsp.tu-berlin.de) <br> VSP homepage Institute for Land and Sea Transport
+- [SimWrapper](https://vsp.berlin/simwrapper) <br>Simulation visualization platform
+- [matsim.org](https://matsim.org) <br> MATSim home page
 
-Planning Projects:
+---
 
-- [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav)
-- [RVR](/projects/rvr) - "Öffentliches" Modell für den Regionalverband Ruhr
-- [Sounding Board](https://vsp.berlin/sounding-board/)
-- [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) - Driverless city buses in Kelheim, Bavaria
-- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH (Hamburg)
-- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automated driving in the Düsseldorf digital testfield
-- [PAVE](https://vsp.berlin/pave) - Berlin PAVE Project - demand responsive transit
-- [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (Automated, networked, public transport)
+**Planning Projects:**
 
-Covid:
+- [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav) <br> Sustainable mobility and urban quality through traffic automation (Leipzig)
+- [RVR](/projects/rvr) <br> "Open" model for the Regionalverband Ruhr (Ruhrgebiet)
+- [Sounding Board](https://vsp.berlin/sounding-board/) <br> Interactive site exploring measures and tradeoffs
+- [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) <br> Driverless city buses in Kelheim, Bavaria
+- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) <br> RealLabHH (Hamburg)
+- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) <br> Automated driving in the Düsseldorf digital testfield
+- [PAVE](https://vsp.berlin/pave) <br> PAVE Project - demand responsive transit (Berlin)
+- [AVÖV](https://vsp.berlin/avoev) <br> Automated, networked, public transport (Gladbeck, Vulkaneifel)
 
-- [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
+**Covid:**
+
+- [COVID-Sim.info](https://covid-sim.info) <br> COVID-19 Simulation Portal
 
 ### Some further information
 

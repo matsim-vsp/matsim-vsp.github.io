@@ -233,6 +233,22 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 300;
 }
 
+.frontpage-content > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive grid */
+  gap: 20px;
+}
+
+/* Optional: Remove default list styling */
+.frontpage-content > ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.frontpage-content > ul li {
+  line-height: 1.2rem;
+}
+
 .site-title {
   font-weight: 300;
 }
@@ -306,8 +322,8 @@ footer {
 
 .frontpage-sidebar {
   width: 14rem;
-  font-size: 0.9rem;
-  line-height: 1.15rem;
+  font-size: 13px;
+  line-height: 1.1rem;
   margin-top: 2rem;
 }
 

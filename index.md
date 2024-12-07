@@ -11,25 +11,26 @@ description: VSP TU Berlin
 
 ### VSP Projekt Websites
 
-VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen.  Plattformen:
+VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen. Plattformen:
 
-- [VSP Homepage](https://www.vsp.tu-berlin.de) - Fachgebiet VSP, TU Berlin
-- [SimWrapper](https://vsp.berlin/simwrapper) - Model Visualizierung-Platform
-- [matsim.org](https://matsim.org) - MATSim Startseite
+- [VSP Homepage](https://www.vsp.tu-berlin.de) <br> Fachgebiet VSP, TU Berlin
+- [SimWrapper](https://vsp.berlin/simwrapper) <br> Model Visualizierung-Platform
+- [matsim.org](https://matsim.org) <br> MATSim Startseite
 
-Planungsprojekte:
+---
 
-- [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav)
-- [RVR](/projects/rvr) - "Öffentliches" Modell für den Regionalverband Ruhr
-- [Sounding Board](https://vsp.berlin/sounding-board/)
-- [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) - Fahrerlose Stadtbusse in Kelheim (Bayern)
-- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) - Automatisiertes Fahren im digitalen Testfeld Düsseldorf
-- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) - RealLabHH
-- [PAVE](https://vsp.berlin/pave) - Berlin PAVE Projekt - demand responsive transit
-- [AVÖV](https://vsp.berlin/avoev) - AVÖV Website (automatisierter vernetzter öffentlicher
-  Verkehr)
+**Planungsprojekte:**
 
-Covid:
+- [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav) <br> Nachhaltige Mobilität und städtebauliche Qualität durch Automatisierung im Verkehr (Leipzig)
+- [RVR](/projects/rvr) <br> "Öffentliches" Modell für den Regionalverband Ruhr
+- [Sounding Board](https://vsp.berlin/sounding-board/) <br> Wählen Sie Ihr Maßnahmenbündel aus
+- [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) <br> Fahrerlose Stadtbusse in Kelheim (Bayern)
+- [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) <br> Automatisiertes Fahren im digitalen Testfeld Düsseldorf
+- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) <br> Hamburg
+- [PAVE](https://vsp.berlin/pave) <br> PAVE Projekt - demand responsive transit (Berlin)
+- [AVÖV](https://vsp.berlin/avoev) <br> Automatisierter vernetzter öffentlicher Verkehr (Gladbeck, Vulkaneifel)
+
+**Covid:**
 
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
 
