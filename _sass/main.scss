@@ -8,7 +8,6 @@
 @import 'page';
 @import 'grid';
 @import 'highlight';
-// @import 'debug';
 
 // VSP Settings
 @font-face {
@@ -72,7 +71,7 @@ a.filter-link:active {
 }
 
 .paper-row:nth-child(odd) {
-  background-color: #efeff4;
+  background-color: var(--table-row-odd);
 }
 
 
@@ -164,7 +163,7 @@ header {
   position: sticky;
   top: 0;
   // Very opaque, for unsupported browsers. Overwritten in the feature queries below.
-  background: #d8d8ecf4; // hsl(0deg, 0%, 100%, 0.95);
+  background: var(--frosted-1); // hsl(0deg, 0%, 100%, 0.95);
   z-index: 2;
 }
 
@@ -174,7 +173,7 @@ header {
   (-webkit-backdrop-filter: blur(16px))
 {
   header {
-    background: #c8c8e470; // hsl(0deg, 0%, 0%, 0.5);
+    background: var(--frosted-2); // hsl(0deg, 0%, 0%, 0.5);
   }
 
   .frosty-backdrop {
@@ -185,11 +184,10 @@ header {
     backdrop-filter: blur(16px);
     background: linear-gradient(
       to bottom,
-      #d8d8e4,
+      var(--frosted-3),
       transparent 50%
     );
     pointer-events: none;
-    // #d8d8e4
   }
 }
   // This code gets applied for browsers that support mask-image.
@@ -220,8 +218,7 @@ header {
 // ---------------------------------------
 body {
   max-width: unset;
-  background-color: #eeeef4;
-
+  // background-color: #eeeef4;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -307,7 +304,17 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 footer {
-  background-color: #eeeef4;
+  background-color: var(--frosted-1);
+}
+
+.post-title {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.post-meta {
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .frontpage {
@@ -332,12 +339,12 @@ footer {
 }
 
 .banner img {
-  filter: sepia(15%) hue-rotate(201deg) brightness(98%);
+  filter: var(--banner-image-filter);
 }
 
 @include media(max-width 60rem) {
   .header-container {
-    height: 6.5rem;
+    height: 7rem;
   }
   .navigation {
     margin-top: 0;
@@ -386,4 +393,54 @@ footer {
   .site-header-links {
     font-size: 13px;
   }
+}
+
+
+// DARK MODE -------------------------------------
+/* Default (light) mode */
+:root {
+  --background-color: white;
+  --text-color: black;
+  --link-color: #26267e;
+  --frosted-1: #d8d8ecf4;
+  --frosted-2: #c8c8e470;
+  --frosted-3: #d8d8e4;
+  --banner-image-filter: sepia(15%) hue-rotate(201deg) brightness(98%);
+  --table-row-odd: #efeff4;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #121314; // 31719;
+    --text-color: #c0c0c0;
+    --link-color: #4d9aff;
+    --frosted-1: #222630f4;
+    --frosted-2: #26323470;
+    --frosted-3: #232632;
+    --banner-image-filter: brightness(97%) invert(100%) hue-rotate(-25deg);
+    --table-row-odd: #1e1f24;
+  }
+}
+
+body, main, thead {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+h3 {
+  color: rgb(179, 67, 67);
+}
+
+a {
+  color: var(--link-color);
+}
+
+/* Optional: Smooth transition between modes */
+body, main, a {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.invert-images img {
+  filter: invert(100%) hue-rotate(0deg);
 }

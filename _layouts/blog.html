@@ -17,15 +17,17 @@ layout: default
     <h1 class="page-title">{{ page.title }}</h1>
   </div>
 
+  {{ content }}
+
   <ul class="blog-list">
     {% for post in sorted %}
     <li>
-      <h2 class="post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
       <small class="post-meta"
         >{% include i18n/date date=post.date format="long" %}</small
       >
+      <h2 class="post-title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
     </li>
     {% endfor %}
   </ul>

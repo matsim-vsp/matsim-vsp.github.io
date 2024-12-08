@@ -257,7 +257,7 @@ $link-hover-color: darken($link-color, 10%) !default;
 $link-active-color: darken($link-color, 20%) !default;
 
 // Borders
-$base-border-color: $light-gray !default;
+$base-border-color: #80808080 !default;
 $base-border-width: 1px !default;
 $base-border: $base-border-width solid $base-border-color !default;
 $base-border-radius: 0.25em !default;

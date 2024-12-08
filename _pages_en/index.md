@@ -31,7 +31,7 @@ VSP maintains project websites for many of our research topics:
 
 **Covid:**
 
-- [COVID-Sim.info](https://covid-sim.info) <br> COVID-19 Simulation Portal
+- [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
 
 ### Some further information
 
@@ -51,7 +51,7 @@ Transport Systems Planning and Transport Telematics<br/>
 Email: <mailto:sekretariat@vsp.tu-berlin.de><br/>
 Tel: +49-30-314-23308
 
-Building: KAI, Raum 5210
+Building: KAI, Room 5210
 
 **Address:**<br/>
 Kaiserin-Augusta-Allee 104<br/>
