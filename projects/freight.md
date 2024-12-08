@@ -34,7 +34,7 @@ VSP has developed "SimWrapper" — an interactive web-based tool for displaying 
 
 All simulation runs for the scenario examining limited battery capacity are below.
 
-<p style="padding: 1rem; background-color: #ffc; border-left: 1rem solid #ee7;">
+<p style="padding: 1rem; background-color: #ffc; color: #333; border-left: 1rem solid #ee7;">
 <b><i>These links work best on desktop browsers or tablets!<br/>Simulation results are too detailed to display on a mobile phone screen.</i></b>
 </p>
 
