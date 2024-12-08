@@ -303,6 +303,10 @@ h1,h2,h3,h4,h5,h6 {
   border: none !important;
 }
 
+main {
+  padding-bottom: 2rem;
+}
+
 footer {
   background-color: var(--frosted-1);
 }
@@ -416,7 +420,7 @@ footer {
     --text-color: #c0c0c0;
     --link-color: #4d9aff;
     --frosted-1: #222630f4;
-    --frosted-2: #26323470;
+    --frosted-2: #27303670;
     --frosted-3: #232632;
     --banner-image-filter: brightness(97%) invert(100%) hue-rotate(-25deg);
     --table-row-odd: #1e1f24;
