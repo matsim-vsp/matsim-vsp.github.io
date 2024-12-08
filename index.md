@@ -32,7 +32,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen. Plattforme
 
 **Covid:**
 
-- [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
+- [COVID-Sim.info](https://covid-sim.info) <br> COVID-19 Simulation Portal
 
 ---
 
