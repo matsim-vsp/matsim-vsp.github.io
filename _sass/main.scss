@@ -218,7 +218,6 @@ header {
 // ---------------------------------------
 body {
   max-width: unset;
-  // background-color: #eeeef4;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -230,10 +229,24 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 300;
 }
 
+.page-header {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #80808080;
+}
+
+.homepage-wrapper {
+  max-width: $page-max-width;
+  margin: 0 auto;
+}
+
 .frontpage-content > ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive grid */
   gap: 20px;
+
+  @include media($large-screen-up) {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 /* Optional: Remove default list styling */
@@ -252,10 +265,6 @@ h1,h2,h3,h4,h5,h6 {
 
 .wrapper {
   max-width: unset;
-}
-
-.page.wrapper {
-  max-width: 68rem;
 }
 
 .text img {
@@ -322,9 +331,10 @@ footer {
 }
 
 .frontpage {
+  font-weight: 300;
   display: flex;
   flex-direction: row;
-  gap: 4rem;
+  gap: 8rem;
 }
 
 .frontpage-content {
@@ -332,10 +342,15 @@ footer {
 }
 
 .frontpage-sidebar {
-  width: 14rem;
+  width: 16rem;
   font-size: 13px;
   line-height: 1.1rem;
   margin-top: 2rem;
+  margin-left: auto;
+
+  img {
+    width: 10rem;
+  }
 }
 
 .header-logo-image {
@@ -389,6 +404,7 @@ footer {
     flex-direction: column;
   }
   .frontpage-sidebar {
+    margin-left: unset;
     width: unset;
   }
 }
@@ -420,11 +436,20 @@ footer {
     --text-color: #c0c0c0;
     --link-color: #4d9aff;
     --frosted-1: #222630f4;
-    --frosted-2: #27303670;
+    --frosted-2: #27303660;
     --frosted-3: #232632;
     --banner-image-filter: brightness(97%) invert(100%) hue-rotate(-25deg);
     --table-row-odd: #1e1f24;
   }
+
+  .invert-images img {
+    filter: invert(100%) hue-rotate(0deg);
+  }
+
+  h3 {
+    color: #b34343;
+  }
+
 }
 
 body, main, thead {
@@ -432,19 +457,12 @@ body, main, thead {
   color: var(--text-color);
 }
 
-h3 {
-  color: rgb(179, 67, 67);
-}
-
 a {
   color: var(--link-color);
 }
 
-/* Optional: Smooth transition between modes */
+// Smooth transition between modes
 body, main, a {
   transition: background-color 0.3s, color 0.3s;
 }
 
-.invert-images img {
-  filter: invert(100%) hue-rotate(0deg);
-}
