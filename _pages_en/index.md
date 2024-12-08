@@ -33,6 +33,8 @@ VSP maintains project websites for many of our research topics:
 
 - [COVID-Sim.info](https://covid-sim.info) - COVID-19 Simulation Portal
 
+---
+
 ### Some further information
 
 - [Reading list](/readinglist)
@@ -42,6 +44,7 @@ VSP maintains project websites for many of our research topics:
 <!-- ----- SIDEBAR BEGINS HERE --- don't remove this! -->
 </div>
 <div class="frontpage-sidebar" markdown="1">
+<!-- ----- --------------------------- -->
 
 ![VSP Logo](/assets/images/vsp-logo.png)
 
