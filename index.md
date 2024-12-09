@@ -23,7 +23,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen. Plattforme
 
 - [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav) <br> Nachhaltige Mobilität und städtebauliche Qualität durch Automatisierung im Verkehr (Leipzig)
 - [RVR](/projects/rvr) <br> "Öffentliches" Modell für den Regionalverband Ruhr
-- [Sounding Board](https://vsp.berlin/sounding-board/) <br> Wählen Sie Ihr Maßnahmenbündel aus
+- [Sounding Board](https://vsp.berlin/sounding-board/) <br> Verkehrsmaßnahmen und deren Einsparung von CO2-Emissionen
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) <br> Fahrerlose Stadtbusse in Kelheim (Bayern)
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) <br> Automatisiertes Fahren im digitalen Testfeld Düsseldorf
 - [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) <br> Hamburg
