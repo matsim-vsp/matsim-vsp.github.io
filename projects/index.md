@@ -24,13 +24,15 @@ Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-
 
 <!-- I kept the above links since they might be interesting for the corresponding sub-pages.  kai, nov'23 -->
 
-- [MOSAIK](/projects/mosaik-2)
-- [RealLabHH](/projects/RealLabHH)
-- [KoMoDnext](/projects/KoMoDnext)
-- [Big Data](/projects/BigData)
 - [AVÖV](/projects/AVOeV)
-- [PAVE](/projects/PAVE)
+- [Big Data](/projects/BigData)
 - [IDEAS](/projects/IDEAS)
+- [Freight](/projects/freight)
+- [KoMoDnext](/projects/KoMoDnext)
+- [MOSAIK](/projects/mosaik-2)
+- [PAVE](/projects/PAVE)
+- [RealLabHH](/projects/RealLabHH)
+
 - NEMO
 - Shared Autonomous Taxis
 - Transit Optimization
