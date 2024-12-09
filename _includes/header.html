@@ -12,12 +12,34 @@
         </div>
         <div class="site-header-lang navigation">
             {% include lang-switcher.html %}
+            <button id="theme-toggle" title="Dark/light mode">Switch theme</button>
         </div>
 
     </div>
 
   </div>
 
+  <script>
+    // Utility function to set a cookie
+    function setCookie(name, value, days) {
+      const date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      document.cookie = `${name}=${value}; expires=${date.toUTCString()}; path=/; SameSite=Strict`;
+    }
+
+    const button = document.getElementById('theme-toggle');
+    button.textContent = savedTheme === 'dark' ?  '☀️' : '🌗';
+
+    // Toggle theme
+    document.getElementById('theme-toggle').addEventListener('click', () => {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', newTheme);
+      setCookie('theme', newTheme, 365); // Save user preference for 1 year
+      button.textContent = newTheme === 'dark' ?  '☀️' : '🌗';
+    });
+
+  </script>
   <div class="frosty-backdrop"></div>
 
 </header>
