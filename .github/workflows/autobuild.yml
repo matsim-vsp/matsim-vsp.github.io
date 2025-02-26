@@ -57,7 +57,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
         # required in v3
-          path: _site/
+          path: ./_site
 
   deploy:
     environment:
