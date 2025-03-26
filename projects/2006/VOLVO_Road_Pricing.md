@@ -1,5 +1,5 @@
 ---
-title: Forschungsprojekt Environmentally-oriented Road Pricing for Livable Cities – Application of Agent-based Microsimulation Models to Berlin \[VOLVO-Road Pricing\]
+title: Forschungsprojekt Environmentally-oriented Road Pricing for Livable Cities – Application of Agent-based Microsimulation Models to Berlin [VOLVO-Road Pricing]
 ---
 
 {% include i18n/i18n %}

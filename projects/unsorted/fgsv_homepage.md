@@ -14,8 +14,7 @@ Sollten Sie Anregungen, Ergänzungen oder Interesse an einer aktiven Mitarbeit h
 
 ### Leitung des Arbeitskreises:
 
-**Dr.-Ing. Imke Steinmeyer  
-**  
+**Dr.-Ing. Imke Steinmeyer**  
 Technische Universität Berlin  
 Institut für Land- und Seeverkehr  
 Sekr. SG 12  

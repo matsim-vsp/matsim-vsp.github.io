@@ -20,7 +20,7 @@ Gregor Lämmel, TU-Berlin
 
 [TU-Berlin, Fachgebiet Modellierung, Numerik und Differentialgleichungen, Institut für Mathematik, Prof. Dr Schwandt, Prof. Dr. Bärwolff](http://www.math.tu-berlin.de/numerik/)  
   
-[TU-Berlin, Fachgebiet für Verkehrssystemplanung und Verkehrstelematik, Institut für Land-und Seeverkehr](https://www.vsp.tu-berlin.de/menue/aktuelles/?no_cache=1), [Prof. Dr. Nagel](https://www.vsp.tu-berlin.de/menue/ueber_uns/team/prof_dr_kai_nagel/)
+[TU-Berlin, Fachgebiet für Verkehrssystemplanung und Verkehrstelematik, Institut für Land-und Seeverkehr](https://www.tu.berlin/vsp), [Prof. Dr. Nagel](https://www.tu.berlin/vsp/ueber-uns/fachgebietsleitung)
 
 ## Projektförderer
 
