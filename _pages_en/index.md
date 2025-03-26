@@ -12,7 +12,7 @@ banner_image: /assets/images/banner-berlin-traffic.jpg
 
 VSP maintains project websites for many of our research topics:
 
-- [VSP Homepage](https://www.vsp.tu-berlin.de) <br> VSP at the TU Institute for Land and Sea Transport
+- [VSP Homepage](https://www.tu.berlin/vsp) <br> VSP at the TU Institute for Land and Sea Transport
 - [SimWrapper](https://vsp.berlin/simwrapper) <br>Simulation visualization platform
 - [matsim.org](https://matsim.org) <br> MATSim home page
 
@@ -21,11 +21,11 @@ VSP maintains project websites for many of our research topics:
 **Planning Projects:**
 
 - [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav) <br> Sustainable mobility and urban quality through traffic automation (Leipzig)
-- [RVR](/projects/rvr) <br> "Open" model for the Regionalverband Ruhr (Ruhrgebiet)
+- [RVR](/projects/2021/rvr) <br> "Open" model for the Regionalverband Ruhr (Ruhrgebiet)
 - [Sounding Board](https://vsp.berlin/sounding-board/) <br> Transport measures and their reduction of CO2 emissions
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) <br> Driverless city buses in Kelheim, Bavaria
-- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) <br> RealLabHH (Hamburg)
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) <br> Automated driving in the Düsseldorf digital testfield
+- [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) <br> RealLabHH (Hamburg)
 - [PAVE](https://vsp.berlin/pave) <br> PAVE Project - demand responsive transit (Berlin)
 - [AVÖV](https://vsp.berlin/avoev) <br> Automated, networked, public transport (Gladbeck, Vulkaneifel)
 

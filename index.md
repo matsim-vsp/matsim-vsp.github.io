@@ -13,7 +13,7 @@ description: VSP TU Berlin
 
 VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen. Plattformen:
 
-- [VSP Homepage](https://www.vsp.tu-berlin.de) <br> Fachgebiet VSP, TU Berlin
+- [VSP Homepage](https://www.tu.berlin/vsp) <br> Fachgebiet VSP, TU Berlin
 - [SimWrapper](https://vsp.berlin/simwrapper) <br> Model Visualizierung-Platform
 - [matsim.org](https://matsim.org) <br> MATSim Startseite
 
@@ -22,7 +22,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen. Plattforme
 **Planungsprojekte:**
 
 - [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav) <br> Nachhaltige Mobilität und städtebauliche Qualität durch Automatisierung im Verkehr (Leipzig)
-- [RVR](/projects/rvr) <br> "Öffentliches" Modell für den Regionalverband Ruhr
+- [RVR](/projects/2021/rvr) <br> "Öffentliches" Modell für den Regionalverband Ruhr
 - [Sounding Board](https://vsp.berlin/sounding-board/) <br> Verkehrsmaßnahmen und deren Einsparung von CO2-Emissionen
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) <br> Fahrerlose Stadtbusse in Kelheim (Bayern)
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) <br> Automatisiertes Fahren im digitalen Testfeld Düsseldorf
