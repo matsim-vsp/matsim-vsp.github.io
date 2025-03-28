@@ -72,7 +72,7 @@ Once you find a folder of results you can click the **Carrier Explorer** to view
 
 Have fun exploring.
 
-### Logistics: Simulation Logistic Service Providers (LSPs)
+### Logistic Service Providers (LSPs) visualizations
 
 In the  [Carrier Agents and Interactions with Traffic flows](https://www.tu.berlin/vsp/forschung/projekte/freight-ii) project, we are simulating logistic chains.
 
