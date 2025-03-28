@@ -32,13 +32,15 @@ To visualize the different scenarios, including single carriers and each tour, w
 
 VSP has developed "SimWrapper" — an interactive web-based tool for displaying and exploring MATSim simulation results.
 
-All simulation runs for the scenario examining limited battery capacity are below.
+
 
 <p style="padding: 1rem; background-color: #ffc; color: #333; border-left: 1rem solid #ee7;">
 <b><i>These links work best on desktop browsers or tablets!<br/>Simulation results are too detailed to display on a mobile phone screen.</i></b>
 </p>
 
 ### Food retailing scenarios: freight carrier visualizations
+
+All simulation runs for the scenario examining limited battery capacity are below.
 
 <span style="color: #158055; font-weight: 500;">Without Range Constraints</span> assumes that battery capacity is not an issue for tour planning, e.g. due to recharging while loading/unloading.
 
@@ -57,7 +59,7 @@ For both, we run multiple simulation runs with increasing variable costs per dis
 
 The diesel tax values came from a (fictitious) CO2 tax which increases the diesel costs. E.g. `noTax`, means that there is no additional tax on diesel, while `Tax300` means that there is an additional tax included of 300 € per ton CO2.
 
-### Full results
+#### Full results
 
 To go deeper and explore every scenario available, you can [click here](https://vsp.berlin/simwrapper/public/de/berlin/projects/freight/).
 
@@ -66,6 +68,21 @@ There are folders for each simulation run. You can dive into the many folders of
 Once you find a folder of results you can click the **Carrier Explorer** to view the interactive tool.
 
 Have fun exploring.
+
+### Logistics: Simulation Logistic Service Providers (LSPs)
+
+In the  [Carrier Agents and Interactions with Traffic flows](https://www.tu.berlin/vsp/forschung/projekte/freight-ii) project, we are simulating logistic chains.
+
+MATSim was extended by an agent type that makes the decision about the transport logistics process: the **Logistic Service Provider (LSP)**. The LSP receives orders to deliver goods from a starting point to a destination. It can use various resources to fulfill the orders: The **Carriers** as a transport company and **Hubs** as transshipment points.
+A LSP has one or more logistics chains (consisting of carriers and optionally hubs) at its disposal. It decides in an iterative process which order is to be executed with which logistics chain. The carriers then plan their routes. This plan is evaluated and modified for the next iteration.
+
+In the following, you can explore the simulation results for an LSPs. Again, Simwrapper is used to visualize the results.
+
+Here, the LSP has two options for each job for delivering: a) using a direct (one-echelon) chain, or b) using a two-echelon chain with a hub in between and smaller trucks for the second echelon (last mile).
+
+
+[![Example logistic chains for food/grocery transport in Berlin](/assets/images/freight-lsps.jpg)](https://vsp.berlin/simwrapper/public/de/berlin/projects/logistics/foodRetailingLSPExample/output_lsps.xml.gz)<br>
+_Example Usage of mix of one and two-echelon logistic chains for food/grocery transport in Berlin_
 
 ## Publications: for further information
 
