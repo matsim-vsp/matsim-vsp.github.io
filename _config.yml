@@ -89,3 +89,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-github-metadata
+  - jekyll-redirect-from
