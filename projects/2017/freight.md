@@ -2,6 +2,7 @@
 title: Freight at VSP
 redirect_from:
   - /projects/freight
+  - /projects/freight/
 ---
 
 {% include i18n/i18n %}
