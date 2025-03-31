@@ -20,13 +20,13 @@ Jekyll requires Ruby 3.3.x installed so that the dependency bundler can find all
 
 - Install Ruby 3.3 for your system: on Mac homebrew this is `brew install ruby@3.3`
 - Make sure the correct Ruby is in your PATH; I had to add to my .profile:
-  - `export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+  - `export PATH="/opt/homebrew/opt/ruby/bin:$PATH"`
   - run "which ruby" to verify you are running Ruby 3.3
 - Finally run `bundle install`. This installs all of the jekyll infrastructure. If this step has build errors, try deleting `Gemfile.lock` and trying again.
 
 Now you can run locally:
 
-- `bundle exec jekyll serve` and you have a hot server, edit your files, go visit http://127.0.01:4000/ and reload to see your changes
+- `bundle exec jekyll serve` and you have a hot server. Edit your files, go visit http://127.0.01:4000/ and reload to see your changes
 
 ## Publications page web-app
 
@@ -52,6 +52,30 @@ Now go back and run the Jekyll server as above and review your changes.
 The CSS styling between the two often gets lost: I find that copying manually any new CSS from `_publications_app/src/App.vue` into `_sass/main.css` works best.
 
 Have fun!
+
+## Project pages
+
+Every Markdown file gets converted to a URL and you can use this for single-page project pages. There are many examples in the `/projects` folder.
+
+If you want to build a full **project website** instead of just a single landing page, you should create separate project repository and use the GitHub Pages instead.
+
+**Here is how it works:**
+
+Create a repository, go to its Settings / Pages panel on GitHub, and enable GitHub Pages for that repository.
+
+- You can build from content on a branch or from a `/docs` folder. That branch or folder should contain the markdown files that you want to comprise your site.
+
+- Choose a branch name, e.g. `main` or `gh-pages` or a folder. In a few minutes your site will be live already at https://vsp.berlin/repository-name
+
+For example: There is a repository at github.com/matsim-vsp/avoev with a `gh-pages` branch. GitHub Pages serves the content from that `gh-pages` branch. That website is visible at https://vsp.berlin/avoev .
+
+This GitHub Pages system supersedes any files you might have in the main vsp.berlin website such as /pave.md or /avoev.md.
+
+It's a nice system actually: It means we can fully control websites for some projects, and also have simple landing pages for other projects without creating separate repositories for them.
+
+GitHub pages uses Jekyll to convert markdown files to HTML. You can build very complex websites with Jekyll.
+
+- See this link for more on [GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
 ..Billy
 
