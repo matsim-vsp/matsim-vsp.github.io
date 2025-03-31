@@ -36,7 +36,7 @@ Source code for this is in the `_publications_app` folder.  It gets built separa
 
 ### To build/update the publications-app:
 
-- Install Node LTS 20.x from https://node.dev
+- Install Node LTS 20.x or higher from https://nodejs.org/en
   - If you are in the future and recent Node versions don't work, use [nvm: node version manager](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) and run `nvm install 20` and `nvm use 20` to get version 20 specifically.
 - cd into `_publications_app`
 - run `npm ci` to install node project dependencies
