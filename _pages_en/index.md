@@ -24,6 +24,7 @@ VSP maintains project websites for many of our research topics:
 - [RVR](/projects/2021/rvr) <br> "Open" model for the Regionalverband Ruhr (Ruhrgebiet)
 - [Sounding Board](https://vsp.berlin/sounding-board/berlin) <br> Transport measures and their reduction of CO2 emissions
 - [KelRide](https://vsp.berlin/simwrapper/public/de/kelheim/projects/KelRide/) <br> Driverless city buses in Kelheim, Bavaria
+- [Mobility2Grid](https://mobility2grid.de/) <br> Sector coupling in the mobility sector
 - [KoMo:Dnext](https://vsp.berlin/simwrapper/komodnext) <br> Automated driving in the Düsseldorf digital testfield
 - [RealLabHH](https://vsp.berlin/simwrapper/public/de/hamburg/hamburg-v2/hamburg-v2.2/viz) <br> RealLabHH (Hamburg)
 - [PAVE](https://vsp.berlin/pave) <br> PAVE Project - demand responsive transit (Berlin)
