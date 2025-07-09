@@ -1,15 +1,3 @@
-[//]: # (---)
-
-[//]: # (layout: forward)
-
-[//]: # (target: https://docs.google.com/forms/d/e/1FAIpQLScJb6wsJxpKq1dSXpflvx5Je2FYhYgngpijYaI1ta0UIM40oQ/viewform?usp=dialog)
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # (Redirection to event registration)
-
-
 # Invitation to the 3rd International Symposium on Multi-Agent Freight Transport Simulation
 
 **Information desk:** Elija Deineko  
@@ -83,18 +71,3 @@ For further information or if you have any questions, please do not hesitate to 
     </td>
   </tr>
 </table>
-
-
-[//]: # (| **Prof. Dr. Gernot Liedtke** | **Prof. Dr. Kai Nagel** |)
-
-[//]: # (|-----------------------------|--------------------------|)
-
-[//]: # (| *Institute of Transport Research*  <br> *Head of Department of Transport Markets and Services*  <br> *German Aerospace Center*  <br> *and*  <br> *Head of Chair of Commercial Transport*  <br> *Technische Universität Berlin* | *Head of Chair of Transport System Planning and <br/>Transport Telematics*  <br> *Technische Universität Berlin* |)
-
-[//]: # ()
-[//]: # (| **Ilka Dubernet** | **Kai Martins-Turner, M.Sc.** |)
-
-[//]: # (|-------------------|------------------------------|)
-
-[//]: # (| *Institute of Transport Research*  <br> *Department Leader of Transport Planning and Services*  <br> *German Aerospace Center* | *Research Assistant*  <br> *Chair of Transport System Planning and Transport Telematics*  <br> *Technische Universität Berlin* |)
-
