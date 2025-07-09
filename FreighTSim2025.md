@@ -1,9 +1,7 @@
-# Invitation to the 3rd International Symposium on Multi-Agent Freight Transport Simulation
-
-**Information desk:** Elija Deineko  
-**Email:** [Elija.Deineko@dlr.de](mailto:Elija.Deineko@dlr.de)  
-**Date:** June 13, 2025
 ---
+title: "Invitation to the 3rd International Symposium on Multi-Agent Freight Transport Simulation"
+---
+
 
 ### Dear Ladies and Gentlemen,
 
@@ -71,3 +69,9 @@ For further information or if you have any questions, please do not hesitate to 
     </td>
   </tr>
 </table>
+
+---
+**Information desk:** Elija Deineko  
+**Email:** [Elija.Deineko@dlr.de](mailto:Elija.Deineko@dlr.de)  
+**Date:** June 13, 2025
+
