@@ -9,9 +9,9 @@ This is an announcement of the **3rd International Symposium on Multi-Agent Frei
 
 The 3rd FreighTSim symposium is organized jointly by:
 
-- **German Aerospace Center**  
+- **German Aerospace Center (DLR)**  
   *(Institute of Transport Research, Department of Transport Markets and Services)*
-- **Technical University Berlin**  
+- **Technische Universität Berlin (TU Berlin)**  
   *(Chair of Transport System Planning and Transport Telematics, Chair of Commercial Transport)*
 
 This symposium is also the **3rd Meeting of MATSim Users focusing on freight transport**.
