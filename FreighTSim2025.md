@@ -27,6 +27,7 @@ Candidates for presentations should submit an **abstract (max. 2 pages) before 2
 Already published or submitted studies are also welcome.  
 Authors will be notified by **1st September 2025** of their abstract status.
 
+Please note that the event **"Mobility and Beyond: Connecting People, Places, and Ideas — A Symposium for Kai Nagel’s 60th Birthday"** is scheduled the day after. More information and registration: [Link](https://vsp.berlin/kai60)
 
 The symposium will be **free of charge**.
 
