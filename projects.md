@@ -7,6 +7,10 @@ title: Projekte
 ### Laufende Projekte (Current projects)
 
 Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-projekte).
+- [UMEX-HOPE](/projects/2025/UMEX-HOPE)
+- [AgiMo](/projects/2025/AgiMo)
+- [EpiServe](/projects/2025/EpiServe)
+- [MATSim](/projects/2004/MATSim)
 
 ### Abgeschlossene Projekte (Completed projects)
 
@@ -24,6 +28,14 @@ Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-
 
 <!-- I kept the above links since they might be interesting for the corresponding sub-pages.  kai, nov'23 -->
 
+- [MATSim Visualizer](/projects/2020/MATSim_visualizer)
+- [infoXpand](/projects/2022/infoXpand)
+- [NaMAV](/projects/2020/NaMAV)
+- [KelRide](/projects/2021/KelRide)
+- [Optimal Pricing](/projects/2016/optimal_pricing)
+- [Freight II](/projects/2017/freight_II)
+- [Reisebusstrategie](/projects/2021/Reisebusstrategie)
+- [MATH+ (I)](/projects/2019/MATHplus_I)
 - [AVÖV](/projects/2018/AVOeV)
 - [Big Data](/projects/2017/BigData)
 - [IDEAS](/projects/2018/IDEAS)

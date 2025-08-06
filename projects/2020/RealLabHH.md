@@ -1,5 +1,5 @@
 ---
-title: RealLabHH– Digitalisierung und Automatisierung der Personen- und Warenmobilität
+title: RealLabHH – Digitalisierung und Automatisierung der Personen- und Warenmobilität
 ---
 
 {% include i18n/i18n %}

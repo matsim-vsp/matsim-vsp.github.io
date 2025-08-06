@@ -74,7 +74,7 @@ Have fun exploring.
 
 ### Logistic Service Providers (LSPs) visualizations
 
-In the  [Carrier Agents and Interactions with Traffic flows](https://www.tu.berlin/vsp/forschung/projekte/freight-ii) project, we are simulating logistic chains.
+In the  [Carrier Agents and Interactions with Traffic flows](/projects/2017/freight_II) project, we are simulating logistic chains.
 
 MATSim was extended by an agent type that makes the decision about the transport logistics process: the **Logistic Service Provider (LSP)**. The LSP receives orders to deliver goods from a starting point to a destination. It can use various resources to fulfill the orders: The **Carriers** as a transport company and **Hubs** as transshipment points.
 A LSP has one or more logistics chains (consisting of carriers and optionally hubs) at its disposal. It decides in an iterative process which order is to be executed with which logistics chain. The carriers then plan their routes. This plan is evaluated and modified for the next iteration.

@@ -1,5 +1,5 @@
 ---
-title: KoMoDnext– Automatisiertes Fahren im digitalen Testfeld Düsseldorf
+title: KoMoDnext – Automatisiertes Fahren im digitalen Testfeld Düsseldorf
 ---
 
 {% include i18n/i18n %}
