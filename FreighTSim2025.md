@@ -29,7 +29,7 @@ Authors will be notified by **1st September 2025** of their abstract status.
 
 The symposium will be **free of charge**.
 
-The **program** is now [online]{/assets/documents/FreighTSim_Program_2025.pdf}.
+The **program** is now [online](/assets/documents/FreighTSim_Program_2025.pdf).
 This note, that it may be subject to changes.
 
 
