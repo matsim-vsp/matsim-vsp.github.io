@@ -27,8 +27,11 @@ Candidates for presentations should submit an **abstract (max. 2 pages) before 2
 Already published or submitted studies are also welcome.  
 Authors will be notified by **1st September 2025** of their abstract status.
 
-
 The symposium will be **free of charge**.
+
+The **program** is now [online]{/assets/documents/FreighTSim_Program_2025.pdf}.
+This note, that it may be subject to changes.
+
 
 We look forward to see you at our symposium in Berlin!  
 For further information or if you have any questions, please do not hesitate to contact  [elija.deineko@dlr.de](mailto:elija.deineko@dlr.de)
