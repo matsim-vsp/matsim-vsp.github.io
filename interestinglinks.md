@@ -35,3 +35,7 @@ title: Interesting links
 [R2K-Klim+ Strategisches Entscheidungsunterstützungstool zur Anpassung an den Klimawandel auf regionaler und kommunaler Ebene im Rheineinzugsgebiet](https://r2k-klim.net/)
 
 ... [dazugehörendes Entscheidungsunterstützungssystem](https://r2k.geomer-maps.de/)
+
+# Visualizations
+
+[Jan Kamensky Visual Utopias](https://www.visualutopias.com/)

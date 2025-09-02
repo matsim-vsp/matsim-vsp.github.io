@@ -9,9 +9,9 @@ This is an announcement of the **3rd International Symposium on Multi-Agent Frei
 
 The 3rd FreighTSim symposium is organized jointly by:
 
-- **German Aerospace Center**  
+- **German Aerospace Center (DLR)**  
   *(Institute of Transport Research, Department of Transport Markets and Services)*
-- **Technical University Berlin**  
+- **Technische Universität Berlin (TU Berlin)**  
   *(Chair of Transport System Planning and Transport Telematics, Chair of Commercial Transport)*
 
 This symposium is also the **3rd Meeting of MATSim Users focusing on freight transport**.
@@ -25,12 +25,13 @@ If you are interested to attend the 3rd FreighTSim, you can register via e-mail.
 **Experts from science and industry are also invited to give a presentation about their recent work.**  
 Candidates for presentations should submit an **abstract (max. 2 pages) before 20th August 2025 by [e-mail](mailto:elija.deineko@dlr.de)**.  
 Already published or submitted studies are also welcome.  
-Authors will be notified by **1st September 2025** of their abstract status.
-
-The symposium will be **free of charge**.
 
 The **program** is now [online](/assets/documents/FreighTSim_Program_2025.pdf).
 This note, that it may be subject to changes.
+
+Please note that the event **"Mobility and Beyond: Connecting People, Places, and Ideas — A Symposium for Kai Nagel’s 60th Birthday"** is scheduled the day after. More information and registration: [Link](https://vsp.berlin/kai60)
+
+The symposium will be **free of charge**.
 
 
 We look forward to see you at our symposium in Berlin!  
