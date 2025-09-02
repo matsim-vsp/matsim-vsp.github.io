@@ -27,9 +27,9 @@ Candidates for presentations should submit an **abstract (max. 2 pages) before 2
 Already published or submitted studies are also welcome.  
 
 The **program** is now [online](/assets/documents/FreighTSim_Program_2025.pdf).
-This note, that it may be subject to changes.
+Please note, that the program may be subject to changes.
 
-Please note that the event **"Mobility and Beyond: Connecting People, Places, and Ideas — A Symposium for Kai Nagel’s 60th Birthday"** is scheduled the day after. More information and registration: [Link](https://vsp.berlin/kai60)
+Please also note that the event **"Mobility and Beyond: Connecting People, Places, and Ideas — A Symposium for Kai Nagel’s 60th Birthday"** is scheduled the day after. More information and registration: [Link](https://vsp.berlin/kai60)
 
 The symposium will be **free of charge**.
 
