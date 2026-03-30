@@ -5,8 +5,9 @@ title: Projekte
 {% include i18n/i18n %}
 
 ### Laufende Projekte (Current projects)
+- [AgiMo](/projects/2025/agimo.md)
 
-Diese sind derzeit [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-projekte).
+Weitere Projekte sind [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-projekte).
 
 ### Abgeschlossene Projekte (Completed projects)
 
