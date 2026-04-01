@@ -6,6 +6,7 @@ title: Projekte
 
 ### Laufende Projekte (Current projects)
 - [AgiMo](/projects/2025/agimo.md)
+- [Episerve](/projects/2026/Episerve.md)
 
 Weitere Projekte sind [hier](https://www.tu.berlin/vsp/forschung/projekte/laufende-projekte).
 
