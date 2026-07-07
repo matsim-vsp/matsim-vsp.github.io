@@ -65,6 +65,7 @@ TRR: 408/1 2025 – Projektnummer: 531327426
 ## Kontakt
 
 - [Prof. Dr. Kai Nagel](https://www.tu.berlin/vsp/ueber-uns/fachgebietsleitung), TU Berlin, Projektleiter C3+C4
+- [Dr.-Ing. Michael Zilske](https://www.tu.berlin/vsp/ueber-uns/team), TU Berlin, Wiss. Mitarbeiter
 - [Daniel Röder](https://www.tu.berlin/vsp/ueber-uns/team), M.Sc., TU Berlin, Wiss. Mitarbeiter
 - [Gregor Rybczak](https://www.tu.berlin/vsp/ueber-uns/team), M.Sc., TU Berlin, Wiss. Mitarbeiter
 - [Simon Meinhardt](https://www.tu.berlin/vsp/ueber-uns/team), M.Sc., TU Berlin, Wiss. Mitarbeiter
