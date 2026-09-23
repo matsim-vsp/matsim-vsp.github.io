@@ -21,6 +21,7 @@ VSP unterhält Projekt-Webseiten für viele unserer Forschungsthemen. Plattforme
 
 **Planungsprojekte:**
 
+- [Corner Cases Dashboard](https://claude.ai/artifact/UdMKx7G1KF89Es2nZ4BCfq) <br> Temporary link for workshop
 - [NaMaV](https://vsp.berlin/simwrapper/public/de/leipzig/projects/namav) <br> Nachhaltige Mobilität und städtebauliche Qualität durch Automatisierung im Verkehr (Leipzig)
 - [RVR](/projects/2021/rvr) <br> "Öffentliches" Modell für den Regionalverband Ruhr
 - [Sounding Board](https://vsp.berlin/sounding-board/) <br> Verkehrsmaßnahmen und deren Einsparung von CO2-Emissionen
