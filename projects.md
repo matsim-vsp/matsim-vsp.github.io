@@ -27,6 +27,7 @@ Weitere Projekte sind [hier](https://www.tu.berlin/vsp/forschung/projekte/laufen
 
 <!-- I kept the above links since they might be interesting for the corresponding sub-pages.  kai, nov'23 -->
 
+- [ZEZ (PIK)](/projects/2025/ZEZ)
 - [AVÖV (BMBF)](/projects/2018/AVOeV)
 - [Big Data (SNF)](/projects/2017/BigData)
 - [IDEAS (Lund U)](/projects/2018/IDEAS)
