@@ -2,53 +2,45 @@
 title: Episerve - 
 ---
 
-{% include i18n/i18n %}
-
-<div class="invert-images" markdown=1>
-
-![©palm4u.org](/projects/2020/MOSAIK-2_logo.jpg)
-_©palm4u.org_
-
 ## Projektbeschreibung
 
-\[English summary below\]
+Siehe auch: [https://monid.net/episerve/](https://monid.net/episerve/)
 
-<ca. 1 paragraph on episerve as a whole>
+**Epidemic Simulation & Data Service Platform** (Plattform für Epidemiesimulation und Datendienste: Die Architektur der Vorsorge – Integration von Mobilitäts-, sozialen Dynamik- und Infektionsdaten)
 
-<ca. 1 paragraph on WP2>
-  
+### Projektinhalte und Ziele
+**Ziel:** Die Konzeption, Validierung und Implementierung einer nachhaltigen Echtzeit-Simulationsplattform für Epidemien, die heterogene Datenströme und Multiskalen-Modellierung integriert – zur Ermöglichung zeitnaher, evidenzbasierter Entscheidungsfindung im Bereich der öffentlichen Gesundheit.
+
+Aufbauend auf Infrastrukturtechnologien, die in früheren Großprojekten entwickelt wurden, integriert EPISERVE traditionelle biologische Überwachungsdaten mit neuartigen Datenströmen aus den Bereichen Soziales und Verhalten. Dies versetzt die Modelle in die Lage, nicht nur die Dynamiken der Virusübertragung, sondern auch die Verhaltensreaktionen der Bevölkerung abzubilden.
+
+### Projektaufbau
+
+**AP2:** Der MATSim-EpiSim-Kern. Vom „Krisencode“ zum nachhaltigen Software-Engineering. Der Kern des MATSim-EpiSim-Frameworks wird professionalisiert. Dies umfasst ein umfassendes Code-Audit sowie die Implementierung KI-gesteuerter Pipelines, die das Modell automatisch anhand eingehender RKI-Daten kalibrieren und so manuelle Arbeitsschritte eliminieren.
 
 ## Förderung
 
-[BMBF–Bundesministerium für Bildung und Forschung](https://www.bmbf.de/)
+[BMFTR–Bundesministerium für Forschung, Technologie und Raumfahrt](https://www.bmftr.bund.de/)
 
-Förderkennzeichen: <FKZ>
+Förderkennzeichen: 031L0324B
 
 ## Leitung
 
-[Prof. Dr. Kai Nagel](https://www.tu.berlin/vsp/ueber-uns/fachgebietsleitung), TU Berlin
-
-<add Sydney>
+[Prof. Dr. Kai Nagel](https://www.tu.berlin/vsp/ueber-uns/fachgebietsleitung), TU Berlin, Projektleitung
+[Sydney Paltra](https://www.tu.berlin/vsp/ueber-uns/team), TU Berlin, Wiss. Mitarbeiterin
+[Yaroslav Smirnov](https://www.tu.berlin/vsp/ueber-uns/team), TU Berlin, Wiss. Mitarbeiter
 
 ## Projektpartner\*innen
 
-<bitte eintragen>
-
--   Deutsches Zentrum für Luft- und Raumfahrt e.V.
--   Humboldt-Universität zu Berlin
--   Deutscher Wetterdienst
--   Ludwig-Maximilians-Universität München
--   Ingenieurgesellschaft Prof. Sieker mbH
--   Karlsruher Institut für Technologie
--   Freie Universität Berlin
--   Leibniz Universität Hannover
+- Konsortiumsleitung: [Dr. Tim Conrad](http://www.zib.de/de/members/conrad), [ZIB Berlin](https://episerve.zib.de/)
+- Freie Universität Berlin, [Prof. Dr. v. Kleist](https://systems-pharmacology.de/)
+- Deutsches Zentrum für Luft- und Raumfahrt e.V., Dr. Kühn
+- Robert Koch Institut Berlin, Dr. Oh
+- Assoziierter Projektpartner: Wroclaw University of Science and Technology, Prof. Dr. Krüger
 
 ## Projektseite
 
-<Verweis auf Tims Webseite sowohl sie da ist>
+- (Projektseite)[https://episerve.zib.de/]
 
-<Verweis auf Webseite beim Projektträger, falls es eine gibt>
+- Beschreibung des Verbundsprojekts auf der Seite des [BMFTR](https://www.gesundheitsforschung-bmftr.de/de/modellierungsnetz-episerve-daten-und-simulationsplattform-zur-unterstutzung-von-analysen-19549.php)
 
-see [here](https://palm.muk.uni-hannover.de/mosaik).  
-  
-For the full BMBF programme "Urban Climate Under Change" click [here](http://www.uc2-program.org/en).
+- Beschreibung des Verbundprojekts auf der Seite des **Modellierungsnetzwerks für schwere Infektionskrankheiten** [(MONID)](https://monid.net/episerve/)
